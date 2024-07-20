@@ -43,13 +43,13 @@ def index():
         session['question_index'] = 0
         session['score'] = 0
         session['answers'] = []  # Initialize the answers list
-        return redirect(url_for('quiz'))
+        return redirect(url_for('quiz', _external=True))
     return render_template('index.html')
 
 @app.route('/quiz', methods=['GET', 'POST'])
 def quiz():
     if 'username' not in session:
-        return redirect(url_for('index'))
+        return redirect(url_for('index', _external=True))
 
     if request.method == 'POST':
         answer = request.form.get('answer')
@@ -64,7 +64,7 @@ def quiz():
 
         session['question_index'] += 1
         if session['question_index'] >= len(session['questions']):
-            return redirect(url_for('result'))
+            return redirect(url_for('result', _external=True))
 
     current_question_index = session.get('question_index', 0)
     if current_question_index < len(session['questions']):
@@ -76,12 +76,12 @@ def quiz():
         current_question['options'] = options
 
         return render_template('quiz.html', question=current_question, question_number=current_question_index + 1)
-    return redirect(url_for('result'))
+    return redirect(url_for('result', _external=True))
 
 @app.route('/result')
 def result():
     if 'username' not in session:
-        return redirect(url_for('index'))
+        return redirect(url_for('index', _external=True))
     
     score = session.get('score', 0)
     username = session.get('username')
