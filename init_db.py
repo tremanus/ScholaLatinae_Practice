@@ -1,11 +1,12 @@
 import psycopg2
+import os
 from psycopg2 import sql
 
-# Define PostgreSQL connection parameters
-DB_HOST = 'localhost'
-DB_NAME = 'quiz_app'
-DB_USER = 'quiz_user'
-DB_PASSWORD = 'your_password'
+# Load PostgreSQL connection parameters from environment variables
+DB_HOST = os.getenv('DB_HOST', 'localhost')
+DB_NAME = os.getenv('DB_NAME', 'quiz_app')
+DB_USER = os.getenv('DB_USER', 'quiz_user')
+DB_PASSWORD = os.getenv('DB_PASSWORD', 'your_password')
 
 def get_db_connection():
     conn = psycopg2.connect(

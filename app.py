@@ -3,16 +3,17 @@ import json
 import random
 from datetime import datetime
 import psycopg2
+import os
 from flask_cors import CORS  # Import CORS
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key'  # Replace with a real secret key
+app.secret_key = os.getenv('SECRET_KEY', 'your_secret_key')  # Use environment variable or default
 
 # Initialize CORS
 CORS(app, resources={r"/*": {"origins": "*"}})  # Allow all origins; adjust as needed
 
 # Database configuration
-DATABASE_URL = 'postgresql://username:password@localhost:5432/yourdbname'
+DATABASE_URL = os.getenv('DATABASE_URL', 'postgresql://username:password@localhost:5432/yourdbname')
 
 # Load questions from a JSON file
 def load_questions():
@@ -91,8 +92,12 @@ def leaderboard():
     results = get_leaderboard()
     return render_template('leaderboard.html', results=results)
 
-def save_result(username, score):
+def get_db_connection():
     conn = psycopg2.connect(DATABASE_URL)
+    return conn
+
+def save_result(username, score):
+    conn = get_db_connection()
     cursor = conn.cursor()
 
     # Check if user already exists
@@ -107,19 +112,20 @@ def save_result(username, score):
             UPDATE results
             SET score = score + %s, timestamp = %s
             WHERE username = %s
-        ''', (score, datetime.now().isoformat(), username))
+        ''', (score, datetime.now(), username))
     else:
         # Insert new user
         cursor.execute('''
             INSERT INTO results (username, score, timestamp)
             VALUES (%s, %s, %s)
-        ''', (username, score, datetime.now().isoformat()))
+        ''', (username, score, datetime.now()))
 
     conn.commit()
+    cursor.close()
     conn.close()
 
 def get_leaderboard():
-    conn = psycopg2.connect(DATABASE_URL)
+    conn = get_db_connection()
     cursor = conn.cursor()
     cursor.execute('''
         SELECT username, score
@@ -128,6 +134,7 @@ def get_leaderboard():
         LIMIT 10
     ''')
     rows = cursor.fetchall()
+    cursor.close()
     conn.close()
     return rows
 
