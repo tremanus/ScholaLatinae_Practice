@@ -13,7 +13,21 @@ app.secret_key = os.getenv('SECRET_KEY', 'your_secret_key')  # Use environment v
 CORS(app, resources={r"/*": {"origins": "*"}})  # Allow all origins; adjust as needed
 
 # Database configuration
-DATABASE_URL = os.getenv('DATABASE_URL', 'postgresql://username:password@localhost:5432/yourdbname')
+DB_HOST = os.getenv('DB_HOST', 'localhost')
+DB_PORT = os.getenv('DB_PORT', '5431')
+DB_NAME = os.getenv('DB_NAME', 'quiz_app')
+DB_USER = os.getenv('DB_USER', 'quiz_user')
+DB_PASSWORD = os.getenv('DB_PASSWORD', 'your_password')
+
+def get_db_connection():
+    conn = psycopg2.connect(
+        host=DB_HOST,
+        port=DB_PORT,
+        database=DB_NAME,
+        user=DB_USER,
+        password=DB_PASSWORD
+    )
+    return conn
 
 # Load questions from a JSON file
 def load_questions():
@@ -91,10 +105,6 @@ def result():
 def leaderboard():
     results = get_leaderboard()
     return render_template('leaderboard.html', results=results)
-
-def get_db_connection():
-    conn = psycopg2.connect(DATABASE_URL)
-    return conn
 
 def save_result(username, score):
     conn = get_db_connection()
