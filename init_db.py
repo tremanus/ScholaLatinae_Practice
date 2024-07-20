@@ -1,21 +1,11 @@
 import psycopg2
 import os
 
-# Define PostgreSQL connection parameters
-DB_HOST = 'localhost'
-DB_PORT = '5431'  # Port number you set
-DB_NAME = 'quiz_app'
-DB_USER = 'biyabrook'
-DB_PASSWORD = 'your_password'
+# Retrieve the database URL from environment variables
+DATABASE_URL = os.getenv('DATABASE_URL', 'postgresql://biyabrook:your_password@localhost:5431/quiz_app')
 
 def get_db_connection():
-    conn = psycopg2.connect(
-        host=DB_HOST,
-        port=DB_PORT,
-        database=DB_NAME,
-        user=DB_USER,
-        password=DB_PASSWORD
-    )
+    conn = psycopg2.connect(DATABASE_URL)
     return conn
 
 def init_db():

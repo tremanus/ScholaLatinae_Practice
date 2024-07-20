@@ -4,7 +4,7 @@ import random
 from datetime import datetime
 import psycopg2
 import os
-from flask_cors import CORS  # Import CORS
+from flask_cors import CORS
 
 app = Flask(__name__)
 app.secret_key = os.getenv('SECRET_KEY', 'your_secret_key')  # Use environment variable or default
@@ -12,21 +12,11 @@ app.secret_key = os.getenv('SECRET_KEY', 'your_secret_key')  # Use environment v
 # Initialize CORS
 CORS(app, resources={r"/*": {"origins": "*"}})  # Allow all origins; adjust as needed
 
-# Database configuration
-DB_HOST = os.getenv('DB_HOST', 'localhost')
-DB_PORT = os.getenv('DB_PORT', '5431')
-DB_NAME = os.getenv('DB_NAME', 'quiz_app')
-DB_USER = os.getenv('DB_USER', 'quiz_user')
-DB_PASSWORD = os.getenv('DB_PASSWORD', 'your_password')
+# Retrieve database configuration from environment variables
+DATABASE_URL = os.getenv('DATABASE_URL', 'postgresql://biyabrook:your_password@localhost:5431/quiz_app')
 
 def get_db_connection():
-    conn = psycopg2.connect(
-        host=DB_HOST,
-        port=DB_PORT,
-        database=DB_NAME,
-        user=DB_USER,
-        password=DB_PASSWORD
-    )
+    conn = psycopg2.connect(DATABASE_URL)
     return conn
 
 # Load questions from a JSON file
