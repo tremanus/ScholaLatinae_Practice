@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Full viewport height */
+            background-color: #fff; /* Optional: for better visibility */
+        }
+
+        .container {
+            text-align: center;
+            background: #E7D4F0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px; /* Adjusted width for better proportion */
+            height: auto; /* Adjust height to fit content */
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 30px; /* Reduced margin for better alignment */
+            font-size: 24px;
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 30px; /* Reduced margin for better spacing */
+        }
+
+        a {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 30px; /* Increased padding for larger button */
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 18px; /* Larger font size */
+            font-weight: bold; /* Optional: for emphasis */
+        }
+
+        a:hover {
+            background-color: #45a049;
+        }
+
+        img {
+            width: 80%; /* Adjusted width to fit well within container */
+            height: auto;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz Result</h1>
+        <img src="https://i.ibb.co/nMphdZ6/image.png" alt="Quiz Image">
+        <p>{{ username }}, your score is: {{ score }} out of 10!</p>
+        <a href="/leaderboard" class="button">View Leaderboard</a>
+        <a href="{{ url_for('index') }}">Take Again</a>
+    </div>
+</body>
+</html>

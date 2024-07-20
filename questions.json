@@ -1,0 +1,185 @@
+{
+    "questions": [
+      {
+        "question": "The tourists amble along the path. Based on its Latin root, amble means:",
+        "options": ["run", "laugh", "sit", "walk"],
+        "correct_answer": "walk"
+      },
+      {
+        "question": "Ego dē Olympō ad terram dēscendō. Sum nūntius et deus Rōmānus. Quis sum?",
+        "options": ["Mercurius", "Neptūnus", "Mars", "Apollō"],
+        "correct_answer": "Mercurius"
+      },
+      {
+        "question": "Based on its Latin root, Spain’s Canary Islands had a large number of:",
+        "options": ["horses", "dogs", "pigs", "snakes"],
+        "correct_answer": "dogs"
+      },
+      {
+        "question": "Which woodland deity would a Roman call upon while hunting?",
+        "options": ["Mars", "Venus", "Bacchus", "Diana"],
+        "correct_answer": "Diana"
+      },
+      {
+        "question": "Patrōnus sum. In vīllā prope ātrium labōrō et semper scrībō. Multōs librōs et epistulās habeō. Ubi sum?",
+        "options": ["in tablīnō", "in culīnā", "in monte", "in flūmine"],
+        "correct_answer": "in tablīnō"
+      },
+      {
+        "question": "Why would you use the Latin abbreviation P.S. (post scriptum) in an email?",
+        "options": ["to greet the recipient", "to add something after the message", "to introduce the subject of the message", "to provide an example"],
+        "correct_answer": "to add something after the message"
+      },
+      {
+        "question": "What did a Roman call multi-level apartment buildings in the city?",
+        "options": ["īnsulae", "fora", "templa", "thermae"],
+        "correct_answer": "īnsulae"
+      },
+      {
+        "question": "When teachers say “Meā culpā,” what are they indicating?",
+        "options": ["They are admitting a mistake.", "It is the end of class.", "There is a new assignment.", "It is time for partner work."],
+        "correct_answer": "They are admitting a mistake."
+      },
+      {
+        "question": "Septem nautae <u>ab Italiā</u> nāvigābant.",
+        "options": ["around Italy", "to Italy", "from Italy", "near Italy"],
+        "correct_answer": "from Italy"
+      },
+      {
+        "question": "Sed <u>hodiē</u> ūnus nauta sōlus est in parvā īnsulā.",
+        "options": ["today", "always", "now", "however"],
+        "correct_answer": "today"
+      },
+      {
+        "question": "Nauta, nōmine Decimus, <u>est</u> perterritus.",
+        "options": ["to be", "are", "was", "is"],
+        "correct_answer": "is"
+      },
+      {
+        "question": "Nauta cibum nōn videt <u>et</u> aquam nōn habet.",
+        "options": ["or", "but", "not", "and"],
+        "correct_answer": "and"
+      },
+      {
+        "question": "Ecce! <u>Magna silva</u> est in parvā īnsulā.",
+        "options": ["In a large forest", "A large forest", "Across the large forest", "From the large forest"],
+        "correct_answer": "A large forest"
+      },
+      {
+        "question": "<u>Per magnam</u> silvam timidē ambulat.",
+        "options": ["Through the large forest", "Near the large forest", "Out of the large forest", "The large forest"],
+        "correct_answer": "Through the large forest"
+      },
+      {
+        "question": "Nauta puellam in silvā <u>videt.</u>",
+        "options": ["was seeing", "were seeing", "sees", "to see"],
+        "correct_answer": "sees"
+      },
+      {
+        "question": "Decimus rogat, <u>“Quid nōmen est tibi?”</u>",
+        "options": ["What are you doing?", "What is your name?", "Where are you?", "Where are you going?"],
+        "correct_answer": "What is your name?"
+      },
+      {
+        "question": "Decimus rogat, “<u>Ubi</u> habitās?”",
+        "options": ["Who", "What", "Where", "Why"],
+        "correct_answer": "Where"
+      },
+      {
+        "question": "Tum Decimus rogat, “<u>Habēsne</u> aquam?”",
+        "options": ["Where do you have", "Do you have", "Why do you have", "Who has"],
+        "correct_answer": "Do you have"
+      },
+      {
+        "question": "Tiberīna respondet, “<u>Ita vērō.</u> Ego et pater aquam habēmus.”",
+        "options": ["Hello", "Goodbye", "No", "Yes"],
+        "correct_answer": "Yes"
+      },
+      {
+        "question": "Decimus dīcit, “<u>Ego</u> et multī nautae ad Graeciam nāvigābāmus.”",
+        "options": ["you", "we", "he", "I"],
+        "correct_answer": "I"
+      },
+      {
+        "question": "Who was the Roman goddess of marriage and the queen of the gods?",
+        "options": ["Minerva", "Vesta", "Diana", "Juno"],
+        "correct_answer": "Juno"
+      },
+      {
+        "question": "What should you say when leaving a group of friends?",
+        "options": ["Cūr?", "Quot?", "Salvē!", "Valēte!"],
+        "correct_answer": "Valēte!"
+      },
+      {
+        "question": "What was the paterfamiliās in charge of in ancient Rome?",
+        "options": ["the household", "the government", "the army", "the gladiator school"],
+        "correct_answer": "the household"
+      },
+      {
+        "question": "According to its Latin root, if something is a multi-unit structure, what does it have?",
+        "options": ["small units", "square units", "many units", "empty units"],
+        "correct_answer": "many units"
+      },
+      {
+        "question": "Solve the following equation: V + V = _____.",
+        "options": ["III", "VI", "VIII", "X"],
+        "correct_answer": "X"
+      },
+      {
+        "question": "Stellar, solar, and lunar all describe objects that can be found where?",
+        "options": ["in caelō", "in silvā", "in rīvō", "in forō"],
+        "correct_answer": "in caelō"
+      },
+      {
+        "question": "If you are told that you have an a.m. meeting, what do you learn about the meeting?",
+        "options": ["It’s on a boat.", "It's before noon.", "It's at your house.", "It's after dinner."],
+        "correct_answer": "It's before noon."
+      },
+      {
+        "question": "Why would a worker typically receive a bonus?",
+        "options": ["Their work was late.", "Their work was average.", "Their work needed correction.", "Their work was good."],
+        "correct_answer": "Their work was good."
+      },
+      {
+        "question": "What was the most popular and largest location for chariot racing in the city of Rome?",
+        "options": ["Colosseum", "Circus Maximus", "Forum", "Pantheon"],
+        "correct_answer": "Circus Maximus"
+      },
+      {
+        "question": "Which god ruled the Underworld and possessed its mineral wealth?",
+        "options": ["Mars", "Mercury", "Pluto", "Apollo"],
+        "correct_answer": "Pluto"
+      },
+      {
+        "question": "What legendary Trojan led refugees from the fall of Troy across the Mediterranean Sea to establish a homeland in Italy?",
+        "options": ["Aeneas", "Achilles", "Hector", "Romulus"],
+        "correct_answer": "Aeneas"
+      },
+      {
+        "question": "What area was NOT physically connected to the Roman Empire by land?",
+        "options": ["Hispānia", "Britannia", "Germānia", "Gallia"],
+        "correct_answer": "Britannia"
+      },
+      {
+        "question": "Which Latin phrase could you use to encourage someone to hurry?",
+        "options": ["cum laude", "e pluribus unum", "nota bene", "tempus fugit"],
+        "correct_answer": "tempus fugit"
+      },
+      {
+        "question": "When a list ends with etc., it indicates that",
+        "options": ["the list is very important", "the list is complete", "there are more items", "the last item is incorrect"],
+        "correct_answer": "there are more items"
+      },
+      {
+        "question": "Solve the following equation: V - I =",
+        "options": ["III", "IV", "VI", "IX"],
+        "correct_answer": "IV"
+      },
+      {
+        "question": "October, octet, and octave are all related to the Latin word for",
+        "options": ["eye", "ocean", "eight", "music"],
+        "correct_answer": "eight"
+      }
+    ]
+  }
+  

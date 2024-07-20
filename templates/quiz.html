@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #fff;
+        }
+
+        .container {
+            text-align: center;
+            background: #E7D4F0;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 900px;
+        }
+
+        .question-box {
+            margin-bottom: 20px;
+            position: relative;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            position: relative;
+            padding: 20px;
+            border: 1px solid black;
+            display: inline-block;
+            background-color: #fff;
+            font-size: 24px;
+            line-height: 1.4;
+        }
+
+        .question-number {
+            position: absolute;
+            top: -20px;
+            left: 20px;
+            background-color: #d1e3fd;
+            padding: 5px 10px;
+            border: 1px solid black;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .option-container {
+            background-color: #fff;
+            border: 0;
+            border-radius: 4px;
+            padding: 10px;
+            margin-bottom: 10px;
+            font-size: 18px;
+            text-align: left;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            width: 90%;
+        }
+
+        .option-container:hover {
+            background-color: #f1f1f1;
+        }
+
+        .selected {
+            background-color: #E7E7E7;
+        }
+
+        .correct {
+            background-color: #c8e6c9;
+        }
+
+        .incorrect {
+            background-color: #ffcccb;
+        }
+
+        .no-hover:hover {
+            background-color: transparent;
+        }
+
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: black;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 4px;
+            width: 30%;
+            margin-top: 20px;
+            border: 1px solid black;
+            display: none; /* Initially hidden */
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="question-box">
+            <h1>
+                <span class="question-number">Q{{ question_number }}</span>
+                {{ question['question']|safe }}
+            </h1>
+        </div>
+        <form method="POST">
+            {% for option in question['options'] %}
+                <div class="option-container" data-value="{{ option }}">
+                    {{ option }}
+                </div>
+            {% endfor %}
+            <input type="hidden" name="answer" id="selected-answer" required>
+            <input type="submit" value="Next" id="next-button">
+        </form>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const options = document.querySelectorAll('.option-container');
+            const selectedAnswerInput = document.getElementById('selected-answer');
+            const nextButton = document.getElementById('next-button');
+            const correctAnswer = "{{ question['correct_answer'] }}";
+
+            options.forEach(option => {
+                option.addEventListener('click', () => {
+                    // Remove classes from all options
+                    options.forEach(opt => opt.classList.remove('selected', 'correct', 'incorrect', 'no-hover'));
+
+                    const selectedValue = option.getAttribute('data-value');
+                    option.classList.add('selected');
+                    selectedAnswerInput.value = selectedValue;
+
+                    // Highlight the selected answer
+                    if (selectedValue === correctAnswer) {
+                        option.classList.add('correct');
+                    } else {
+                        option.classList.add('incorrect');
+                        // Highlight the correct answer
+                        options.forEach(opt => {
+                            if (opt.getAttribute('data-value') === correctAnswer) {
+                                opt.classList.add('correct');
+                            }
+                        });
+                    }
+
+                    // Prevent hover effect on the selected option
+                    option.classList.add('no-hover');
+
+                    // Show the "Next" button
+                    nextButton.style.display = 'block';
+                });
+            });
+        });
+    </script>
+</body>
+</html>
