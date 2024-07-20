@@ -1,11 +1,10 @@
 import psycopg2
 import os
 
-# Retrieve the database URL from environment variables
-DATABASE_URL = os.getenv('DATABASE_URL', 'postgresql://biyabrook:your_password@localhost:5431/quiz_app')
+POSTGRES_URL = os.getenv('POSTGRES_URL', 'postgres://default:uUi5dkVcTjH8@ep-sweet-mode-a42cjtbt-pooler.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require')
 
 def get_db_connection():
-    conn = psycopg2.connect(DATABASE_URL)
+    conn = psycopg2.connect(POSTGRES_URL)
     return conn
 
 def init_db():

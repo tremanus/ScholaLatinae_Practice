@@ -12,11 +12,11 @@ app.secret_key = os.getenv('SECRET_KEY', 'your_secret_key')  # Use environment v
 # Initialize CORS
 CORS(app, resources={r"/*": {"origins": "*"}})  # Allow all origins; adjust as needed
 
-# Retrieve database configuration from environment variables
-DATABASE_URL = os.getenv('DATABASE_URL', 'postgresql://biyabrook:your_password@localhost:5431/quiz_app')
+# Database configuration
+POSTGRES_URL = os.getenv('POSTGRES_URL', 'postgres://default:uUi5dkVcTjH8@ep-sweet-mode-a42cjtbt-pooler.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require')
 
 def get_db_connection():
-    conn = psycopg2.connect(DATABASE_URL)
+    conn = psycopg2.connect(POSTGRES_URL)
     return conn
 
 # Load questions from a JSON file
