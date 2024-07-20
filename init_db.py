@@ -5,7 +5,7 @@ import os
 DB_HOST = 'localhost'
 DB_PORT = '5431'  # Port number you set
 DB_NAME = 'quiz_app'
-DB_USER = 'quiz_user'
+DB_USER = 'biyabrook'
 DB_PASSWORD = 'your_password'
 
 def get_db_connection():
