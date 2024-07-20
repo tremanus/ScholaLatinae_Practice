@@ -1,17 +1,39 @@
-import sqlite3
+import psycopg2
+from psycopg2 import sql
 
-conn = sqlite3.connect('results.db')
-cursor = conn.cursor()
+# Define PostgreSQL connection parameters
+DB_HOST = 'localhost'
+DB_NAME = 'quiz_app'
+DB_USER = 'quiz_user'
+DB_PASSWORD = 'your_password'
 
-# Create the results table if it doesn't exist
-cursor.execute('''
-    CREATE TABLE IF NOT EXISTS results (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        username TEXT NOT NULL,
-        score INTEGER NOT NULL,
-        timestamp TEXT NOT NULL
+def get_db_connection():
+    conn = psycopg2.connect(
+        host=DB_HOST,
+        database=DB_NAME,
+        user=DB_USER,
+        password=DB_PASSWORD
     )
-''')
+    return conn
 
-conn.commit()
-conn.close()
+def init_db():
+    conn = get_db_connection()
+    cursor = conn.cursor()
+
+    # Create the results table if it doesn't exist
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS results (
+            id SERIAL PRIMARY KEY,
+            username VARCHAR(50) NOT NULL,
+            score INTEGER NOT NULL,
+            timestamp TIMESTAMP NOT NULL
+        );
+    ''')
+
+    conn.commit()
+    cursor.close()
+    conn.close()
+    print("Database initialized.")
+
+if __name__ == '__main__':
+    init_db()

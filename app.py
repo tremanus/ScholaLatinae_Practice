@@ -2,7 +2,7 @@ from flask import Flask, render_template, request, redirect, url_for, session
 import json
 import random
 from datetime import datetime
-import sqlite3
+import psycopg2
 from flask_cors import CORS  # Import CORS
 
 app = Flask(__name__)
@@ -10,6 +10,9 @@ app.secret_key = 'your_secret_key'  # Replace with a real secret key
 
 # Initialize CORS
 CORS(app, resources={r"/*": {"origins": "*"}})  # Allow all origins; adjust as needed
+
+# Database configuration
+DATABASE_URL = 'postgresql://username:password@localhost:5432/yourdbname'
 
 # Load questions from a JSON file
 def load_questions():
@@ -89,12 +92,12 @@ def leaderboard():
     return render_template('leaderboard.html', results=results)
 
 def save_result(username, score):
-    conn = sqlite3.connect('results.db')
+    conn = psycopg2.connect(DATABASE_URL)
     cursor = conn.cursor()
 
     # Check if user already exists
     cursor.execute('''
-        SELECT score FROM results WHERE username = ?
+        SELECT score FROM results WHERE username = %s
     ''', (username,))
     existing_score = cursor.fetchone()
 
@@ -102,21 +105,21 @@ def save_result(username, score):
         # Update existing user's score
         cursor.execute('''
             UPDATE results
-            SET score = score + ?, timestamp = ?
-            WHERE username = ?
+            SET score = score + %s, timestamp = %s
+            WHERE username = %s
         ''', (score, datetime.now().isoformat(), username))
     else:
         # Insert new user
         cursor.execute('''
             INSERT INTO results (username, score, timestamp)
-            VALUES (?, ?, ?)
+            VALUES (%s, %s, %s)
         ''', (username, score, datetime.now().isoformat()))
 
     conn.commit()
     conn.close()
 
 def get_leaderboard():
-    conn = sqlite3.connect('results.db')
+    conn = psycopg2.connect(DATABASE_URL)
     cursor = conn.cursor()
     cursor.execute('''
         SELECT username, score
