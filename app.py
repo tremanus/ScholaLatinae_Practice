@@ -3,9 +3,13 @@ import json
 import random
 from datetime import datetime
 import sqlite3
+from flask_cors import CORS  # Import CORS
 
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'  # Replace with a real secret key
+
+# Initialize CORS
+CORS(app, resources={r"/*": {"origins": "*"}})  # Allow all origins; adjust as needed
 
 # Load questions from a JSON file
 def load_questions():
