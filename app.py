@@ -98,7 +98,7 @@ def result():
 @app.route('/leaderboard')
 def leaderboard():
     results = get_leaderboard()
-    return render_template('beginner-leaderboard.html', results=results)
+    return render_template('leaderboard.html', results=results)
 
 def save_result(username, score):
     conn = get_db_connection()
