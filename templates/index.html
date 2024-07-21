@@ -5,8 +5,71 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz</title>
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap');
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            font-size: 18px;
+        }
+
+        .header .left {
+            display: flex;
+            align-items: center;
+        }
+
+        .header .logo {
+            display: flex;
+            align-items: center;
+        }
+
+        .header .logo img {
+            height: 50px; /* Adjust the height as needed */
+            margin-right: 10px;
+        }
+
+        .header nav {
+            display: flex;
+            align-items: center;
+            margin-left: 10px; /* Adjust the space between logo and nav links */
+        }
+
+        .header nav a {
+            margin: 0 10px; /* Reduced margin to bring links closer */
+            text-decoration: none;
+            color: #333;
+            font-size: 18px;
+        }
+
+        .header nav a:hover {
+            text-decoration: underline;
+        }
+
+        .header .buttons {
+            display: flex;
+            align-items: center;
+            margin-right: 20px;
+        }
+
+        .header .buttons a {
+            margin-left: 10px;
+            padding: 2px 10px;
+            text-decoration: none;
+            color: #333;
+            background-color: #d3b3f3; /* Light purple color */
+            border: 1px solid #000;
+            border-radius: 0px;
+            font-size: 18px;
+        }
+
+        .header .buttons a:hover {
+            background-color: #e4c4ff; /* Lighter purple color */
+        }
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Cormorant Garamond', sans-serif;
             margin: 0;
             padding: 0;
             display: flex;
@@ -71,6 +134,23 @@
     </style>
 </head>
 <body>
+    <header class="header">
+        <div class="left">
+            <div class="logo">
+                <img src="https://i.ibb.co/8mKzpLC/Screenshot-2024-07-20-at-1-39-55-PM.png" alt="Logo">
+            </div>
+            <nav>
+                <a href="#">Mission</a>
+                <a href="#">About Us</a>
+                <a href="#">Donate</a>
+                <a href="#">Contact</a>
+            </nav>
+        </div>
+        <div class="buttons">
+            <a href="#">Learn</a>
+            <a href="#">Account</a>
+        </div>
+    </header>
     <div class="container">
         <h1>Beginner - ScholaLatinae</h1>
         <img src="https://i.ibb.co/82YZ9f2/image.png" alt="image" border="0">
