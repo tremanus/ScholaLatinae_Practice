@@ -7,6 +7,7 @@
     <link rel="icon" type="image/x-icon" href="https://i.ibb.co/RcgBb57/Screenshot-2024-07-20-at-9-40-49-PM.png">
     <link rel="stylesheet" href="{{ url_for('static', filename='header.css') }}">
     <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap');
         body {
             font-family: 'Cormorant Garamond', sans-serif;
             margin: 0;
@@ -20,13 +21,14 @@
 
         .container {
             text-align: center;
-            margin-top: 50px;
             background: #E7D4F0;
+            margin-top: 50px; /* Space between header and container */
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            width: 400px; /* Adjusted width for better proportion */
-            height: auto; /* Adjust height to fit content */
+            width: 500px; /* Fixed width */
+            margin-left: auto;
+            margin-right: auto;
         }
 
         h1 {
