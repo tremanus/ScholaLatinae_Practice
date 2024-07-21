@@ -34,8 +34,12 @@ def load_questions():
 
 questions = load_questions()
 
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['GET'])
 def index():
+    return render_template('index.html')
+
+@app.route('/beginner', methods=['GET', 'POST'])
+def beginner_index():
     if request.method == 'POST':
         username = request.form['username']
         session['username'] = username
@@ -44,12 +48,12 @@ def index():
         session['score'] = 0
         session['answers'] = []  # Initialize the answers list
         return redirect(url_for('quiz', _external=True))
-    return render_template('index.html')
+    return render_template('beginner-index.html')
 
 @app.route('/quiz', methods=['GET', 'POST'])
 def quiz():
     if 'username' not in session:
-        return redirect(url_for('index', _external=True))
+        return redirect(url_for('beginner_index', _external=True))
 
     if request.method == 'POST':
         answer = request.form.get('answer')
@@ -75,13 +79,13 @@ def quiz():
         random.shuffle(options)
         current_question['options'] = options
 
-        return render_template('quiz.html', question=current_question, question_number=current_question_index + 1)
+        return render_template('beginner-quiz.html', question=current_question, question_number=current_question_index + 1)
     return redirect(url_for('result', _external=True))
 
 @app.route('/result')
 def result():
     if 'username' not in session:
-        return redirect(url_for('index', _external=True))
+        return redirect(url_for('beginner_index', _external=True))
     
     score = session.get('score', 0)
     username = session.get('username')
@@ -89,12 +93,12 @@ def result():
     # Save result to database
     save_result(username, score)
     
-    return render_template('result.html', score=score, username=username)
+    return render_template('beginner-result.html', score=score, username=username)
 
 @app.route('/leaderboard')
 def leaderboard():
     results = get_leaderboard()
-    return render_template('leaderboard.html', results=results)
+    return render_template('beginner-leaderboard.html', results=results)
 
 def save_result(username, score):
     conn = get_db_connection()

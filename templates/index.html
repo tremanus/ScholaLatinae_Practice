@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz</title>
+    <title>Quiz Selection</title>
     <link rel="icon" type="image/x-icon" href="https://i.ibb.co/RcgBb57/Screenshot-2024-07-20-at-9-40-49-PM.png">
     <link rel="stylesheet" href="{{ url_for('static', filename='header.css') }}">
     <style>
@@ -13,65 +13,60 @@
             font-family: 'Cormorant Garamond', sans-serif;
             margin: 0;
             padding: 0;
+            background-color: #f5f5f5;
             display: flex;
-            flex-direction: column; /* Arrange items in a column */
+            flex-direction: column;
             align-items: center;
-            background-color: #fff; /* Optional: for better visibility */
-            font-weight: 500;
+        }
+        .main-content {
+            margin-top: 60px; /* Adjust based on header height */
+            text-align: center;
         }
 
         .container {
-            text-align: center;
             background: #E7D4F0;
-            margin-top: 50px; /* Space between header and container */
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            width: 500px; /* Fixed width */
+            width: 90%;
+            margin: 0 auto;
+            margin-bottom: 60px;
         }
 
         h1 {
             color: #333;
             margin-bottom: 20px;
+            font-size: 3.5rem;
         }
-
-        img {
-            width: 80%; /* Half the container width */
-            height: auto;
-            margin-bottom: 20px;
-        }
-
-        form {
+        
+        .options {
+            margin-top: 40px;
             display: flex;
-            flex-direction: column;
-            align-items: center;
+            justify-content: space-around;
+            gap: 20px; /* Space between items */
+            flex-wrap: wrap;
         }
 
-        label, input, button {
-            margin-bottom: 15px;
+        .option-container {
+            text-align: center;
+            flex: 1;
+            max-width: 300px; /* Ensures each option is a maximum of 300px wide */
+            margin: 10px;
         }
 
-        input[type="text"] {
-            padding: 10px;
-            font-size: 16px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-            width: 80%;
+        .option {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        #advanced {
+          margin-top: -7px;
         }
 
-        button {
-            background-color: #4CAF50;
-            color: black;
-            border: none;
-            padding: 10px 20px;
-            font-size: 16px;
-            cursor: pointer;
-            border-radius: 4px;
-            width: 50%;
-        }
-
-        button:hover {
-            background-color: #45a049;
+        figcaption {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #555;
         }
     </style>
 </head>
@@ -95,14 +90,26 @@
             <a href="https://scholalatinae.com/profile">Account</a>
         </div>
     </header>
-    <div class="container">
-        <h1>Beginner</h1>
-        <img src="https://i.ibb.co/82YZ9f2/image.png" alt="image" border="0">
-        <form method="POST">
-            <label for="username">Username:</label>
-            <input type="text" id="username" name="username" required autocomplete="username">
-            <button type="submit">Practice</button>
-        </form>
+    <div class="main-content">
+        <div class="container">
+            <h1>Practice - Scholalatinae</h1>
+            <p>Test and <b>improve your Latin skills</b> with high quality practice questions hand-picked from <b>past National Latin Exams</b> and National Junior Classical League Academic tests. As you go along, see where you rank among all users in your level on the <b>automatically updating leaderboard!</b>
+            </p>
+             <div class="options">
+                <div class="option-container">
+                    <img class="option" src="https://i.ibb.co/CbZkLTh/Screenshot-2024-07-21-at-12-45-38-AM.png" alt="Beginner">
+                    <figcaption>Are you new to Latin and just starting off? Practice your budding skills and <b>improve your grammar and vocabulary</b> with questions from past National Latin Exams.</figcaption>
+                </div>
+                <div class="option-container">
+                    <img class="option" src="https://i.ibb.co/ThmjzgX/Screenshot-2024-07-21-at-12-54-27-AM.png" alt="Intermediate">
+                    <figcaption>Build on your foundation with more difficult questions on the <b>Latin Language, Greco-Roman Mythology, and Roman History</b>.</figcaption>
+                </div>
+                <div class="option-container">
+                    <img id="advanced" class="option" src="https://i.ibb.co/34kvqrD/Screenshot-2024-07-21-at-1-04-52-AM.png" alt="Advanced">
+                    <figcaption><b>Challenge yourself</b> and see how you fare against other experienced users. These questions have an emphasis on both Greek and Roman mythology and history.</figcaption>
+                </div>
+            </div>
+      </div>
     </div>
 </body>
 </html>
