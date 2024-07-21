@@ -6,14 +6,26 @@
     <title>Quiz</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap');
+
+        body {
+            font-family: 'Cormorant Garamond', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column; /* Arrange items in a column */
+            align-items: center;
+            background-color: #fff; /* Optional: for better visibility */
+        }
+
         .header {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 20px 20px;
+            padding: 10px 20px;
             background-color: #fff;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
             font-size: 18px;
+            width: 100%;
         }
 
         .header .left {
@@ -27,14 +39,14 @@
         }
 
         .header .logo img {
-            height: 50px; /* Adjust the height as needed */
-            margin-right: 10px;
+            height: 60px; /* Adjust the height as needed */
+            margin: 10px 10px;
         }
 
         .header nav {
             display: flex;
             align-items: center;
-            margin-left: 10px; /* Adjust the space between logo and nav links */
+            margin-left: 5px; /* Adjust the space between logo and nav links */
         }
 
         .header nav a {
@@ -68,21 +80,11 @@
         .header .buttons a:hover {
             background-color: #e4c4ff; /* Lighter purple color */
         }
-        body {
-            font-family: 'Cormorant Garamond', sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Full viewport height */
-            background-color: #fff; /* Optional: for better visibility */
-        }
 
         .container {
             text-align: center;
             background: #E7D4F0;
-            margin-top: 200px;
+            margin-top: 50px; /* Space between header and container */
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -138,18 +140,20 @@
     <header class="header">
         <div class="left">
             <div class="logo">
-                <img src="https://i.ibb.co/8mKzpLC/Screenshot-2024-07-20-at-1-39-55-PM.png" href="scholalatinae.com" alt="Logo">
+                <a href="https://scholalatinae.com">
+                    <img src="https://i.ibb.co/8mKzpLC/Screenshot-2024-07-20-at-1-39-55-PM.png" alt="Logo">
+                </a>
             </div>
             <nav>
-                <a href="scholalatinae.com/mission">Mission</a>
-                <a href="scholalatinae.com/about-us">About Us</a>
-                <a href="scholalatinae.com/donate">Donate</a>
-                <a href="scholalatinae.com/donate">Contact</a>
+                <a href="https://scholalatinae.com/mission">Mission</a>
+                <a href="https://scholalatinae.com/about-us">About Us</a>
+                <a href="https://scholalatinae.com/donate">Donate</a>
+                <a href="https://scholalatinae.com/contact">Contact</a>
             </nav>
         </div>
         <div class="buttons">
-            <a href="scholalatinae.com/learn">Learn</a>
-            <a href="scholalatinae.com/profile">Account</a>
+            <a href="https://scholalatinae.com/learn">Learn</a>
+            <a href="https://scholalatinae.com/profile">Account</a>
         </div>
     </header>
     <div class="container">
@@ -157,7 +161,7 @@
         <img src="https://i.ibb.co/82YZ9f2/image.png" alt="image" border="0">
         <form method="POST">
             <label for="username">Username:</label>
-            <input type="text" id="username" name="username" required autucomplete="username">
+            <input type="text" id="username" name="username" required autocomplete="username">
             <button type="submit">Practice</button>
         </form>
     </div>
