@@ -18,9 +18,11 @@
             flex-direction: column;
             align-items: center;
         }
+
         .main-content {
             margin-top: 60px; /* Adjust based on header height */
             text-align: center;
+            width: 100%;
         }
 
         .container {
@@ -29,6 +31,7 @@
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             width: 90%;
+            max-width: 1200px;
             margin: 0 auto;
             margin-bottom: 60px;
         }
@@ -36,7 +39,7 @@
         h1 {
             color: #333;
             margin-bottom: 20px;
-            font-size: 3.5rem;
+            font-size: 2.5rem; /* Adjusted for better visibility on mobile */
         }
         
         .options {
@@ -59,14 +62,28 @@
             height: auto;
             border-radius: 8px;
         }
-        #advanced {
-            margin-top: -7px;
-        }
 
         figcaption {
             margin-top: 10px;
             font-size: 14px;
             color: #555;
+        }
+
+        /* Mobile styles */
+        @media (max-width: 768px) {
+            .options {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .option-container {
+                margin: 20px 0; /* Adds spacing between stacked items */
+                max-width: 90%; /* Allows images to take more width on small screens */
+            }
+
+            h1 {
+                font-size: 2rem; /* Smaller font size for smaller screens */
+            }
         }
     </style>
 </head>
