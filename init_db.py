@@ -11,7 +11,7 @@ def init_db():
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    # Create the results table with quiz_type
+    # Create the results table with quiz_type if it does not exist
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS results (
             id SERIAL PRIMARY KEY,
@@ -20,6 +20,23 @@ def init_db():
             timestamp TIMESTAMP NOT NULL,
             quiz_type VARCHAR(20) NOT NULL
         );
+    ''')
+
+    # Add quiz_type column if it does not exist
+    cursor.execute('''
+        DO $$
+        BEGIN
+            IF NOT EXISTS (
+                SELECT 1
+                FROM information_schema.columns
+                WHERE table_name='results'
+                AND column_name='quiz_type'
+            ) THEN
+                ALTER TABLE results
+                ADD COLUMN quiz_type VARCHAR(20) NOT NULL;
+            END IF;
+        END
+        $$;
     ''')
 
     conn.commit()
