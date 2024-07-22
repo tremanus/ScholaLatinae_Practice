@@ -49,6 +49,21 @@
         .button {
             margin-right: 20px;
         }
+        @media only screen and (max-width: 600px) {
+            .container {
+                width: 90%; /* Make container 90% width on mobile */
+                padding: 10px;
+            }
+            img {
+                width: 80%; /* Make image fit the container width on mobile */
+            }
+
+            .button {
+                margin: 10px 20px;
+                width: calc(100% - 20px); /* Full width with margin adjustment */
+                text-align: center;
+            }
+        }
     </style>
 </head>
 <body>
