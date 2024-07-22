@@ -20,9 +20,9 @@ def get_db_connection():
     return conn
 
 # Load questions from a JSON file
-def load_questions():
+def load_questions(filename):
     try:
-        with open('questions.json') as f:
+        with open(filename) as f:
             data = json.load(f)
             if isinstance(data.get('questions'), list):
                 return data['questions']
@@ -31,8 +31,6 @@ def load_questions():
     except (FileNotFoundError, json.JSONDecodeError, ValueError) as e:
         print(f"Error loading questions: {e}")
         return []
-
-questions = load_questions()
 
 @app.route('/', methods=['GET'])
 def index():
@@ -43,15 +41,15 @@ def beginner_index():
     if request.method == 'POST':
         username = request.form['username']
         session['username'] = username
-        session['questions'] = random.sample(questions, min(10, len(questions)))  # Get 10 random questions or less if not enough
+        session['questions'] = random.sample(load_questions('beginner_questions.json'), min(10, len(load_questions('beginner_questions.json'))))  # Load beginner questions
         session['question_index'] = 0
         session['score'] = 0
         session['answers'] = []  # Initialize the answers list
-        return redirect(url_for('quiz', _external=True))
+        return redirect(url_for('beginner_quiz', _external=True))
     return render_template('beginner-index.html')
 
-@app.route('/quiz', methods=['GET', 'POST'])
-def quiz():
+@app.route('/beginner-quiz', methods=['GET', 'POST'])
+def beginner_quiz():
     if 'username' not in session:
         return redirect(url_for('beginner_index', _external=True))
 
@@ -68,7 +66,7 @@ def quiz():
 
         session['question_index'] += 1
         if session['question_index'] >= len(session['questions']):
-            return redirect(url_for('result', _external=True))
+            return redirect(url_for('beginner_result', _external=True))
 
     current_question_index = session.get('question_index', 0)
     if current_question_index < len(session['questions']):
@@ -80,10 +78,10 @@ def quiz():
         current_question['options'] = options
 
         return render_template('beginner-quiz.html', question=current_question, question_number=current_question_index + 1)
-    return redirect(url_for('result', _external=True))
+    return redirect(url_for('beginner_result', _external=True))
 
-@app.route('/result')
-def result():
+@app.route('/beginner-result')
+def beginner_result():
     if 'username' not in session:
         return redirect(url_for('beginner_index', _external=True))
     
@@ -91,23 +89,81 @@ def result():
     username = session.get('username')
     
     # Save result to database
-    save_result(username, score)
+    save_result(username, score, 'beginner')
     
     return render_template('beginner-result.html', score=score, username=username)
 
+@app.route('/advanced', methods=['GET', 'POST'])
+def advanced_index():
+    if request.method == 'POST':
+        username = request.form['username']
+        session['username'] = username
+        session['questions'] = random.sample(load_questions('advanced_questions.json'), min(10, len(load_questions('advanced_questions.json'))))  # Load advanced questions
+        session['question_index'] = 0
+        session['score'] = 0
+        session['answers'] = []  # Initialize the answers list
+        return redirect(url_for('advanced_quiz', _external=True))
+    return render_template('advanced-index.html')
+
+@app.route('/advanced-quiz', methods=['GET', 'POST'])
+def advanced_quiz():
+    if 'username' not in session:
+        return redirect(url_for('advanced_index', _external=True))
+
+    if request.method == 'POST':
+        answer = request.form.get('answer')
+        current_question_index = session.get('question_index', 0)
+        current_question = session['questions'][current_question_index]
+        
+        is_correct = answer == current_question['correct_answer']
+        if is_correct:
+            session['score'] += 1
+
+        session['answers'].append((current_question['question'], answer, is_correct, current_question['correct_answer']))
+
+        session['question_index'] += 1
+        if session['question_index'] >= len(session['questions'])):
+            return redirect(url_for('advanced_result', _external=True))
+
+    current_question_index = session.get('question_index', 0)
+    if current_question_index < len(session['questions']):
+        current_question = session['questions'][current_question_index]
+
+        # Shuffle the options
+        options = current_question['options']
+        random.shuffle(options)
+        current_question['options'] = options
+
+        return render_template('advanced-quiz.html', question=current_question, question_number=current_question_index + 1)
+    return redirect(url_for('advanced_result', _external=True))
+
+@app.route('/advanced-result')
+def advanced_result():
+    if 'username' not in session:
+        return redirect(url_for('advanced_index', _external=True))
+    
+    score = session.get('score', 0)
+    username = session.get('username')
+    
+    # Save result to database
+    save_result(username, score, 'advanced')
+    
+    return render_template('advanced-result.html', score=score, username=username)
+
 @app.route('/leaderboard')
 def leaderboard():
-    results = get_leaderboard()
-    return render_template('leaderboard.html', results=results)
+    beginner_results = get_leaderboard('beginner')
+    advanced_results = get_leaderboard('advanced')
+    return render_template('leaderboard.html', beginner_results=beginner_results, advanced_results=advanced_results)
 
-def save_result(username, score):
+def save_result(username, score, quiz_type):
     conn = get_db_connection()
     cursor = conn.cursor()
 
     # Check if user already exists
     cursor.execute('''
-        SELECT score FROM results WHERE username = %s
-    ''', (username,))
+        SELECT score FROM results WHERE username = %s AND quiz_type = %s
+    ''', (username, quiz_type))
     existing_score = cursor.fetchone()
 
     if existing_score:
@@ -115,28 +171,29 @@ def save_result(username, score):
         cursor.execute('''
             UPDATE results
             SET score = score + %s, timestamp = %s
-            WHERE username = %s
-        ''', (score, datetime.now(), username))
+            WHERE username = %s AND quiz_type = %s
+        ''', (score, datetime.now(), username, quiz_type))
     else:
         # Insert new user
         cursor.execute('''
-            INSERT INTO results (username, score, timestamp)
-            VALUES (%s, %s, %s)
-        ''', (username, score, datetime.now()))
+            INSERT INTO results (username, score, timestamp, quiz_type)
+            VALUES (%s, %s, %s, %s)
+        ''', (username, score, datetime.now(), quiz_type))
 
     conn.commit()
     cursor.close()
     conn.close()
 
-def get_leaderboard():
+def get_leaderboard(quiz_type):
     conn = get_db_connection()
     cursor = conn.cursor()
     cursor.execute('''
         SELECT username, score
         FROM results
+        WHERE quiz_type = %s
         ORDER BY score DESC
         LIMIT 10
-    ''')
+    ''', (quiz_type,))
     rows = cursor.fetchall()
     cursor.close()
     conn.close()

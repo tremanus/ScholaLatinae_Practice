@@ -51,6 +51,7 @@
         th {
             background-color: #f4f4f4;
         }
+
         .practice {
             margin-right: 30px;
         }
@@ -60,17 +61,17 @@
     <header class="header">
         <div class="menu-btn" onclick="toggleDropdown()">☰</div>
         <div class="left">
-        <div class="logo">
-            <a href="https://scholalatinae.com">
-                <img src="https://i.ibb.co/8mKzpLC/Screenshot-2024-07-20-at-1-39-55-PM.png" alt="Logo">
-            </a>
-        </div>
-        <nav>
-            <a href="https://scholalatinae.com/mission">Mission</a>
-            <a href="https://scholalatinae.com/about-us">About Us</a>
-            <a href="https://scholalatinae.com/donate">Donate</a>
-            <a href="https://scholalatinae.com/contact">Contact</a>
-        </nav>
+            <div class="logo">
+                <a href="https://scholalatinae.com">
+                    <img src="https://i.ibb.co/8mKzpLC/Screenshot-2024-07-20-at-1-39-55-PM.png" alt="Logo">
+                </a>
+            </div>
+            <nav>
+                <a href="https://scholalatinae.com/mission">Mission</a>
+                <a href="https://scholalatinae.com/about-us">About Us</a>
+                <a href="https://scholalatinae.com/donate">Donate</a>
+                <a href="https://scholalatinae.com/contact">Contact</a>
+            </nav>
         </div>
         <div class="buttons">
             <a href="https://scholalatinae.com/learn">Learn</a>
@@ -89,7 +90,7 @@
         </nav>
     </div>
     <div class="container">
-        <h1>Beginner</h1>
+        <h1>Beginner Leaderboard</h1>
         <table>
             <thead>
                 <tr>
@@ -99,7 +100,7 @@
                 </tr>
             </thead>
             <tbody>
-                {% for result in results %}
+                {% for result in beginner_results %}
                     <tr>
                         <td>{{ loop.index }}</td>
                         <td>{{ result[0] }}</td>
@@ -111,6 +112,29 @@
         <a class="practice" href="/beginner">More Practice</a>
         <a href="{{ url_for('index') }}">Back to all Quizzes</a>
     </div>
+    <div class="container">
+        <h1>Advanced Leaderboard</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Rank</th>
+                    <th>Username</th>
+                    <th>Qs</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for result in advanced_results %}
+                    <tr>
+                        <td>{{ loop.index }}</td>
+                        <td>{{ result[0] }}</td>
+                        <td>{{ result[1] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <a class="practice" href="/advanced">More Practice</a>
+        <a href="{{ url_for('index') }}">Back to all Quizzes</a>
+    </div>
     <script>
         function toggleDropdown() {
             const menu = document.getElementById('dropdownMenu');
@@ -119,7 +143,7 @@
     </script>
     <script>
         window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
-      </script>
-      <script defer src="/_vercel/insights/script.js"></script>
+    </script>
+    <script defer src="/_vercel/insights/script.js"></script>
 </body>
 </html>

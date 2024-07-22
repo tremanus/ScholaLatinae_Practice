@@ -1,0 +1,2083 @@
+{
+    "questions": [
+      {
+        "question": "Translate: Trēs equī pulchrī vōbīs sunt.",
+        "options": [
+          "You have three beautiful horses.",
+          "Three beautiful horses were taken from you.",
+          "The three beautiful horses were for you.",
+          "You need three beautiful horses."
+        ],
+        "correct_answer": "You have three beautiful horses."
+      },
+      {
+        "question": "What rhetorical device is present in the following sentence? Titus plūs vīnī, plūs cibī, plūs pecūniae poposcit.",
+        "options": [
+          "simile",
+          "tricolon",
+          "polysyndeton",
+          "chiasmus"
+        ],
+        "correct_answer": "tricolon"
+      },
+      {
+        "question": "Who were the nine daughters of Mnemosyne, who brought inspiration to poets and other artists?",
+        "options": [
+          "Muses",
+          "Graces",
+          "Harpies",
+          "Fates"
+        ],
+        "correct_answer": "Muses"
+      },
+      {
+        "question": "What island, home to the ancient Minoans and the legendary palace of King Minos at Knossos, lies to the southeast of mainland Greece?",
+        "options": [
+          "Sicily",
+          "Sardinia",
+          "Crete",
+          "Cyprus"
+        ],
+        "correct_answer": "Crete"
+      },
+      {
+        "question": "What emperor, born in Spain, extended the empire through his conquests in Dacia and later was said to have adopted his soon-to-be successor Hadrian only a few days before his death?",
+        "options": [
+          "Claudius",
+          "Vespasian",
+          "Trajan",
+          "Constantine"
+        ],
+        "correct_answer": "Trajan"
+      },
+      {
+        "question": "During the Roman Republic, what magistrate in the cursus honōrum acted as a judge?",
+        "options": [
+          "aedile",
+          "tribune",
+          "quaestor",
+          "praetor"
+        ],
+        "correct_answer": "praetor"
+      },
+      {
+        "question": "Oreads, Dryads, Nereads, and Oceanids were all types of",
+        "options": [
+          "nymphs",
+          "Gorgons",
+          "centaurs",
+          "Sirens"
+        ],
+        "correct_answer": "nymphs"
+      },
+      {
+        "question": "Julius Caesar was assassinated in 44 BCE, which is what year in AUC?",
+        "options": [
+          "753 AUC",
+          "710 AUC",
+          "553 AUC",
+          "465 AUC"
+        ],
+        "correct_answer": "710 AUC"
+      },
+      {
+        "question": "Identify the figure of speech in the following sentence: Senātor īrātus exclāmāvit, “Hoc nōn audiam, nōn patiar, certē nōn tolerābō!”",
+        "options": [
+          "personification",
+          "antithesis",
+          "tricolon",
+          "oxymoron"
+        ],
+        "correct_answer": "tricolon"
+      },
+      {
+        "question": "What Silver Age Roman author wrote letters which include an eyewitness account of the eruption of Mt. Vesuvius and questioned the emperor Trajan about Christians in his province?",
+        "options": [
+          "Pliny the Younger",
+          "Livy",
+          "Tacitus",
+          "Marcus Aurelius"
+        ],
+        "correct_answer": "Pliny the Younger"
+      },
+      {
+        "question": "Which notable Roman helped lead the assassination of Julius Caesar and, together with his close associate Cassius, was defeated at the Battle of Philippi by Mark Antony and Octavian?",
+        "options": [
+          "Pompey",
+          "Clodius",
+          "Brutus",
+          "Crassus"
+        ],
+        "correct_answer": "Brutus"
+      },
+      {
+        "question": "What river was first crossed by the Romans on a bridge built by Julius Caesar and essentially served later as the boundary between the Roman Empire and Germany?",
+        "options": [
+          "Tiber",
+          "Rhine",
+          "Rubicon",
+          "Po"
+        ],
+        "correct_answer": "Rhine"
+      },
+      {
+        "question": "What class of Roman society, in an effort to gain rights from the patricians, would occasionally withdraw from the city and refuse to work until they gained such benefits as written laws in the Twelve Tables, representation by the tribunes, and a share in the consulship?",
+        "options": [
+          "plēbēs",
+          "augurēs",
+          "equitēs",
+          "pontificēs"
+        ],
+        "correct_answer": "plēbēs"
+      },
+      {
+        "question": "What literary device can be found in the following quotation: Quī illīus culpā cecidit velut prātī ultimī flōs?",
+        "options": [
+          "anaphora",
+          "hendiadys",
+          "simile",
+          "zeugma"
+        ],
+        "correct_answer": "simile"
+      },
+      {
+        "question": "Which emperor was born in Spain in 76 CE, was known for his fondness of Greek culture, and built a defensive wall in Britain that can still be seen today?",
+        "options": [
+          "Antoninus Pius",
+          "Hadrian",
+          "Marcus Aurelius",
+          "Trajan"
+        ],
+        "correct_answer": "Hadrian"
+      },
+      {
+        "question": "Give the scansion pattern for the first four feet of this line from Sulpicia: Grātum est, sēcūrus multum quod iam tibi dē mē.",
+        "options": [
+          "DSDD",
+          "SSDS",
+          "DSSD",
+          "SSSS"
+        ],
+        "correct_answer": "SSSS"
+      },
+      {
+        "question": "Which character in mythology incurred the wrath of Venus and had to perform four labors before being able to marry her beloved Cupid?",
+        "options": [
+          "Eurydice",
+          "Hero",
+          "Psyche",
+          "Thisbe"
+        ],
+        "correct_answer": "Psyche"
+      },
+      {
+        "question": "What philosophy, practiced by Cato the Younger, Seneca, and Marcus Aurelius, believed that one ought to live their lives virtuously, regardless of what fate and fortune might bring?",
+        "options": [
+          "Stoicism",
+          "Epicureanism",
+          "Pythagoreanism",
+          "Cynicism"
+        ],
+        "correct_answer": "Stoicism"
+      },
+      {
+        "question": "Which granddaughter of Agrippa was both a wife of the emperor Claudius and the mother of the emperor Nero?",
+        "options": [
+          "Livia",
+          "Drusilla",
+          "Agrippina",
+          "Antonia"
+        ],
+        "correct_answer": "Agrippina"
+      },
+      {
+        "question": "Which daughter of Priam and Hecuba foretold the destruction of Troy but was not believed?",
+        "options": [
+          "Andromache",
+          "Briseis",
+          "Cassandra",
+          "Penthesilea"
+        ],
+        "correct_answer": "Cassandra"
+      },
+      {
+        "question": "What would a character in a play by Plautus be doing if they said, “Salvus sīs!”?",
+        "options": [
+          "insulting you",
+          "questioning you",
+          "complimenting you",
+          "greeting you"
+        ],
+        "correct_answer": "greeting you"
+      },
+      {
+        "question": "What is the term for the linguistic phenomenon whereby words lose a full syllable; e.g. amāvisse → amāsse?",
+        "options": [
+          "metathesis",
+          "syncopation",
+          "ablation",
+          "elision"
+        ],
+        "correct_answer": "syncopation"
+      },
+      {
+        "question": "Which of the following words is a monoptote?",
+        "options": [
+          "fas",
+          "nihil",
+          "glōs",
+          "fors"
+        ],
+        "correct_answer": "glōs"
+      },
+      {
+        "question": "The pronominal forms nostrī and vestrī are found exclusively with what use of the genitive?",
+        "options": [
+          "Specification",
+          "Partitive",
+          "Possession",
+          "Objective"
+        ],
+        "correct_answer": "Objective"
+      },
+      {
+        "question": "Which of the following can NOT be a locative ending?",
+        "options": [
+          "-īs",
+          "-e",
+          "-ī",
+          "-um"
+        ],
+        "correct_answer": "-um"
+      },
+      {
+        "question": "What syntactic function replaces the future tense of subjunctive clauses?",
+        "options": [
+          "periphrasis",
+          "present subjunctive",
+          "gerunds",
+          "infinitives"
+        ],
+        "correct_answer": "periphrasis"
+      },
+      {
+        "question": "What syntactic anomaly is shared by the words propinquus, surdus, and alacer?",
+        "options": [
+          "lacking comparative",
+          "lacking superlative",
+          "lacking adverbial forms",
+          "they expect the dative"
+        ],
+        "correct_answer": "lacking superlative"
+      },
+      {
+        "question": "Which of the following is NOT an adjectival ending appended to nouns?",
+        "options": [
+          "-ālis",
+          "-īcius",
+          "-ōsus",
+          "these are all acceptable"
+        ],
+        "correct_answer": "these are all acceptable"
+      },
+      {
+        "question": "Future Less Vivid conditionals contain verbs in what tense and mood?",
+        "options": [
+          "future indicative",
+          "present indicative",
+          "present subjunctive",
+          "none of these"
+        ],
+        "correct_answer": "present subjunctive"
+      },
+      {
+        "question": "What facet of Indo-European languages remains in Latin, but only in select words like reperio?",
+        "options": [
+          "reduplication",
+          "ablation",
+          "semi-deponent",
+          "neutral passive"
+        ],
+        "correct_answer": "reduplication"
+      },
+      {
+        "question": "What poet tailored the narrative of his epic the Aeneid to glorify Rome’s humble origins?",
+        "options": ["Juvenal", "Statius", "Vergil", "Martial"],
+        "correct_answer": "Vergil"
+      },
+      {
+        "question": "Ovid presumably died in what city, given his last known poem was about exile here?",
+        "options": ["Athens", "Tomi", "Persepolis", "Gades"],
+        "correct_answer": "Tomi"
+      },
+      {
+        "question": "What poet was executed by Nero the same year as his uncle because they were both implicated in a conspiracy?",
+        "options": ["Cornutus", "Lucan", "Caesius Bassus", "Polybius"],
+        "correct_answer": "Lucan"
+      },
+      {
+        "question": "What rhetorical masterpiece by Cicero was a four-parter unmasking a scheme against the government?",
+        "options": ["In Catilinam", "Pro Lege Manilia", "In Verrem", "Pro Archia Poeta"],
+        "correct_answer": "In Catilinam"
+      },
+      {
+        "question": "Whose historical research focused on crises of the Roman state such as the Jugurthine War?",
+        "options": ["Sallust", "Seneca the Elder", "Panaetius", "Agrippa"],
+        "correct_answer": "Sallust"
+      },
+      {
+        "question": "What foreign people is effectively the antagonist of Naevius’ historical epic?",
+        "options": ["The Spartans", "The Persians", "The Carthaginians", "The Etruscans"],
+        "correct_answer": "The Carthaginians"
+      },
+      {
+        "question": "Who made up the pseudonym ‘Lesbia’ as a reference to the eminent Greek poet Sappho?",
+        "options": ["Catullus", "Clodius", "Fulvius", "Rufus"],
+        "correct_answer": "Catullus"
+      },
+      {
+        "question": "Julius Caesar described his battles against Vercingetorix for control of modern France in which work?",
+        "options": ["De Bello Civili", "De Bello Gallico", "Bellum Alexandrinum", "Bellum Hispaniense"],
+        "correct_answer": "De Bello Gallico"
+      },
+      {
+        "question": "Which play by Terence has a title referring to the two brothers who are the center of the plot?",
+        "options": ["Andria", "Adelphoi", "Phormio", "Eunuchus"],
+        "correct_answer": "Adelphoi"
+      },
+      {
+        "question": "Which philosophical ideology was the choice of the poet Lucretius?",
+        "options": ["Stoicism", "Epicureanism", "Cynicism", "Neo-Platonism"],
+        "correct_answer": "Epicureanism"
+      },
+      {
+        "question": "What genre Fabula were all the known plays of Plautus?",
+        "options": ["Praetexta", "Cothurnata", "Crepidata", "Palliata"],
+        "correct_answer": "Palliata"
+      },
+      {
+        "question": "What early Roman literary figure also fought at the battle of Thermopylae?",
+        "options": ["Polybius", "Fabius Pictor", "Naevius", "Cato the Elder"],
+        "correct_answer": "Cato the Elder"
+      },
+      {
+        "question": "What patron and connoisseur of good poetry bankrolled Horace’s Epodes?",
+        "options": ["Laelius", "Maecenas", "Messalla Corvinus", "Memmius"],
+        "correct_answer": "Maecenas"
+      },
+      {
+        "question": "A translation and continuation of Eusebius’ Chronicon remarks that Lucretius died of a love potion overdose and that Cicero emended the De Rerum Natura. Who wrote this translation and chose to include such information?",
+        "options": ["Jerome", "Augustine", "Juvenal", "Cicero"],
+        "correct_answer": "Jerome"
+      },
+      {
+        "question": "Which of the following works was NOT a work of Tacitus?",
+        "options": ["Historia Augusta", "Annales", "Agricola", "Dialogus de Oratoribus"],
+        "correct_answer": "Historia Augusta"
+      },
+      {
+        "question": "What kind of fish is the focus of Juvenal’s fourth Satire?",
+        "options": ["Trout", "Mullet", "Shark", "Turbot"],
+        "correct_answer": "Turbot"
+      },
+      {
+        "question": "Where did Martial die?",
+        "options": ["Bilbilis", "Rome", "Alexandria", "An unknown town"],
+        "correct_answer": "Bilbilis"
+      },
+      {
+        "question": "Which character in the Satyricon is an elderly poet who recites a poem about the fall of Troy to the other characters?",
+        "options": ["Encolpius", "Giton", "Eumolpus", "Agamemnon"],
+        "correct_answer": "Eumolpus"
+      },
+      {
+        "question": "What work by Pliny the Elder cites over a hundred different ancient authors?",
+        "options": ["Naturalis Historia", "Epistulae", "Panegyricus", "Studiosus"],
+        "correct_answer": "Naturalis Historia"
+      },
+      {
+        "question": "Who self-flatteringly called himself the ‘Roman Callimachus,’ but was less flatteringly called an ‘aping Callimachus’ by Horace?",
+        "options": ["Cinna", "Asinius Pollio", "Ovid", "Propertius"],
+        "correct_answer": "Propertius"
+      },
+      {
+        "question": "What poet tailored the narrative of his epic the Aeneid to glorify Rome’s humble origins?",
+        "options": ["Juvenal", "Statius", "Vergil", "Martial"],
+        "correct_answer": "Vergil"
+      },
+      {
+        "question": "Ovid presumably died in what city, given his last known poem was about exile here?",
+        "options": ["Athens", "Tomi", "Persepolis", "Gades"],
+        "correct_answer": "Tomi"
+      },
+      {
+        "question": "What poet was executed by Nero the same year as his uncle because they were both implicated in a conspiracy?",
+        "options": ["Cornutus", "Lucan", "Caesius Bassus", "Polybius"],
+        "correct_answer": "Lucan"
+      },
+      {
+        "question": "What rhetorical masterpiece by Cicero was a four-parter unmasking a scheme against the government?",
+        "options": ["In Catilinam", "Pro Lege Manilia", "In Verrem", "Pro Archia Poeta"],
+        "correct_answer": "In Catilinam"
+      },
+      {
+        "question": "Whose historical research focused on crises of the Roman state such as the Jugurthine War?",
+        "options": ["Sallust", "Seneca the Elder", "Panaetius", "Agrippa"],
+        "correct_answer": "Sallust"
+      },
+      {
+        "question": "What foreign people is effectively the antagonist of Naevius’ historical epic?",
+        "options": ["The Spartans", "The Persians", "The Carthaginians", "The Etruscans"],
+        "correct_answer": "The Carthaginians"
+      },
+      {
+        "question": "Who made up the pseudonym ‘Lesbia’ as a reference to the eminent Greek poet Sappho?",
+        "options": ["Catullus", "Clodius", "Fulvius", "Rufus"],
+        "correct_answer": "Catullus"
+      },
+      {
+        "question": "Julius Caesar described his battles against Vercingetorix for control of modern France in which work?",
+        "options": ["De Bello Civili", "De Bello Gallico", "Bellum Alexandrinum", "Bellum Hispaniense"],
+        "correct_answer": "De Bello Gallico"
+      },
+      {
+        "question": "Which play by Terence has a title referring to the two brothers who are the center of the plot?",
+        "options": ["Andria", "Adelphoi", "Phormio", "Eunuchus"],
+        "correct_answer": "Adelphoi"
+      },
+      {
+        "question": "Which philosophical ideology was the choice of the poet Lucretius?",
+        "options": ["Stoicism", "Epicureanism", "Cynicism", "Neo-Platonism"],
+        "correct_answer": "Epicureanism"
+      },
+      {
+        "question": "What genre Fabula were all the known plays of Plautus?",
+        "options": ["Praetexta", "Cothurnata", "Crepidata", "Palliata"],
+        "correct_answer": "Palliata"
+      },
+      {
+        "question": "What early Roman literary figure also fought at the battle of Thermopylae?",
+        "options": ["Polybius", "Fabius Pictor", "Naevius", "Cato the Elder"],
+        "correct_answer": "Cato the Elder"
+      },
+      {
+        "question": "What patron and connoisseur of good poetry bankrolled Horace’s Epodes?",
+        "options": ["Laelius", "Maecenas", "Messalla Corvinus", "Memmius"],
+        "correct_answer": "Maecenas"
+      },
+      {
+        "question": "A translation and continuation of Eusebius’ Chronicon remarks that Lucretius died of a love potion overdose and that Cicero emended the De Rerum Natura. Who wrote this translation and chose to include such information?",
+        "options": ["Jerome", "Augustine", "Juvenal", "Cicero"],
+        "correct_answer": "Jerome"
+      },
+      {
+        "question": "Which of the following works was NOT a work of Tacitus?",
+        "options": ["Historia Augusta", "Annales", "Agricola", "Dialogus de Oratoribus"],
+        "correct_answer": "Historia Augusta"
+      },
+      {
+        "question": "What kind of fish is the focus of Juvenal’s fourth Satire?",
+        "options": ["Trout", "Mullet", "Shark", "Turbot"],
+        "correct_answer": "Turbot"
+      },
+      {
+        "question": "Where did Martial die?",
+        "options": ["Bilbilis", "Rome", "Alexandria", "An unknown town"],
+        "correct_answer": "Bilbilis"
+      },
+      {
+        "question": "Which character in the Satyricon is an elderly poet who recites a poem about the fall of Troy to the other characters?",
+        "options": ["Encolpius", "Giton", "Eumolpus", "Agamemnon"],
+        "correct_answer": "Eumolpus"
+      },
+      {
+        "question": "What work by Pliny the Elder cites over a hundred different ancient authors?",
+        "options": ["Naturalis Historia", "Epistulae", "Panegyricus", "Studiosus"],
+        "correct_answer": "Naturalis Historia"
+      },
+      {
+        "question": "Who self-flatteringly called himself the ‘Roman Callimachus,’ but was less flatteringly called an ‘aping Callimachus’ by Horace?",
+        "options": ["Cinna", "Asinius Pollio", "Ovid", "Propertius"],
+        "correct_answer": "Propertius"
+      },
+      {
+        "question": "Whose system of government had two Augusti and two Caesars?",
+        "options": ["Diocletian", "Constantius", "Gallienus", "Maximian"],
+        "correct_answer": "Diocletian"
+      },
+      {
+        "question": "Who bequeathed Pergamum to Rome?",
+        "options": ["Nicomedes III", "Attalus III", "Ptolemy III", "Prusias III"],
+        "correct_answer": "Attalus III"
+      },
+      {
+        "question": "Which king of Rome sacked Alba Longa?",
+        "options": ["Servius Tullius", "Tullus Hostilius", "Ancus Martius", "Tarquinius Priscus"],
+        "correct_answer": "Tullus Hostilius"
+      },
+      {
+        "question": "Who was the primary political opponent of Sulla?",
+        "options": ["C. Gracchus", "Gn. Pompey", "C. Marius", "Cato the Elder"],
+        "correct_answer": "C. Marius"
+      },
+      {
+        "question": "What fellow tribune did Tib. Gracchus depose for vetoing Tiberius' agrarian reforms?",
+        "options": ["Claudius", "Saturninus", "Metellus", "Octavius"],
+        "correct_answer": "Octavius"
+      },
+      {
+        "question": "Which Roman general did NOT fight against Mithridates the Great?",
+        "options": ["Sulla", "Marius", "Pompey", "Lucullus"],
+        "correct_answer": "Marius"
+      },
+      {
+        "question": "What Roman city did Hadrian found on the site of the destroyed city of Jerusalem?",
+        "options": ["Aelia Capitolina", "Adrianople", "Agrippinensis", "Caesarea Maritima"],
+        "correct_answer": "Aelia Capitolina"
+      },
+      {
+        "question": "Who was executed for treason in A.D. 48?",
+        "options": ["Sejanus", "Messalina", "St. Paul", "Agrippina the Elder"],
+        "correct_answer": "Messalina"
+      },
+      {
+        "question": "Who was the last Roman political opponent of Constantine?",
+        "options": ["Maxentius", "Licinius", "Maximinus", "Perennius"],
+        "correct_answer": "Licinius"
+      },
+      {
+        "question": "What emperor did Gn. Lentulus Gaetulicus try to overthrow?",
+        "options": ["Caligula", "Tiberius", "Nero", "Claudius"],
+        "correct_answer": "Caligula"
+      },
+      {
+        "question": "For which emperor did Avidius Cassius capture Edessa, Nisibus and Ctesiphon?",
+        "options": ["Domitian", "Trajan", "M. Aurelius", "Hadrian"],
+        "correct_answer": "M. Aurelius"
+      },
+      {
+        "question": "Who led the Decemviri in writing the Twelve Tables?",
+        "options": ["T. Genucius", "T. Valerius Publicola", "Appius Claudius", "Sp. Tarpeius"],
+        "correct_answer": "Appius Claudius"
+      },
+      {
+        "question": "How many curiae were in the original Comitia Curiata?",
+        "options": ["30", "40", "50", "60"],
+        "correct_answer": "50"
+      },
+      {
+        "question": "Which political unit was NOT allied with Rome in the war against Antiochus III?",
+        "options": ["Macedonia", "Carthage", "Aetolian League", "Achaean League"],
+        "correct_answer": "Carthage"
+      },
+      {
+        "question": "Who was the Roman commander killed at Lake Trasimene?",
+        "options": ["Aemilius Paulus", "Terentius Varro", "C. Flaminius", "Currius Dentatus"],
+        "correct_answer": "C. Flaminius"
+      },
+      {
+        "question": "Who in a chariot ran over her father, the King of Rome?",
+        "options": ["Tullia", "Hersilia", "Tanaquil", "Egeria"],
+        "correct_answer": "Tullia"
+      },
+      {
+        "question": "Where was Zenobia's capital?",
+        "options": ["Babylon", "Antioch", "Ctesiphon", "Palmyra"],
+        "correct_answer": "Palmyra"
+      },
+      {
+        "question": "Which tribe captured Rome in the 5th century B.C.?",
+        "options": ["Haedui", "Senones", "Ebrones", "Bellovaci"],
+        "correct_answer": "Senones"
+      },
+      {
+        "question": "What location was home to Apollo’s most famous oracle?",
+        "options": ["Delphi", "Dodona", "Claros", "Delos"],
+        "correct_answer": "Delphi"
+      },
+      {
+        "question": "Who was guarded by Argus Panoptes after Zeus turned her into a cow?",
+        "options": ["Hera", "Europa", "Io", "Alcmene"],
+        "correct_answer": "Io"
+      },
+      {
+        "question": "Who designed a cow costume for Pasiphae, made wax wings for Icarus, and engineered the Labyrinth?",
+        "options": ["Daedalus", "Perdix", "Minos", "Trophonius"],
+        "correct_answer": "Daedalus"
+      },
+      {
+        "question": "What city was founded on the spot where Cadmus’s cow fell to rest?",
+        "options": ["Boeotia", "Thebes", "Argos", "Athens"],
+        "correct_answer": "Thebes"
+      },
+      {
+        "question": "Who gave a sickle to her son Cronus so he could castrate her husband Uranus?",
+        "options": ["Nyx", "Chaos", "Gaea", "Eos"],
+        "correct_answer": "Gaea"
+      },
+      {
+        "question": "Who patiently waited 20 years for the return of her husband Odysseus?",
+        "options": ["Peisidice", "Penelope", "Persephone", "Proserpina"],
+        "correct_answer": "Penelope"
+      },
+      {
+        "question": "Who fled the burning city of Troy with his father Anchises to set out for Italy?",
+        "options": ["Hector", "Aeneas", "Ascanius", "Odysseus"],
+        "correct_answer": "Aeneas"
+      },
+      {
+        "question": "What monster did Heracles resort to choking out since it had an invulnerable pelt?",
+        "options": ["Erymanthian Boar", "Cerberus", "Cretan Bull", "Nemean Lion"],
+        "correct_answer": "Nemean Lion"
+      },
+      {
+        "question": "What son of Cronus and Philyra famously tutored Jason and Achilles?",
+        "options": ["Linus", "Nestor", "Patroclus", "Chiron"],
+        "correct_answer": "Chiron"
+      },
+      {
+        "question": "Who was the burning brand that led to Troy’s demise by deeming Aphrodite the fairest?",
+        "options": ["Hector", "Paris", "Aeneas", "Sarpedon"],
+        "correct_answer": "Paris"
+      },
+      {
+        "question": "Which of the following mythological figures did not visit the Underworld?",
+        "options": ["Theseus", "Odysseus", "Perseus", "Aeneas"],
+        "correct_answer": "Perseus"
+      },
+      {
+        "question": "Although he was initially duped, Heracles managed to trick what Titan into holding the sky once more?",
+        "options": ["Menoetius", "Epimetheus", "Prometheus", "Atlas"],
+        "correct_answer": "Atlas"
+      },
+      {
+        "question": "What Phrygian couple hospitably hosted Jupiter and Mercury and were made priests of their temple?",
+        "options": ["Procris & Tereus", "Admetus & Alcestis", "Deucalion & Pyrrha", "Baucis & Philemon"],
+        "correct_answer": "Baucis & Philemon"
+      },
+      {
+        "question": "Who married the new king of Thebes after he defeated the Sphinx, not realizing he was her own son Oedipus?",
+        "options": ["Antigone", "Laius", "Eurydice", "Jocasta"],
+        "correct_answer": "Jocasta"
+      },
+      {
+        "question": "Who eternally struggled in the Underworld to get a sip of water or a bite of food?",
+        "options": ["Tantalus", "Ixion", "Sisyphus", "Tityus"],
+        "correct_answer": "Tantalus"
+      },
+      {
+        "question": "Who floated up on the island of Seriphos in a chest with her son Perseus?",
+        "options": ["Alcmene", "Althaea", "Danae", "Aethra"],
+        "correct_answer": "Danae"
+      },
+      {
+        "question": "What Greek deity was known by an epithet meaning 'earthshaker'?",
+        "options": ["Poseidon", "Zeus", "Hades", "Triton"],
+        "correct_answer": "Poseidon"
+      },
+      {
+        "question": "Who was abandoned on Naxos even after she helped Theseus navigate the Labyrinth with a ball of thread?",
+        "options": ["Ariadne", "Phaedra", "Hippolyta", "Antiope"],
+        "correct_answer": "Ariadne"
+      },
+      {
+        "question": "Which of the following is not a herdsman of Odysseus?",
+        "options": ["Melanthius", "Dolius", "Eumaeus", "Philoetius"],
+        "correct_answer": "Dolius"
+      },
+      {
+        "question": "Whose decapitated head still retained its power by turning seaweed into coral and men into stone?",
+        "options": ["Medusa", "Echidna", "Phaea", "Medea"],
+        "correct_answer": "Medusa"
+      },
+      {
+        "question": "What horse did Bellerophon try to ride to Mount Olympus?",
+        "options": ["Pegasus", "Xanthus", "Balius", "Arion"],
+        "correct_answer": "Pegasus"
+      },
+      {
+        "question": "Who unwittingly unleashed sorrows and diseases on humankind from her jar?",
+        "options": ["Prometheus", "Panthous", "Pandora", "Pancratis"],
+        "correct_answer": "Pandora"
+      },
+      {
+        "question": "Which of the following is a subjunctive form of queo?",
+        "options": ["quibis", "quiremus", "quibamus", "queunt"],
+        "correct_answer": "quiremus"
+      },
+      {
+        "question": "Under what syntactic category does the noun dicionis belong?",
+        "options": ["triptote", "monoptote", "tetraptote", "indeclinable"],
+        "correct_answer": "monoptote"
+      },
+      {
+        "question": "Which of these prepositions does NOT take the Accusative?",
+        "options": ["penes", "secundum", "ob", "absque"],
+        "correct_answer": "absque"
+      },
+      {
+        "question": "Which of the following does NOT belong grammatically?",
+        "options": ["lepus", "vulpes", "pavo", "lupus"],
+        "correct_answer": "pavo"
+      },
+      {
+        "question": "What do all of the following have in common grammatically: quincunx, bes, deunx?",
+        "options": ["They are all multiplicative", "They are all proportional", "They are all distributive", "They are all fractions"],
+        "correct_answer": "They are all fractions"
+      },
+      {
+        "question": "Which Spartan King co-ruled with Leonidas at the time of the latter’s death in 480 B.C.?",
+        "options": ["Agis II", "Pausanias", "Leotychidas", "Theopompus"],
+        "correct_answer": "Leotychidas"
+      },
+      {
+        "question": "Whose Athenian’s law codes were so harsh they were said to have been written not in ink but in blood?",
+        "options": ["Solon", "Cleisthenes", "Pisistratus", "Draco"],
+        "correct_answer": "Draco"
+      },
+      {
+        "question": "What son of Xenophon was said to have killed Epaminondas in single-handed combat in 362 B.C.?",
+        "options": ["Pelopidas", "Agesilaus", "Gryllus", "Ephialtes"],
+        "correct_answer": "Gryllus"
+      },
+      {
+        "question": "At the end of the Dark Age circa 800 B.C., the Greeks adopted a new alphabet from what people?",
+        "options": ["Phoenicians", "Minoans", "Mycenaeans", "Persians"],
+        "correct_answer": "Phoenicians"
+      },
+      {
+        "question": "After the fall of its monarchy, what aristocratic family ruled Corinth until 650 B.C.?",
+        "options": ["Megaclids", "Achaemonids", "Bacchiads", "Penthilids"],
+        "correct_answer": "Bacchiads"
+      },
+      {
+        "question": "What city founded by Euboean city-states in 750 B.C. is traditionally called the first Greek colony?",
+        "options": ["Croton", "Messana", "Cumae", "Syracuse"],
+        "correct_answer": "Cumae"
+      },
+      {
+        "question": "What Messenian hero sacrificed his mother in a failed attempt to save the city from the Spartans?",
+        "options": ["Aristodemus", "Cypselus", "Lycurgus", "Pittacus"],
+        "correct_answer": "Aristodemus"
+      },
+      {
+        "question": "When were the Olympic Games traditionally held for the first time?",
+        "options": ["776", "538", "800", "664"],
+        "correct_answer": "776"
+      },
+      {
+        "question": "The Amphictyonic League fought three Sacred Wars protecting what city?",
+        "options": ["Sicyon", "Delphi", "Krisa", "Argos"],
+        "correct_answer": "Delphi"
+      },
+      {
+        "question": "When a prophecy told the Athenians they should ‘put their trust in the wooden walls,’ who interpreted this to mean they should build a fleet in 480 B.C.?",
+        "options": ["Pericles", "Ephialtes", "Aristides", "Themistocles"],
+        "correct_answer": "Themistocles"
+      },
+      {
+        "question": "Who was assassinated in 514 B.C. by Harmodius and Aristogiton because he had slighted Harmodius’ sister?",
+        "options": ["Hippias", "Pisistratus", "Hipparchus", "Solon"],
+        "correct_answer": "Hipparchus"
+      },
+      {
+        "question": "Who was the mother of Alexander the Great?",
+        "options": ["Cleopatra", "Olympias", "Roxanne", "Berenice"],
+        "correct_answer": "Olympias"
+      },
+      {
+        "question": "What Athenian was elected strategos fifteen consecutive times from 444-429 B.C.?",
+        "options": ["Pericles", "Aristides", "Pisistratus", "Cimon"],
+        "correct_answer": "Pericles"
+      },
+      {
+        "question": "A peace named after what Athenian ended the first 10-year period of The Peloponnesian War in 421 B.C.?",
+        "options": ["Alcibiades", "Cleon", "Callias", "Nicias"],
+        "correct_answer": "Nicias"
+      },
+      {
+        "question": "What Persian king defeated the Spartans at Thermopylae in 480 B.C.?",
+        "options": ["Darius I", "Xerxes", "Datis", "Mardonius"],
+        "correct_answer": "Xerxes"
+      },
+      {
+        "question": "What name was given to the Spartan assembly of all citizens over 30 who had served in the military?",
+        "options": ["Gerousia", "Boule", "Ecclesia", "Apella"],
+        "correct_answer": "Gerousia"
+      },
+      {
+        "question": "What Athenian statesman went into voluntarily exile following his archonship of 594-593 B.C.?",
+        "options": ["Solon", "Draco", "Cylon", "Aristides"],
+        "correct_answer": "Solon"
+      },
+      {
+        "question": "What Athenian statesman known as ‘The Just’ was tasked with keeping the Delian League’s finances?",
+        "options": ["Xanthippus", "Pericles", "Aristides", "Cimon"],
+        "correct_answer": "Aristides"
+      },
+      {
+        "question": "According to tradition, how many Athenians were said to have perished at the Battle of Marathon?",
+        "options": ["50", "192", "6", "2,000"],
+        "correct_answer": "192"
+      },
+      {
+        "question": "At what river did Alexander the Great’s army mutiny, ending his eastern campaign in 326 B.C.?",
+        "options": ["Hyphasis", "Hydaspes", "Jhelum", "Indus"],
+        "correct_answer": "Hyphasis"
+      },
+      {
+        "question": "What Lydian king was told that if he attacked the Persians, a great empire would fall?",
+        "options": ["Aristogoras", "Cyrus", "Croesus", "Cambyses"],
+        "correct_answer": "Croesus"
+      },
+      {
+        "question": "What political party was formed by Pisistratus in support of his on-and-off tyranny?",
+        "options": ["the Coast", "the Plains", "the Hills", "the Walls"],
+        "correct_answer": "the Hills"
+      },
+      {
+        "question": "What was the term for Spartan governors who controlled Greece following the Peloponnesian War?",
+        "options": ["neodamodes", "perioeci", "polemarch", "harmosts"],
+        "correct_answer": "harmosts"
+      },
+      {
+        "question": "What mythological group relentlessly pursued Orestes after he had killed his mother Clytemnestra?",
+        "options": ["the Fates", "the Harpies", "the Furies", "the Sirens"],
+        "correct_answer": "the Furies"
+      },
+      {
+        "question": "What was the name of the bundle of rods surrounding an ax which is seen at the right? It symbolized the power of a Roman magistrate to inflict corporal and capital punishment.",
+        "options": ["fascēs", "stilī", "tabellae", "strigilēs"],
+        "correct_answer": "fascēs"
+      },
+      {
+        "question": "The English words extend, contender, and tension come from the Latin word meaning to",
+        "options": ["stretch", "roll", "lift", "remove"],
+        "correct_answer": "stretch"
+      },
+      {
+        "question": "What statesman, lawyer, and philosopher was considered Rome’s greatest orator in the first century BC?",
+        "options": ["Marius", "Sulla", "Cicero", "Pompey"],
+        "correct_answer": "Cicero"
+      },
+      {
+        "question": "What mythological creature, eventually killed by Bellerophon, was a combination of a lion, goat, and snake?",
+        "options": ["a centaur", "the Sphinx", "a satyr", "the Chimera"],
+        "correct_answer": "the Chimera"
+      },
+      {
+        "question": "When your teacher says “Cōnsīdite, omnēs!” at the beginning of class, she wants all the students to",
+        "options": ["sit down", "pay attention", "pass forward their work", "open their books"],
+        "correct_answer": "sit down"
+      },
+      {
+        "question": "Usus, coemptio, and confarreatio all were types of Roman",
+        "options": ["funerals", "triumphs", "weddings", "priesthoods"],
+        "correct_answer": "weddings"
+      },
+      {
+        "question": "What Latin motto means that teaching is the best way to learn something?",
+        "options": ["memento mori", "crescit eundo", "ex nihilo nihil fit", "docendo discitur"],
+        "correct_answer": "docendo discitur"
+      },
+      {
+        "question": "What member of the First Triumvirate was defeated by Julius Caesar at the Battle of Pharsalus to end their civil war?",
+        "options": ["Crassus", "Octavian", "Pompey", "Brutus"],
+        "correct_answer": "Pompey"
+      },
+      {
+        "question": "Clotho, Lachesis, and Atropos, who spun, measured, and cut the thread of life, were known as the",
+        "options": ["Harpies", "Furies", "Fates", "Titans"],
+        "correct_answer": "Fates"
+      },
+      {
+        "question": "What place has five rivers, a field for the blessed, and a large abyss?",
+        "options": ["Troy", "Mt. Olympus", "the Underworld", "Carthage"],
+        "correct_answer": "the Underworld"
+      },
+      {
+        "question": "What Roman senator was accused by Cicero of attempting a coup during his consulship in 63 BC?",
+        "options": ["Marcus Antonius", "Lucius Sergius Catilina", "Gnaeus Pompeius", "Lucius Cornelius Sulla"],
+        "correct_answer": "Lucius Sergius Catilina"
+      },
+      {
+        "question": "During the Roman Republic, what government position was created to protect plebeians with its veto power?",
+        "options": ["aedile", "tribune", "praetor", "consul"],
+        "correct_answer": "tribune"
+      },
+      {
+        "question": "What date did the Romans use to mark the approximate midpoint for each month?",
+        "options": ["Kalends", "Nones", "Ides", "Fasti"],
+        "correct_answer": "Ides"
+      },
+      {
+        "question": "Scylla and Charybdis were believed to dwell between Italy and what land mass, which was also the Romans’ first province?",
+        "options": ["Gallia", "Sicilia", "Crēta", "Hispānia"],
+        "correct_answer": "Sicilia"
+      },
+      {
+        "question": "What English phrase best represents the Latin expression suum cuique?",
+        "options": ["No man is an island.", "Everyone is entitled to their own opinion.", "Say nothing except good about the dead.", "Take each day as it comes"],
+        "correct_answer": "Everyone is entitled to their own opinion."
+      },
+      {
+        "question": "Ā convīviō nōn sine multō cachinnō discessī! What figure of speech can be found in this sentence?",
+        "options": ["metaphor", "personification", "asyndeton", "litotes"],
+        "correct_answer": "litotes"
+      },
+      {
+        "question": "Loquere, quaesō, lentius! Tōtam fābulam audīre cupiō! What does this Latin phrase translate to?",
+        "options": ["Speak", "Planning to speak", "They spoke", "To speak"],
+        "correct_answer": "Speak"
+      },
+      {
+        "question": "Tullia plūs _____ poposcit.",
+        "options": ["aqua", "aquae", "aquam", "aquīs"],
+        "correct_answer": "aqua"
+      },
+      {
+        "question": "What Roman emperor, the immediate successor of Trajan, incorporated architectural styles from his many travels in his villa, and built a defensive wall in Britain?",
+        "options": ["Nero", "Tiberius", "Claudius", "Hadrian"],
+        "correct_answer": "Hadrian"
+      },
+      {
+        "question": "What is the meaning of the Latin phrase nil sub sole novum?",
+        "options": ["There is nothing new under the sun.", "No news is good news.", "We are never alone.", "Not for ourselves alone are we born."],
+        "correct_answer": "There is nothing new under the sun."
+      },
+      {
+        "question": "What was the site of the famous oracle of Apollo where the god had killed the giant serpent Python?",
+        "options": ["Carthage", "Sparta", "Delphi", "Athens"],
+        "correct_answer": "Delphi"
+      },
+      {
+        "question": "What Trojan warrior bid farewell to his wife Andromache and baby son Astyanax as he left for his final battle?",
+        "options": ["Hector", "Priam", "Paris", "Aeneas"],
+        "correct_answer": "Hector"
+      },
+      {
+        "question": "What Latin phrase, expressed by Catullus in his poem to his dead brother, can be used to give a final farewell?",
+        "options": ["Festīnā lentē!", "Avē atque valē!", "Ō tempora, Ō mōrēs!", "Sī tū valēs, valeō!"],
+        "correct_answer": "Avē atque valē!"
+      },
+      {
+        "question": "When Cicero said in his speech against Catiline that he would not dwell on Catiline’s crimes and then proceeded to do exactly that, he was employing the rhetorical device",
+        "options": ["tricolon", "praeteritio", "anaphora", "polysyndeton"],
+        "correct_answer": "praeteritio"
+      },
+      {
+        "question": "What Silver Age Roman historian wrote about the emperors and corresponded with Pliny, among others?",
+        "options": ["Tacitus", "Ovid", "Plautus", "Cicero"],
+        "correct_answer": "Tacitus"
+      },
+      {
+        "question": "The English words sponsor, spouse, and responsible, as well as the Roman ceremony of Spōnsālia, all derive from the Latin word meaning to",
+        "options": ["challenge", "remove", "fear", "promise"],
+        "correct_answer": "promise"
+      },
+      {
+        "question": "Which Flavian Emperor ruled for ten years, began building the Colosseum, and was then succeeded by his sons?",
+        "options": ["Augustus", "Caligula", "Vespasian", "Hadrian"],
+        "correct_answer": "Vespasian"
+      },
+      {
+        "question": "Both Chiron, who was helpful to heroes, and Nessus, who was not, were",
+        "options": ["Maenads", "Gorgons", "Satyrs", "Centaurs"],
+        "correct_answer": "Centaurs"
+      },
+      {
+        "question": "As Narcissus wasted away, in love with his own reflection, the gods took pity on him and changed him into a",
+        "options": ["weeping rock", "flower", "bird", "flowing stream"],
+        "correct_answer": "flower"
+      },
+      {
+        "question": "The sentence Cūrā ut valeās! written at the end of a letter is equivalent to the English expression",
+        "options": ["Stay well!", "Have fun!", "Be brave!", "Thanks for your help!"],
+        "correct_answer": "Stay well!"
+      },
+      {
+        "question": "What Latin motto suggests the difficulty in achieving great things?",
+        "options": ["Arma cedant togae", "Ab ovo usque ad mala", "Non est ad astra mollis e terris via", "A mari usque ad mare"],
+        "correct_answer": "Non est ad astra mollis e terris via"
+      },
+      {
+        "question": "What official in Rome oversaw games and maintained temples and roads?",
+        "options": ["quaestor", "aedile", "consul", "praetor"],
+        "correct_answer": "aedile"
+      },
+      {
+        "question": "The line “frangitur inque sinūs scindit sēsē unda reductōs” contains an example of",
+        "options": ["alliteration", "anaphora", "polysyndeton", "simile"],
+        "correct_answer": "alliteration"
+      },
+      {
+        "question": "What is the metrical pattern of the first four feet of the line “vīderat adductō flectentem cornua nervō”?",
+        "options": ["DSSS", "DSSD", "DSDS", "DDSS"],
+        "correct_answer": "DSSS"
+      },
+      {
+        "question": "What sponsor of the arts in the Augustan Age was so famous that his name is still used to describe modern patrons?",
+        "options": ["Agrippa", "Lucretius", "Maecenas", "Tiberius"],
+        "correct_answer": "Maecenas"
+      },
+      {
+        "question": "What Roman poet, author of the Metamorphoses, was exiled by Augustus for “carmen et error”?",
+        "options": ["Sulpicia", "Ovid", "Horace", "Catullus"],
+        "correct_answer": "Ovid"
+      },
+      {
+        "question": "Which of the following mortal women eventually became immortal?",
+        "options": ["Penelope", "Psyche", "Eurydice", "Hecuba"],
+        "correct_answer": "Psyche"
+      },
+      {
+        "question": "Aeneas, who was notably devoted to his country, the gods, and his family, is thus especially known for his",
+        "options": ["gravitās", "auctōritās", "pietās", "sevēritās"],
+        "correct_answer": "pietās"
+      },
+      {
+        "question": "In “…fuit Īlium et ingēns glōria Teucrōrum,” Ilium is another name for",
+        "options": ["Pompeii", "Rome", "Sparta", "Troy"],
+        "correct_answer": "Troy"
+      },
+      {
+        "question": "What is the name of the 20-book work, of which the 8th book is missing, of stories collected over a winter in Greece?",
+        "options": ["Noctes Atticae", "Meditationes", "Hermagoras", "Xenia"],
+        "correct_answer": "Noctes Atticae"
+      },
+      {
+        "question": "Of the following, which is the earliest speech of Cicero?",
+        "options": ["In Verrem", "In Catilinam", "Pro Quinctio", "Pro Roscio Amerino"],
+        "correct_answer": "Pro Quinctio"
+      },
+      {
+        "question": "Name the author of the Xenia who later left Rome and died in Bilbilis, Spain.",
+        "options": ["Martial", "Pacuvius", "Persius", "Lucan"],
+        "correct_answer": "Martial"
+      },
+      {
+        "question": "Which author was born at modern Padua?",
+        "options": ["Pacuvius", "Livy", "Accius", "Tacitus"],
+        "correct_answer": "Livy"
+      },
+      {
+        "question": "Ennius skipped over the First Punic War in his Annales as a sign of respect to which author, who had previously written a 7-book work about it?",
+        "options": ["Livius Andronicus", "Naevius", "Caecilius Statius", "Lucilius"],
+        "correct_answer": "Naevius"
+      },
+      {
+        "question": "Naevius’ Danae and Equus Troianus are examples of what genre?",
+        "options": ["Praetextae", "Palliatae", "Cothurnatae", "Riciniatae"],
+        "correct_answer": "Cothurnatae"
+      },
+      {
+        "question": "The De Lingua Latina was dedicated to which author?",
+        "options": ["Varro Atax", "Cicero", "Varro Reatinus", "Quintilian"],
+        "correct_answer": "Varro Reatinus"
+      },
+      {
+        "question": "Which of these works is written in Greek?",
+        "options": ["Noctes Atticae", "Hedyphaegetica", "Hebdomades", "Meditationes"],
+        "correct_answer": "Meditationes"
+      },
+      {
+        "question": "Which poet was described by Quintilian as “tersus atque elegans”?",
+        "options": ["Tibullus", "Propertius", "Horace", "Vergil"],
+        "correct_answer": "Tibullus"
+      },
+      {
+        "question": "Which Roman biographer, often of Greeks, also wrote several lost works, including a history of the world in three books?",
+        "options": ["Plutarch", "Cornelius Nepos", "Suetonius", "Cornelius Sisenna"],
+        "correct_answer": "Cornelius Nepos"
+      },
+      {
+        "question": "Who begins his didactic epic by ironically invoking a goddess, as he states in the work that the gods do not care about human affairs?",
+        "options": ["Vergil", "Lucretius", "Ovid", "Caecilius Statius"],
+        "correct_answer": "Lucretius"
+      },
+      {
+        "question": "What pupil of Papinian and Praetorian Prefect under Alexander Severus was also a prolific writer of legal works?",
+        "options": ["Ulpian", "Gaius", "Julius Solinus", "Aulus Gellius"],
+        "correct_answer": "Ulpian"
+      },
+      {
+        "question": "Known as “doctus” because of his work on Hellenic topics, which author also expressed his creativity in painting?",
+        "options": ["Ennius", "Naevius", "Pacuvius", "Fabius Iustus"],
+        "correct_answer": "Pacuvius"
+      },
+      {
+        "question": "Honorius honored which author with a statue in the Forum of Trajan and by making him the court poet?",
+        "options": ["Ausonius", "Prudentius", "Claudian", "Julius Solinus"],
+        "correct_answer": "Claudian"
+      },
+      {
+        "question": "Although we hear much about this man, we rarely hear about the fact that he wrote the probable tragedy Prometheus. Who is this?",
+        "options": ["Augustus", "Maecenas", "Claudius", "Cicero"],
+        "correct_answer": "Claudius"
+      },
+      {
+        "question": "Who served under one of Constantine II’s generals and wrote a 31-book continuation of Tacitus’s histories?",
+        "options": ["Aelius Donatus", "Ammianus Marcellinus", "Eutropius", "Trebellius Pollio"],
+        "correct_answer": "Ammianus Marcellinus"
+      },
+      {
+        "question": "Who was known as the first “pure” geographer?",
+        "options": ["Pliny the Elder", "Columella", "Apicius", "Pomponius Mela"],
+        "correct_answer": "Pomponius Mela"
+      },
+      {
+        "question": "“Pingue et floridum” says Macrobius of this orator, whose 10 books of letters were collected by his son.",
+        "options": ["Symmachus", "Nonnius Marcellus", "Ambrose", "Vegetius Renatus"],
+        "correct_answer": "Symmachus"
+      },
+      {
+        "question": "Leave it to Cicero to be inspirational. Whom did his De Officiis inspire to write a work on the duties of priests?",
+        "options": ["Jerome", "Ambrose", "Augustine", "Cyprian"],
+        "correct_answer": "Ambrose"
+      },
+      {
+        "question": "Which of the following authors was involved in writing the Historia Augusta from Valerian to Numerian?",
+        "options": ["Julius Capitolinus", "Aelius Spartianus", "Aelius Lampridius", "Flavius Vopiscus"],
+        "correct_answer": "Flavius Vopiscus"
+      },
+      {
+        "question": "What author of an allegory about the spiritual struggle within the human soul was known as the “Last great Roman poet of the Roman Era”?",
+        "options": ["Prudentius", "Lactantius", "Ausonius", "Claudian"],
+        "correct_answer": "Prudentius"
+      },
+      {
+        "question": "From what river, in which Midas washed away his golden touch, was Croesus sometimes said to gain his wealth?",
+        "options": ["Pactolus", "Iardanus", "Celadon", "Sillas"],
+        "correct_answer": "Pactolus"
+      },
+      {
+        "question": "Which of the following does NOT belong in this mythological group?",
+        "options": ["Hyperenor", "Udaeus", "Deino", "Pelorus"],
+        "correct_answer": "Deino"
+      },
+      {
+        "question": "With whom did Adonis decide to spend his free third of the year?",
+        "options": ["Ares", "Apollo", "Artemis", "Aphrodite"],
+        "correct_answer": "Aphrodite"
+      },
+      {
+        "question": "On what island was Philoctetes abandoned?",
+        "options": ["Delos", "Crete", "Lemnos", "Naxos"],
+        "correct_answer": "Lemnos"
+      },
+      {
+        "question": "In the Aeneid, what fury did Juno send to stir up a war in Latium?",
+        "options": ["Tisiphone", "Allecto", "Megaera", "Erinyes"],
+        "correct_answer": "Allecto"
+      },
+      {
+        "question": "Who was the only person besides Penelope and Odysseus to know the secret of Odysseus’s bed?",
+        "options": ["Actoris", "Eurypylus", "Eurycleia", "Eumaeus"],
+        "correct_answer": "Eurycleia"
+      },
+      {
+        "question": "By whose fifty daughters did Heracles father fifty children?",
+        "options": ["Danaus’", "Erectheus’", "Thespius’", "Minos’"],
+        "correct_answer": "Thespius’"
+      },
+      {
+        "question": "What daughter of Eurytus was seduced by Apollo and married Andraemon, who named the god’s son Amphissus?",
+        "options": ["Dryope", "Doris", "Eumedes", "Melia"],
+        "correct_answer": "Dryope"
+      },
+      {
+        "question": "What son of Oenomaus, follower of Daphne, had his true gender revealed because of Apollo’s jealousy?",
+        "options": ["Calisto", "Hymenaios", "Iapyx", "Leucippus"],
+        "correct_answer": "Leucippus"
+      },
+      {
+        "question": "With the blood of what animal did Circe purify Jason and Medea?",
+        "options": ["cow", "pig", "ram", "dog"],
+        "correct_answer": "pig"
+      },
+      {
+        "question": "What legendary poet escaped from pirates to shore by riding on a dolphin?",
+        "options": ["Brimo", "Arion", "Idas", "Ischys"],
+        "correct_answer": "Arion"
+      },
+      {
+        "question": "Everes and Chariclo were the parents of what seer?",
+        "options": ["Tiresias", "Melampus", "Idmon", "Calchas"],
+        "correct_answer": "Tiresias"
+      },
+      {
+        "question": "What pious and shape-shifting daughter used her powers to (unsuccessfully) attempt to save her father from his hunger?",
+        "options": ["Caenis", "Cornix", "Evadne", "Mestra"],
+        "correct_answer": "Mestra"
+      },
+      {
+        "question": "What was the name of the large mechanical siege weapon that hurled rocks?",
+        "options": ["ballista", "scorpio", "aries", "onager"],
+        "correct_answer": "onager"
+      },
+      {
+        "question": "What month traditionally began the Roman calendar year?",
+        "options": ["January", "March", "July", "August"],
+        "correct_answer": "March"
+      },
+      {
+        "question": "The small gift baskets containing food presented by patrons to their clients were known as _______.",
+        "options": ["dona", "sportula", "salutatio", "clientela"],
+        "correct_answer": "sportula"
+      },
+      {
+        "question": "Who in Ancient Rome would most likely be seen wearing a causia, a white hat with a broad rim meant to protect against the sun’s rays?",
+        "options": ["freedmen", "aristocrats", "plebeians", "slaves"],
+        "correct_answer": "plebeians"
+      },
+      {
+        "question": "Which of the following would have been in charge of the grain supply during the Empire?",
+        "options": ["praefectus annonae", "publicanus", "aedile", "censor"],
+        "correct_answer": "praefectus annonae"
+      },
+      {
+        "question": "How long was the interregnum between the death of Romulus to the start of Numa Pompilius’ reign?",
+        "options": ["Six Months", "One Year", "Two Years", "Seven Years"],
+        "correct_answer": "One Year"
+      },
+      {
+        "question": "Which of the following did Servius Tullius NOT establish?",
+        "options": ["Temple to Fortuna", "Temple to Diana", "Temple to Jupiter", "Servian Wall"],
+        "correct_answer": "Temple to Jupiter"
+      },
+      {
+        "question": "Who was the first magister equitum and three-time consul who proposed the first agrarian law in Rome?",
+        "options": ["Titus Lartius", "Publilius Philo", "Spurius Cassius", "Gaius Licinius"],
+        "correct_answer": "Spurius Cassius"
+      },
+      {
+        "question": "What consul defeated the pirates at Antium in 338 BC, thus bringing the prows for the rostra to Rome?",
+        "options": ["Maenius", "Decius Mus", "Manlius Imperiosus", "Annius"],
+        "correct_answer": "Maenius"
+      },
+      {
+        "question": "The folly of Claudius Pulcher led to the victory of the Carthaginians at Drepana under what general?",
+        "options": ["Hamilcar", "Hannibal", "Mago", "Adherbal"],
+        "correct_answer": "Adherbal"
+      },
+      {
+        "question": "In what year did both Hannibal and Scipio Africanus die?",
+        "options": ["201 BC", "195 BC", "191 BC", "183 BC"],
+        "correct_answer": "183 BC"
+      },
+      {
+        "question": "Where did Caesar defeat the forces of Pompey led by Metellus Scipio and Juba I?",
+        "options": ["Munda", "Thapsus", "Ilerda", "Bagradas Valley"],
+        "correct_answer": "Thapsus"
+      },
+      {
+        "question": "What widow of Drusus revealed the treachery of Sejanus to Tiberius?",
+        "options": ["Antonia", "Drusilla", "Agrippina", "Julia"],
+        "correct_answer": "Antonia"
+      },
+      {
+        "question": "What governor of Lower Germany put down the revolt of Saturninus in 88 AD?",
+        "options": ["Ostorius Scapula", "Lappius Maximus", "Flavius Clemens", "Agricola"],
+        "correct_answer": "Lappius Maximus"
+      },
+      {
+        "question": "Where did Aurelian defeat Tetricus in 273 AD, thus ending the Gallic Empire?",
+        "options": ["Catalaunian Plains", "Emesa", "Immae", "Argentoratum"],
+        "correct_answer": "Catalaunian Plains"
+      },
+      {
+        "question": "Who led the Visigoths in a decisive victory over Valens at Adrianople in 378 AD?",
+        "options": ["Eugenius", "Arbogast", "Athanaric", "Fritigern"],
+        "correct_answer": "Fritigern"
+      },
+      {
+        "question": "What archaeologist excavated the Minoan palace at Knossos?",
+        "options": ["Heinrich Schliemann", "Michael Ventris", "Frank Calvert", "Arthur Evans"],
+        "correct_answer": "Arthur Evans"
+      },
+      {
+        "question": "The archaeological site at Troy suggests the city was destroyed and rebuilt several times. Which city seems to have been the Troy destroyed by the Trojan War?",
+        "options": ["Troy II", "Troy I", "Troy VII", "Troy V"],
+        "correct_answer": "Troy VII"
+      },
+      {
+        "question": "What object was discovered by Luigi Pernier in 1908?",
+        "options": ["Phaistos Disk", "Arkalochori Axe", "Snake Goddess", "Antikythera Mechanism"],
+        "correct_answer": "Phaistos Disk"
+      },
+      {
+        "question": "What is the Greek descriptor for Minoan double-headed axes?",
+        "options": ["tholos", "kyklops", "labrys", "kathapsia"],
+        "correct_answer": "labrys"
+      },
+      {
+        "question": "The invasion of which people precipitated the fall of the Mycenaean palaces and the rise of the Greek Dark Age?",
+        "options": ["Aeolic", "Doric", "Ionic", "Coptic"],
+        "correct_answer": "Doric"
+    },
+    {
+        "question": "Which of the Seven Sages was granted supreme power in Mytilene which he gave up after ten years?",
+        "options": ["Cleobulus", "Bias", "Cilon", "Pittacus"],
+        "correct_answer": "Pittacus"
+    },
+    {
+        "question": "What tyrant of Mytilene was opposed by the poet Alcaeus?",
+        "options": ["Myrsilus", "Melandrus", "Coes", "Lygdamis"],
+        "correct_answer": "Myrsilus"
+    },
+    {
+        "question": "Which of the Alcmaeonids cursed his clan by murdering Cylon while he sought refuge on the Acropolis?",
+        "options": ["Hippocrates", "Alcmaeon", "Megacles", "Cleisthenes"],
+        "correct_answer": "Megacles"
+    },
+    {
+        "question": "Who was exiled from Attica in 556 in part for refusing to have a child with Megacles’ daughter?",
+        "options": ["Lycurgus", "Peisistratus", "Iophon", "Lygdamis"],
+        "correct_answer": "Peisistratus"
+    },
+    {
+        "question": "Who was responsible for the establishment of the Gerousia?",
+        "options": ["Labotas", "Lycurgus", "Aristomenes", "Leon"],
+        "correct_answer": "Lycurgus"
+    },
+    {
+        "question": "What war of the seventh century marked the end of Eretria’s and Chalcis’ influence?",
+        "options": ["First Sacred", "Second Messinian", "Tegean", "Lelantine"],
+        "correct_answer": "Lelantine"
+    },
+    {
+        "question": "What tyrant of Corinth created the diolkos, a method of transporting ships across the Isthmus of Corinth?",
+        "options": ["Periander", "Lycophron", "Psammetichus", "Procles"],
+        "correct_answer": "Periander"
+    },
+    {
+        "question": "What was the term for Solon’s program of debt relief?",
+        "options": ["hektemoroi", "heliaea", "seisachtheia", "zeugita"],
+        "correct_answer": "seisachtheia"
+    },
+    {
+        "question": "What city had control of the Olympic Games until 572, when they were taken over by Elis?",
+        "options": ["Mycenae", "Argos", "Sparta", "Pisa"],
+        "correct_answer": "Pisa"
+    },
+    {
+        "question": "The loss of what island to Athens prompted the decline of Megara?",
+        "options": ["Aegina", "Salamis", "Naxos", "Samos"],
+        "correct_answer": "Salamis"
+    },
+    {
+        "question": "Whom did the Tyrranicides, Harmodius and Aristogiton, murder in 514?",
+        "options": ["Hipparchus", "Peisistratus", "Hippias", "Lygdamis"],
+        "correct_answer": "Hipparchus"
+    },
+    {
+        "question": "What Spartan king helped depose the Peisistratids in Athens in 510?",
+        "options": ["Anaxandridas", "Leonidas", "Cleomenes", "Cleombrotus"],
+        "correct_answer": "Cleomenes"
+    },
+    {
+        "question": "The same Spartan king attempted to aid what opponent of Cleisthenes after the exile of the Peisistratids?",
+        "options": ["Megacles", "Aristides", "Isagoras", "Cleon"],
+        "correct_answer": "Isagoras"
+    },
+    {
+        "question": "What political party was established by Peisistratus?",
+        "options": ["the Plain", "the Hill", "the City", "the Coast"],
+        "correct_answer": "the Hill"
+    },
+    {
+        "question": "What city attempted to rebel against Persia in 499, thus sparking the Ionian Revolt?",
+        "options": ["Cyme", "Ephesus", "Magnesia", "Miletus"],
+        "correct_answer": "Miletus"
+    },
+    {
+        "question": "What tyrant was the leader of the revolt, who incited the Ionian cities after he failed to take the island Naxos?",
+        "options": ["Aristagoras", "Eualcides", "Onesilos", "Hecataeus"],
+        "correct_answer": "Aristagoras"
+    },
+    {
+        "question": "The destruction of what city in 498 prompted Darius to swear revenge against the Athenians?",
+        "options": ["Ephesus", "Miletus", "Lade", "Sardis"],
+        "correct_answer": "Sardis"
+    },
+    {
+        "question": "Who was the runner who told the Athenians about the victory at Battle of Marathon, and then dropped dead of exhaustion?",
+        "options": ["Phidias", "Philas", "Pheidippides", "Philoctetes"],
+        "correct_answer": "Pheidippides"
+    },
+    {
+        "question": "Who was the Athenian polemarch who died at the Battle of Marathon?",
+        "options": ["Callimachus", "Miltiades", "Cimon", "Aristides"],
+        "correct_answer": "Callimachus"
+    },
+    {
+        "question": "The Amphictyonic League and Cleisthenes of Sicyon were allies against Cirrha in what conflict of the 6th century?",
+        "options": ["Second Sacred War", "Tegean War", "Lelantine War", "First Sacred War"],
+        "correct_answer": "First Sacred War"
+    },
+    {
+        "question": "What strategos was responsible for pushing the Athenians to engage the Persians at Marathon?",
+        "options": ["Aristides", "Miltiades", "Simonides", "Stesilaos"],
+        "correct_answer": "Miltiades"
+    },
+    {
+        "question": "What god is said to have helped the Athenians at the Battle of Marathon?",
+        "options": ["Apollo", "Hermes", "Pan", "Heracles"],
+        "correct_answer": "Pan"
+    },
+    {
+        "question": "Miltiades’ unsuccessful attack on what island in 489 prompted his enemies to try him for treason?",
+        "options": ["Delos", "Naxos", "Samos", "Paros"],
+        "correct_answer": "Naxos"
+    },
+    {
+        "question": "Which of the following was a Persian victory over the Greeks?",
+        "options": ["Mycale", "Sestus", "Lade", "Salamis"],
+        "correct_answer": "Lade"
+    },
+    {
+        "question": "Who was the first person recorded as being ostracized in 487?",
+        "options": ["Hipparchus", "Megacles", "Xanthippus", "Aristides"],
+        "correct_answer": "Hipparchus"
+    },
+    {
+        "question": "What Athenian statesman, who commanded the Athenian contingent at the Battle of Plataea, was known as “the Just”?",
+        "options": ["Miltiades", "Aristides", "Callimachus", "Simonides"],
+        "correct_answer": "Aristides"
+    },
+    {
+        "question": "What Athenian family supposedly signaled the Persians to attack Athens after Marathon?",
+        "options": ["Philaid", "Aeacid", "Alcmaeonid", "Peisistratid"],
+        "correct_answer": "Alcmaeonid"
+    },
+    {
+        "question": "What battle took place at the same time as the Battle of Artemisium?",
+        "options": ["Plataea", "Mycale", "Himera", "Thermopylae"],
+        "correct_answer": "Thermopylae"
+    },
+    {
+        "question": "What Spartan king died at Thermopylae?",
+        "options": ["Cleomenes", "Leonidas", "Cleombrotus", "Agis"],
+        "correct_answer": "Leonidas"
+    },
+    {
+        "question": "Who benefitted from the Athenian recall of ostracized citizens before the invasion of Xerxes in 480?",
+        "options": ["Xanthippus", "Themistocles", "Hipparchus", "Megacles"],
+        "correct_answer": "Themistocles"
+    },
+    {
+        "question": "What battle of 478 effectively ended Persian influence in the Hellespont?",
+        "options": ["Mycale", "Athos", "Eurymedon", "Sestus"],
+        "correct_answer": "Mycale"
+    },
+    {
+        "question": "In what battle did Cimon and the Delian League end Xerxes’ plans for a second invasion of mainland Greece?",
+        "options": ["Eurymedon", "Mycale", "Lade", "Athos"],
+        "correct_answer": "Eurymedon"
+    },
+    {
+        "question": "Who betrayed the Greeks at Thermopylae by showing the Persians the path around the pass?",
+        "options": ["Athenades", "Eurydemus", "Ephialtes", "Phanagoras"],
+        "correct_answer": "Ephialtes"
+    },
+    {
+        "question": "The Delian League was formed in 477 as a defensive alliance against whom?",
+        "options": ["Sparta", "Persia", "Macedon", "Thebes"],
+        "correct_answer": "Persia"
+    },
+    {
+        "question": "Under what syntactic category do words such as fors belong?",
+        "options": ["epicene", "monoptote", "diptote", "indeclinable"],
+        "correct_answer": "diptote"
+    },
+    {
+        "question": "Which of these prepositions does NOT take the Ablative?",
+        "options": ["coram", "tenus", "absque", "secundum"],
+        "correct_answer": "secundum"
+    },
+    {
+        "question": "Which of the following does NOT belong grammatically?",
+        "options": ["sodes", "sultis", "sitim", "sitis"],
+        "correct_answer": "sitim"
+    },
+    {
+        "question": "What do all of the following have in common grammatically: duplus, triplus, quadruplus?",
+        "options": ["They are all multiplicative", "They are all proportional", "They are all distributive", "They are all fractions"],
+        "correct_answer": "They are all proportional"
+    },
+    {
+        "question": "Which of the following is NOT an island in the bay of Naples?",
+        "options": ["Ischia", "Procida", "Pandateria", "Capri"],
+        "correct_answer": "Pandateria"
+    },
+    {
+        "question": "Which of these cities does NOT border the Pontus Euxinus?",
+        "options": ["Cyzicus", "Heraclea", "Sinope", "Trapezus"],
+        "correct_answer": "Cyzicus"
+    },
+    {
+        "question": "What river ran through the tribal lands of the Iazyges?",
+        "options": ["Porata", "Danuvius", "Tisia", "Tyras"],
+        "correct_answer": "Tisia"
+    },
+    {
+        "question": "Which ancient city is located the farthest north?",
+        "options": ["Tolosa", "Narbo", "Massilia", "Aquae Sextiae"],
+        "correct_answer": "Tolosa"
+    },
+    {
+        "question": "A large island in the eastern Mediterranean, also reputed to be the birthplace of Zeus.",
+        "options": ["Sardinia", "Crete", "Sicily", "Cyprus"],
+        "correct_answer": "Crete"
+    },
+    {
+        "question": "What building on the Acropolis derives its name from the city’s mythical first king?",
+        "options": ["Eleusinium", "Erechtheum", "Propylea", "Pinakotheke"],
+        "correct_answer": "Erechtheum"
+    },
+    {
+        "question": "Once a year in September or October, a giant procession began in Athens and walked 25 km northwest up the Sacred Way to which of these cities?",
+        "options": ["Thebes", "Delphi", "Olympia", "Eleusis"],
+        "correct_answer": "Eleusis"
+    },
+    {
+        "question": "Which is not one of the classic seven hills of Rome?",
+        "options": ["Vaticanus", "Aventinus", "Palatinus", "Viminalis"],
+        "correct_answer": "Vaticanus"
+    },
+    {
+        "question": "Which mountain chain is often called the 'backbone of Italy'?",
+        "options": ["Alps", "Apennines", "Jura", "Pyrenees"],
+        "correct_answer": "Apennines"
+    },
+    {
+        "question": "Which of the following modern day countries was NOT part of Roman Dalmatia?",
+        "options": ["Albania", "Croatia", "Romania", "Montenegro"],
+        "correct_answer": "Romania"
+    },
+    {
+        "question": "Which river’s water source was the farthest north?",
+        "options": ["Tiber", "Bagradas", "Tagus", "Iberus"],
+        "correct_answer": "Iberus"
+    },
+    {
+        "question": "According to Caesar, in which province would you have found the following tribes: Ausci, Tarbelli, Sotiates, Volcates, and the Bigerriones?",
+        "options": ["Aquitania", "Germania", "Celtica", "Belgica"],
+        "correct_answer": "Aquitania"
+    },
+    {
+        "question": "According to Caesar, ubi sunt Ubii?",
+        "options": ["in Aquitaniā", "in Germaniā", "in Celticā", "in Belgicā"],
+        "correct_answer": "in Germaniā"
+    },
+    {
+        "question": "Which of the following was NOT located on the Palatine Hill?",
+        "options": ["Septizodium", "Meta Sudans", "Domus Flavia", "Romulus’ Huts"],
+        "correct_answer": "Meta Sudans"
+    },
+    {
+        "question": "Which basilica in the Forum Romanum sat in the northeast near the Velian hill, and was built on the site of Rome’s spice warehouses?",
+        "options": ["Maxentius’", "Julian", "Porcia", "Aemiliana"],
+        "correct_answer": "Maxentius’"
+    },
+    {
+        "question": "What 3rd principal part means 'I placed'?",
+        "options": ["potuī", "pepulī", "posuī", "pandī"],
+        "correct_answer": "posuī"
+    },
+    {
+        "question": "What 3rd principal part means 'I lived'?",
+        "options": ["vītāvī", "vīcī", "vixī", "vetuī"],
+        "correct_answer": "vixī"
+    },
+    {
+        "question": "What 3rd principal part means 'I know'?",
+        "options": ["cōgitāvī", "coēgī", "nāvī", "nōvī"],
+        "correct_answer": "nōvī"
+    },
+    {
+        "question": "Which of the following verbs means 'to snarl'?",
+        "options": ["luctor", "ringor", "stertō", "serpō"],
+        "correct_answer": "ringor"
+    },
+    {
+        "question": "Which of the following is least like the others?",
+        "options": ["scrōfa", "verrēs", "ēricius", "aper"],
+        "correct_answer": "ēricius"
+    },
+    {
+        "question": "Which of the following is NOT edible?",
+        "options": ["furfur", "puls", "bōlētus", "cōs"],
+        "correct_answer": "furfur"
+    },
+    {
+        "question": "Which of the following is NOT able to fly?",
+        "options": ["passer", "pūmiliō", "psittacus", "pāpiliō"],
+        "correct_answer": "pūmiliō"
+    },
+    {
+        "question": "Which of the following does NOT refer to a sound?",
+        "options": ["tuxtax", "ululō", "hinniō", "glaber"],
+        "correct_answer": "glaber"
+    },
+    {
+        "question": "What word does Ovid use to describe the cows who were rivals of Pasiphaë for the love of a bull?",
+        "options": ["paelex", "sospes", "laeter", "vidua"],
+        "correct_answer": "paelex"
+    },
+    {
+        "question": "What word is used as an exclamation of congratulations?",
+        "options": ["vae", "macte", "heu", "apage"],
+        "correct_answer": "macte"
+    },
+    {
+        "question": "Which goddess was NOT associated with war?",
+        "options": ["Enyo", "Tyche", "Athena", "Bellona"],
+        "correct_answer": "Tyche"
+    },
+    {
+        "question": "What seer told Liriope that her newborn son would live a long life 'if he never know himself'?",
+        "options": ["Polyeidus", "Mopsus", "Teiresias", "Calchas"],
+        "correct_answer": "Teiresias"
+    },
+    {
+        "question": "In the Iliad, who convinces Hypnos to lull Zeus to sleep so that she can aid the Greeks in war?",
+        "options": ["Athena", "Iris", "Hera", "Aphrodite"],
+        "correct_answer": "Hera"
+    },
+    {
+        "question": "What mountain saved the lives of Deucalion and Pyrrha during the Great Flood?",
+        "options": ["Parnassus", "Olympus", "Pelion", "Cithaeron"],
+        "correct_answer": "Parnassus"
+    },
+    {
+        "question": "Who was seduced by Zeus in the form of a flame?",
+        "options": ["Persephone", "Europa", "Antiope", "Aegina"],
+        "correct_answer": "Aegina"
+    },
+    {
+        "question": "In Book VII of the Aeneid, which Fury takes the form of a priestess of Juno to incite Turnus to fight?",
+        "options": ["Tisiphone", "Alecto", "Celaeno", "Megaera"],
+        "correct_answer": "Alecto"
+    },
+    {
+        "question": "Which of the following was another name of one of the Hechatonchires?",
+        "options": ["Boreas", "Aegaeon", "Grynus", "Cameirus"],
+        "correct_answer": "Aegaeon"
+    },
+    {
+        "question": "His name means 'King of the City,' but his father called him by a different name after a local river.",
+        "options": ["Bellerophon", "Astyanax", "Paris", "Neoptolemus"],
+        "correct_answer": "Astyanax"
+    },
+    {
+        "question": "What region was home to the Lotus-eaters, the Hesperides, and the giant Antaeus?",
+        "options": ["Libya", "Mysia", "Thrace", "Thrinacia"],
+        "correct_answer": "Libya"
+    },
+    {
+        "question": "What queen of the Phaeacians held significant influence over the decisions of her husband Alcinoüs?",
+        "options": ["Nausicaä", "Alcestis", "Arete", "Anticleia"],
+        "correct_answer": "Arete"
+    },
+    {
+        "question": "What Thessalian tribe traced their lineage to Apollo and boasted such heroes as Coronus and Caeneus?",
+        "options": ["Lapiths", "Myrmidons", "Dorians", "Hellenes"],
+        "correct_answer": "Lapiths"
+    },
+    {
+        "question": "He was warned by oracles that his daughter should marry a foreigner and would have handed her over to a Trojan man had his wife not preferred the Rutulian King.",
+        "options": ["Cinyras", "Turnus", "Dardanus", "Latinus"],
+        "correct_answer": "Latinus"
+    },
+    {
+        "question": "Who raped a Hyperborean maiden named Opis and was subsequently shot and killed by Artemis?",
+        "options": ["Corythus", "Hippotes", "Tityus", "Orion"],
+        "correct_answer": "Orion"
+    },
+    {
+        "question": "The constellation Pisces immortalized the fish that served as the disguises of what two deities as they hid from Typhon?",
+        "options": ["Poseidon & Amphitrite", "Zeus & Hera", "Demeter & Persephone", "Aphrodite & Eros"],
+        "correct_answer": "Aphrodite & Eros"
+    },
+    {
+        "question": "What son of Nana was so handsome that he was loved by the goddess Cybele?",
+        "options": ["Adonis", "Attis", "Androgeus", "Acoetes"],
+        "correct_answer": "Attis"
+    },
+    {
+        "question": "What deity had a palace at Aegae?",
+        "options": ["Cronus", "Poseidon", "Zeus", "Helius"],
+        "correct_answer": "Poseidon"
+    },
+    {
+        "question": "What city was the birthplace and cult center of Asclepius?",
+        "options": ["Epidaurus", "Troezen", "Messenia", "Delos"],
+        "correct_answer": "Epidaurus"
+    },
+    {
+        "question": "What winged brothers were collectively called the Boreades in reference to their father, the North wind?",
+        "options": ["Idas & Lynceus", "Otus & Ephialtes", "Zetes & Calaïs", "Castor & Pollux"],
+        "correct_answer": "Zetes & Calaïs"
+    },
+    {
+        "question": "Which was not an offspring of Ge?",
+        "options": ["Hemera", "Pontus", "Uranus", "Ourea"],
+        "correct_answer": "Hemera"
+    },
+    {
+        "question": "Which deity immortalized the hare as the constellation Lepus?",
+        "options": ["Dionysus", "Artemis", "Hera", "Hermes"],
+        "correct_answer": "Orion"
+    },
+    {
+        "question": "What man led 80 ships to Troy from the Cretan cities Cnossos, Gortyn, and Phaestus?",
+        "options": ["Diomedes", "Sthenelus", "Machaon", "Idomeneus"],
+        "correct_answer": "Idomeneus"
+    },
+    {
+        "question": "On what island had Helius pastured his cattle before they were stolen by Alcyoneus?",
+        "options": ["Drepane", "Erytheia", "Thrinacia", "Zminthe"],
+        "correct_answer": "Erytheia"
+    },
+    {
+        "question": "What group called on nymphs to arbitrate a singing contest between themselves and the Muses?",
+        "options": ["Minyades", "Sirens", "Pierides", "Aloadae"],
+        "correct_answer": "Pierides"
+    },
+    {
+        "question": "What Arcadian hero, who once sheltered the wounded Iphicles during the war against Augeias, was later shot down by Artemis when he pursued her on Mt. Pholoe?",
+        "options": ["Pelasgus", "Apheidas", "Oenopion", "Buphagus"],
+        "correct_answer": "Buphagus"
+    },
+    {
+        "question": "What god was celebrated by the people of Asia Minor as a mouse-god named Smintheus?",
+        "options": ["Apollo", "Dionysus", "Ares", "Poseidon"],
+        "correct_answer": "Apollo"
+    },
+    {
+        "question": "What city in Sicily is considered a possible site of Hades’ abduction of Persephone?",
+        "options": ["Henna", "Lilybaeüm", "Camicus", "Eryx"],
+        "correct_answer": "Henna"
+    },
+    {
+        "question": "What name did Leucippus adopt when he disguised himself as a girl to get closer to Daphne?",
+        "options": ["Ceto", "Oeno", "Manto", "Doso"],
+        "correct_answer": "Doso"
+    },
+    {
+        "question": "Which is NOT considered a possible birthplace of Hera?",
+        "options": ["Euboea", "Argos", "Eleusis", "Stamphylus"],
+        "correct_answer": "Eleusis"
+    },
+    {
+        "question": "Who took command of the Malian contingent sailing to Troy after its leader was abandoned on the coast of Lemnos?",
+        "options": ["Leonteus", "Medon", "Peteus", "Eumelus"],
+        "correct_answer": "Medon"
+    },
+    {
+        "question": "What king opened up his home in Trachis to the wife and children of Heracles while the hero was travelling?",
+        "options": ["Licymnius", "Thespius", "Creon", "Ceyx"],
+        "correct_answer": "Creon"
+    },
+    {
+        "question": "In the Odyssey, what son of Euanthes offered Odysseus rare sweet wine in return for his protection?",
+        "options": ["Theoclymenus", "Maron", "Telemus", "Ismarus"],
+        "correct_answer": "Maron"
+    },
+    {
+        "question": "What child was named for a mark left on his face after it was trampled by a mare?",
+        "options": ["Pelias", "Macareus", "Learchus", "Opheltes"],
+        "correct_answer": "Opheltes"
+    },
+    {
+        "question": "Who, sometimes listed as a member of the Seven Against Thebes, was said by Homer to have won the contests at Oedipus’ funeral games over all the Thebans?",
+        "options": ["Promachus", "Mecisteus", "Parthenopaeüs", "Eteoclus"],
+        "correct_answer": "Mecisteus"
+    },
+    {
+        "question": "What king of the Bebryces was killed by Heracles during a war against the Mariandyni?",
+        "options": ["Dercynus", "Laogoras", "Mygdon", "Amycus"],
+        "correct_answer": "Amycus"
+    },
+    {
+        "question": "I worked so hard on this test that my head was ringing afterwards.",
+        "options": ["ut postquam caput meum tintinaret", "ne postquam caput meum tintinavisset", "ut postquam caput meum tintinaverit", "ut postquam caput meum tintinavisset"],
+        "correct_answer": "ut postquam caput meum tintinaret"
+    },
+    {
+        "question": "The man said that he had run.",
+        "options": ["cucurrisse", "currere", "fore ut cucurrisset", "cursurum esse"],
+        "correct_answer": "cucurrisse"
+    },
+    {
+        "question": "The man said that he should have run.",
+        "options": ["cucurrisse", "currere", "fore ut cucurrisset", "cursurum esse"],
+        "correct_answer": "fore ut cucurrisset"
+    },
+    {
+        "question": "I am sorry for the loss.",
+        "options": ["damnum me paenitet.", "damni me paenitet.", "damnum mei paenitet.", "damno mei paenitet."],
+        "correct_answer": "damni me paenitet."
+    },
+    {
+        "question": "I am afraid that the news will not be good.",
+        "options": ["quin", "ut", "quo", "ne"],
+        "correct_answer": "ne"
+    },
+    {
+        "question": "Nolite emere! _______ multo aestimo!",
+        "options": ["pluris", "pluro", "pluri", "plus"],
+        "correct_answer": "pluris"
+    },
+    {
+        "question": "I have seven horses.",
+        "options": ["mihi", "ad me", "me", "meo"],
+        "correct_answer": "mihi"
+    },
+    {
+        "question": "The general said that he would have conquered the world, if he had not retired.",
+        "options": ["vicisset", "victurum fuisse", "fore ut vicisset", "victurum esset"],
+        "correct_answer": "victurum fuisse"
+    },
+    {
+        "question": "I know that the soldier, whom you trusted, is not our enemy.",
+        "options": ["credideris", "crederes", "credebas", "credidisti"],
+        "correct_answer": "credidisti"
+    },
+    {
+        "question": "Te interrogavi _______ auxilio esset.",
+        "options": ["cuius", "cui", "qua", "quem"],
+        "correct_answer": "cui"
+    },
+    {
+        "question": "Marcus, pass the torch, please.",
+        "options": ["lampades", "lampas", "lampadem", "lampada"],
+        "correct_answer": "lampade"
+    },
+    {
+        "question": "The day was so beautiful that we did not go inside.",
+        "options": ["ne intro iremus", "ut non intro iremus", "ne intro eamus", "ut non intro eamus"],
+        "correct_answer": "ut non intro eamus"
+    },
+    {
+        "question": "Today, the work will be done with great care.",
+        "options": ["factum erit", "faciatur", "fiebit", "fiet"],
+        "correct_answer": "fiet"
+    },
+    {
+        "question": "There is perhaps nothing better than to love one’s neighbors.",
+        "options": ["quo amare", "amandi", "amandis", "amandorum"],
+        "correct_answer": "amandis"
+    },
+    {
+        "question": "Marcus was sent in order to carry more tablets.",
+        "options": ["Ad portandas", "portatum", "qui portaret", "All of the above"],
+        "correct_answer": "All of the above"
+    },
+    {
+        "question": "He taught us many things.",
+        "options": ["nos", "nobis", "nostrum", "nostri"],
+        "correct_answer": "nobis"
+    },
+    {
+        "question": "Agricola ad agrum _______ ivit.",
+        "options": ["frumenta colligenda", "quae frumenta colligeret", "ut frumenta colligat", "frumenta collectum"],
+        "correct_answer": "frumenta colligenda"
+    },
+    {
+        "question": "Marcus has kept me here a long time: Iam diu Marcus me _______.",
+        "options": ["retinet", "retinebat", "retinuit", "retinuerat"],
+        "correct_answer": "retinet"
+    },
+    {
+        "question": "There is no doubt that this Troy would have beaten the Greeks.",
+        "options": ["ut", "ne", "quominus", "quin"],
+        "correct_answer": "quominus"
+    },
+    {
+        "question": "Si virtutem apud Ciceronem _______, dignus honore sis.",
+        "options": ["peteres", "petas", "petis", "petivis"],
+        "correct_answer": "petas"
+    },
+    {
+        "question": "Magister est multo sapientior _______.",
+        "options": ["quam ego", "me", "mihi", "A and B"],
+        "correct_answer": "quam ego"
+    },
+    {
+        "question": "Cicero reum__________ accusavit.",
+        "options": ["maiestatem", "maiestatis", "maiestati", "maiestate"],
+        "correct_answer": "maiestatis"
+    },
+    {
+        "question": "Est heros _______ di favent.",
+        "options": ["quem", "cui", "quo", "cuius"],
+        "correct_answer": "cui"
+    },
+    {
+        "question": "Cum lupi _______ non _______, tamen pastor erat maestissimus.",
+        "options": ["pecu…nocerent", "pecu…nocuerint", "pecui…nocerent", "pecui…nocuerint"],
+        "correct_answer": "pecu…nocerent"
+    },
+    {
+        "question": "Since the toys were not available, the kids played games with sticks and rocks.",
+        "options": ["baculla et saxa", "bacullorum et saxorum", "bacullis et saxis", "cum bacullis et saxis"],
+        "correct_answer": "cum bacullis et saxis"
+    },
+    {
+        "question": "Cicero coniuratos continue _______ accusat.",
+        "options": ["maiestatis", "maiestati", "maiestate", "maiestatem"],
+        "correct_answer": "maiestatem"
+    },
+    {
+        "question": "Parentes mel _______ celaverunt.",
+        "options": ["a liberis", "liberis", "liberos", "liberorum"],
+        "correct_answer": "liberis"
+    },
+    {
+        "question": "Cum parentes mel magna cum cura _______, tamen liberi sumpserunt.",
+        "options": ["celabant", "celavissent", "celent", "celaverint"],
+        "correct_answer": "celavissent"
+    },
+    {
+        "question": "Cras poeta Ovidius Roma ad insulam _______.",
+        "options": ["exsulabitur", "exsulabit", "exsuletur", "exsulat"],
+        "correct_answer": "exsulabit"
+    },
+    {
+        "question": "Nisi vero totam orbem _______, sumus indignae _______!",
+        "options": ["servemus…honori", "servamus…honori", "servemus…honore", "servamus…honore"],
+        "correct_answer": "servemus…honore"
+    },
+    {
+        "question": "_____ petunt quid agam.",
+        "options": ["a me", "mihi", "me", "de me"],
+        "correct_answer": "a me"
+    },
+    {
+        "question": "There is no one who knows too many things.",
+        "options": ["sciverit", "scit", "sciat", "scivit"],
+        "correct_answer": "sciat"
+    },
+    {
+        "question": "Supply the verbs needed for a past contrary to fact conditional: Si lupi in media nocte _______, liberi _______.",
+        "options": ["ululavissent…territi essent", "ululaverant…territi essent", "ululavissent…territi erant", "ululaverant…territi erant"],
+        "correct_answer": "ululavissent…territi essent"
+    },
+    {
+        "question": "Cum pauci eum mirentur, tamen idoneus _______ est.",
+        "options": ["ducere", "ducendi", "ducendum", "ducendo"],
+        "correct_answer": "ducendo"
+    },
+    {
+        "question": "Quintus, don’t run in the rain!",
+        "options": ["noli currere", "ne curras", "cave cucurreris", "All of the above"],
+        "correct_answer": "All of the above"
+    },
+    {
+        "question": "Oportet me _______ te bonum ducem.",
+        "options": ["vocando", "vocandi", "vocare", "ut vocem"],
+        "correct_answer": "vocare"
+    },
+    {
+        "question": "Novem sacerdotes faciem viscerum _______ examinant.",
+        "options": ["iecinoris", "iecoris", "iocinoris", "All of the above"],
+        "correct_answer": "iecoris"
+    },
+    {
+        "question": "Discipuli discipulaeque summam operam_______ dederunt.",
+        "options": ["ad discendam", "discendo", "discendae", "discendum"],
+        "correct_answer": "discendum"
+    },
+    {
+        "question": "Cum magna cum diligentia linguam Latinam _______, scivimus nos victuros esse.",
+        "options": ["disceremus", "discamus", "didiceramus", "discimus"],
+        "correct_answer": "didiceramus"
+    },
+    {
+        "question": "Marcus ad forum _____ ut equum vendat.",
+        "options": ["it", "ivit", "ibat", "iret"],
+        "correct_answer": "ivit"
+    },
+    {
+        "question": "We will not tolerate such foul speech!",
+        "options": ["taeteram linguam", "taetram linguam", "taeterae linguae", "taetrae lingua"],
+        "correct_answer": "taetram linguam"
+    },
+    {
+        "question": "Unfortunately, the students only completed two thirds of their homework.",
+        "options": ["bis tertiam partem", "duae tertiae", "duas partes", "B and C"],
+        "correct_answer": "B and C"
+    },
+    {
+        "question": "The soldiers will return within a few hours.",
+        "options": ["paucis horis", "paucas horas", "in paucis horis", "intra paucas horas"],
+        "correct_answer": "in paucis horis"
+    },
+    {
+        "question": "Caesar’s assassination was no more tragic than if he had lived!",
+        "options": ["quasi", "tamquam si", "quam si", "ceu"],
+        "correct_answer": "tamquam si"
+    },
+    {
+        "question": "Our friends acted bravely because of love for us.",
+        "options": ["amori nostri", "amori nostrum", "amore nostri", "amore nostrum"],
+        "correct_answer": "amore nostrum"
+    },
+    {
+        "question": "Eheu, _______ Romae non _______!",
+        "options": ["te…es", "tu…futurum esse", "te…futurum esse", "B and C"],
+        "correct_answer": "B and C"
+    },
+    {
+        "question": "She was born on July 18th.",
+        "options": ["quarto die post Idus Iulias", "a. d. xv. Kal. Sext.", "tertio die post Idus Iulias", "a. d. xvi. Kal Sext."],
+        "correct_answer": "a. d. xv. Kal. Sext."
+    },
+    {
+        "question": "Young ones, when at first you don’t succeed, try again!",
+        "options": ["conate", "conare", "conari", "conamini"],
+        "correct_answer": "conamini"
+    },
+    {
+        "question": "If he notices that I took the whole cake, he will be very sad.",
+        "options": ["animadverterit…erit", "animadverterit…fuerit", "animadvertat…sit", "animadvertit…erit"],
+        "correct_answer": "animadverterit…erit"
+    },
+    {
+        "question": "After the enemies were defeated, Pompey returned to Rome.",
+        "options": ["Post hostes victi sint", "hostibus victis", "Post hostes victi esset", "hostes victos"],
+        "correct_answer": "hostibus victis"
+    },
+    {
+        "question": "Marius _______ natus est.",
+        "options": ["gentem notam", "genti notae", "gente nota", "gentis notae"],
+        "correct_answer": "gentis notae"
+    },
+    {
+        "question": "The professor asks her students what they will do after graduation.",
+        "options": ["facient", "facturi sint", "fecerint", "Not Possible"],
+        "correct_answer": "facturi sint"
+    },
+    {
+        "question": "That incident was most terrible to see!",
+        "options": ["terribillimum visum", "terribillimum visu", "terribilissimum visum", "terribilissimum visu"],
+        "correct_answer": "terribilissimum visum"
+    },
+    {
+        "question": "These mountains were an impediment to the army.",
+        "options": ["impedimento exercitui", "impedimentum exercitus", "impedimentum ad exercitum", "impedimento ad exercitum"],
+        "correct_answer": "impedimento exercitui"
+    },
+    {
+        "question": "We snuck through the kitchen as quickly as possible.",
+        "options": ["celerrime", "quam celerrime", "quam celerius", "celerius"],
+        "correct_answer": "quam celerrime"
+    },
+    {
+        "question": "Would that I had not wasted all of that time!",
+        "options": ["utinam", "dudum", "quin", "vae"],
+        "correct_answer": "utinam"
+    }
+]

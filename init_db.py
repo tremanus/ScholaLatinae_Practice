@@ -11,13 +11,14 @@ def init_db():
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    # Create the results table if it doesn't exist
+    # Create the results table with quiz_type
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS results (
             id SERIAL PRIMARY KEY,
             username VARCHAR(50) NOT NULL,
             score INTEGER NOT NULL,
-            timestamp TIMESTAMP NOT NULL
+            timestamp TIMESTAMP NOT NULL,
+            quiz_type VARCHAR(20) NOT NULL
         );
     ''')
 
