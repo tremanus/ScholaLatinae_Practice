@@ -63,3 +63,86 @@
 .header .buttons a:hover {
     background-color: #e4c4ff; /* Lighter purple color */
 }
+
+/* Styles for the dropdown menu */
+.dropdown-menu {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    flex-direction: column; /* Arrange items vertically */
+    align-items: center;
+    justify-content: center;
+}
+
+.dropdown-menu nav {
+    display: flex;
+    margin-top: 200px;
+    flex-direction: column; /* Stack links vertically */
+    align-items: center; /* Center links horizontally */
+}
+
+.dropdown-menu nav a {
+    text-decoration: none; /* Remove underline */
+    color: #333; /* Text color */
+    font-size: 20px; /* Adjust font size as needed */
+    margin: 20px 0; /* Space between links */
+}
+
+.dropdown-menu nav a:hover {
+    text-decoration: none; /* Ensure underline is not shown on hover */
+}
+.close-btn {
+    position: absolute; /* Take it out of the normal flow */
+    top: 40px; /* Adjust as needed */
+    left: 40px; /* Adjust as needed */
+    font-size: 4rem; /* Adjust size as needed */
+    cursor: pointer; /* Indicate it's clickable */
+    color: #333; /* Set the color for the "x" */
+    background: none; /* Remove background */
+    border: none; /* Remove border */
+    padding: 0; /* Remove any default padding */
+    margin: 0; /* Remove any default margin */
+    line-height: 1; /* Adjust line height if necessary */
+}
+
+/* Show dropdown menu when active */
+.dropdown-menu.active {
+    display: flex; /* Show the menu when active */
+}
+
+/* Mobile view adjustments */
+@media (max-width: 705px) {
+    .header nav {
+        display: none; /* Hide nav links on mobile */
+    }
+    
+    .header .buttons {
+        display: none; /* Hide buttons on mobile */
+    }
+
+    .header .menu-btn {
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+        font-size: 3rem;
+        font-weight: 100;
+        margin-left: 40px;
+        /* Ensure it's visible only on smaller screens */
+    }
+    .logo {
+      width: 300px;
+    }
+    
+}
+
+@media (min-width: 706px) {
+    .header .menu-btn {
+        display: none; /* Hide the menu button on larger screens */
+    }
+}

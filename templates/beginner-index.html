@@ -78,24 +78,36 @@
 </head>
 <body>
     <header class="header">
+        <div class="menu-btn" onclick="toggleDropdown()">☰</div>
         <div class="left">
-            <div class="logo">
-                <a href="https://scholalatinae.com">
-                    <img src="https://i.ibb.co/8mKzpLC/Screenshot-2024-07-20-at-1-39-55-PM.png" alt="Logo">
-                </a>
-            </div>
-            <nav>
-                <a href="https://scholalatinae.com/mission">Mission</a>
-                <a href="https://scholalatinae.com/about-us">About Us</a>
-                <a href="https://scholalatinae.com/donate">Donate</a>
-                <a href="https://scholalatinae.com/contact">Contact</a>
-            </nav>
+        <div class="logo">
+            <a href="https://scholalatinae.com">
+                <img src="https://i.ibb.co/8mKzpLC/Screenshot-2024-07-20-at-1-39-55-PM.png" alt="Logo">
+            </a>
+        </div>
+        <nav>
+            <a href="https://scholalatinae.com/mission">Mission</a>
+            <a href="https://scholalatinae.com/about-us">About Us</a>
+            <a href="https://scholalatinae.com/donate">Donate</a>
+            <a href="https://scholalatinae.com/contact">Contact</a>
+        </nav>
         </div>
         <div class="buttons">
             <a href="https://scholalatinae.com/learn">Learn</a>
             <a href="https://scholalatinae.com/profile">Account</a>
         </div>
     </header>
+    <div class="dropdown-menu" id="dropdownMenu">
+        <button class="close-btn" onclick="toggleDropdown()" aria-label="Close menu">X</button>
+        <nav>
+            <a href="https://scholalatinae.com/mission">Mission</a>
+            <a href="https://scholalatinae.com/about-us">About Us</a>
+            <a href="https://scholalatinae.com/donate">Donate</a>
+            <a href="https://scholalatinae.com/contact">Contact</a>
+            <a href="https://scholalatinae.com/learn">Learn</a>
+            <a href="https://scholalatinae.com/profile">Account</a>
+        </nav>
+    </div>
     <div class="container">
         <h1>Beginner</h1>
         <img src="https://i.ibb.co/82YZ9f2/image.png" alt="image" border="0">
@@ -105,6 +117,12 @@
             <button type="submit">Practice</button>
         </form>
     </div>
+    <script>
+        function toggleDropdown() {
+            const menu = document.getElementById('dropdownMenu');
+            menu.classList.toggle('active');
+        }
+    </script>
     <script>
         window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
       </script>
