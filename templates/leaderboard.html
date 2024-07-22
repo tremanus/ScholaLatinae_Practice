@@ -20,10 +20,8 @@
             justify-content: center;
             margin-top: 50px;
             margin-bottom: 50px;
-            background: #E7D4F0;
             padding: 20px;
             border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             width: 100%;
             max-width: 1200px;
             margin-left: auto;
@@ -42,6 +40,7 @@
         h1 {
             color: #333;
             margin-bottom: 20px;
+            text-align: center;
         }
 
         table {
@@ -60,12 +59,25 @@
         }
 
         th {
-            background-color: #f4f4f4;
+            background-color: #ffefd5;
         }
 
-        .practice {
-            display: block;
-            margin: 10px 0;
+        .links {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .links a {
+            margin: 0 10px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+        }
+
+        .links a:hover {
+            background-color: #45a049;
         }
     </style>
 </head>
@@ -103,7 +115,7 @@
     </div>
     <div class="container">
         <div class="leaderboard-section">
-            <h1>Beginner Leaderboard</h1>
+            <h1>Beginner</h1>
             <table>
                 <thead>
                     <tr>
@@ -122,11 +134,13 @@
                     {% endfor %}
                 </tbody>
             </table>
-            <a class="practice" href="/beginner">More Practice</a>
-            <a href="{{ url_for('index') }}">Back to all Quizzes</a>
+            <div class="links">
+                <a href="/beginner">More Practice</a>
+                <a href="{{ url_for('index') }}">Back to all Quizzes</a>
+            </div>
         </div>
         <div class="leaderboard-section">
-            <h1>Advanced Leaderboard</h1>
+            <h1>Advanced</h1>
             <table>
                 <thead>
                     <tr>
@@ -145,8 +159,10 @@
                     {% endfor %}
                 </tbody>
             </table>
-            <a class="practice" href="/advanced">More Practice</a>
-            <a href="{{ url_for('index') }}">Back to all Quizzes</a>
+            <div class="links">
+                <a href="/advanced">More Practice</a>
+                <a href="{{ url_for('index') }}">Back to all Quizzes</a>
+            </div>
         </div>
     </div>
     <script>
