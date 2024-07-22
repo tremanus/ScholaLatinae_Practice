@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Result</title>
+    <link rel="icon" type="image/x-icon" href="https://i.ibb.co/RcgBb57/Screenshot-2024-07-20-at-9-40-49-PM.png">
+    <link rel="stylesheet" href="{{ url_for('static', filename='header.css') }}">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap');
+        body {
+            font-family: 'Cormorant Garamond', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff; /* Optional: for better visibility */
+        }
+
+        .container {
+            text-align: center;
+            background: #E7D4F0;
+            margin-top: 50px; /* Space between header and container */
+            margin-bottom: 50px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 500px; /* Fixed width */
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 30px; /* Reduced margin for better alignment */
+            font-size: 24px;
+        }
+
+        p {
+            font-family: sans-serif;
+            font-size: 30px;
+            margin-bottom: 30px; /* Reduced margin for better spacing */
+        }
+
+        img {
+            width: 80%; /* Adjusted width to fit well within container */
+            height: auto;
+            margin-bottom: 10px;
+        }
+        
+        .button {
+            margin-right: 20px;
+        }
+        @media only screen and (max-width: 600px) {
+            .container {
+                width: 90%; /* Make container 90% width on mobile */
+                padding: 10px;
+            }
+            img {
+                width: 80%; /* Make image fit the container width on mobile */
+            }
+
+            .button {
+                margin: 10px 20px;
+                width: calc(100% - 20px); /* Full width with margin adjustment */
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="menu-btn" onclick="toggleDropdown()">☰</div>
+        <div class="left">
+        <div class="logo">
+            <a href="https://scholalatinae.com">
+                <img src="https://i.ibb.co/8mKzpLC/Screenshot-2024-07-20-at-1-39-55-PM.png" alt="Logo">
+            </a>
+        </div>
+        <nav>
+            <a href="https://scholalatinae.com/mission">Mission</a>
+            <a href="https://scholalatinae.com/about-us">About Us</a>
+            <a href="https://scholalatinae.com/donate">Donate</a>
+            <a href="https://scholalatinae.com/contact">Contact</a>
+        </nav>
+        </div>
+        <div class="buttons">
+            <a href="https://scholalatinae.com/learn">Learn</a>
+            <a href="https://scholalatinae.com/profile">Account</a>
+        </div>
+    </header>
+    <div class="dropdown-menu" id="dropdownMenu">
+        <button class="close-btn" onclick="toggleDropdown()" aria-label="Close menu">X</button>
+        <nav>
+            <a href="https://scholalatinae.com/mission">Mission</a>
+            <a href="https://scholalatinae.com/about-us">About Us</a>
+            <a href="https://scholalatinae.com/donate">Donate</a>
+            <a href="https://scholalatinae.com/contact">Contact</a>
+            <a href="https://scholalatinae.com/learn">Learn</a>
+            <a href="https://scholalatinae.com/profile">Account</a>
+        </nav>
+    </div>
+    <div class="container">
+        <h1>Quiz Result</h1>
+        <img src="https://i.ibb.co/nMphdZ6/image.png" alt="Quiz Image">
+        <p>{{ score }} out of 10!</p>
+        <a href="/leaderboard" class="button">Leaderboard</a>
+        <a href="/intermediate">Take Again</a>
+    </div>
+    <script>
+        function toggleDropdown() {
+            const menu = document.getElementById('dropdownMenu');
+            menu.classList.toggle('active');
+        }
+    </script>
+    <script>
+        window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+      </script>
+      <script defer src="/_vercel/insights/script.js"></script>
+      <script>
+        window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+      </script>
+      <script defer src="/_vercel/speed-insights/script.js"></script>
+</body>
+</html>

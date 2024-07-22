@@ -160,6 +160,31 @@
             </div>
         </div>
         <div class="leaderboard-section">
+            <h1>Intermediate</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Username</th>
+                        <th>Qs</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for result in intermediate_results %}
+                        <tr>
+                            <td>{{ loop.index }}</td>
+                            <td>{{ result[0] }}</td>
+                            <td>{{ result[1] }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <div class="links">
+                <a href="/intermediate">More Practice</a>
+                <a href="{{ url_for('index') }}">Back to all Quizzes</a>
+            </div>
+        </div>
+        <div class="leaderboard-section">
             <h1>Advanced</h1>
             <table>
                 <thead>

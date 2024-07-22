@@ -93,6 +93,63 @@ def beginner_result():
     
     return render_template('beginner-result.html', score=score, username=username)
 
+@app.route('/intermediate', methods=['GET', 'POST'])
+def intermediate_index():
+    if request.method == 'POST':
+        username = request.form['username']
+        session['username'] = username
+        session['questions'] = random.sample(load_questions('intermediate_questions.json'), min(10, len(load_questions('intermediate_questions.json'))))  # Load intermediate questions
+        session['question_index'] = 0
+        session['score'] = 0
+        session['answers'] = []  # Initialize the answers list
+        return redirect(url_for('intermediate_quiz', _external=True))
+    return render_template('intermediate-index.html')
+
+@app.route('/intermediate-quiz', methods=['GET', 'POST'])
+def intermediate_quiz():
+    if 'username' not in session:
+        return redirect(url_for('intermediate_index', _external=True))
+
+    if request.method == 'POST':
+        answer = request.form.get('answer')
+        current_question_index = session.get('question_index', 0)
+        current_question = session['questions'][current_question_index]
+        
+        is_correct = answer == current_question['correct_answer']
+        if is_correct:
+            session['score'] += 1
+
+        session['answers'].append((current_question['question'], answer, is_correct, current_question['correct_answer']))
+
+        session['question_index'] += 1
+        if session['question_index'] >= len(session['questions']):
+            return redirect(url_for('intermediate_result', _external=True))
+
+    current_question_index = session.get('question_index', 0)
+    if current_question_index < len(session['questions']):
+        current_question = session['questions'][current_question_index]
+
+        # Shuffle the options
+        options = current_question['options']
+        random.shuffle(options)
+        current_question['options'] = options
+
+        return render_template('intermediate-quiz.html', question=current_question, question_number=current_question_index + 1)
+    return redirect(url_for('intermediate_result', _external=True))
+
+@app.route('/intermediate-result')
+def intermediate_result():
+    if 'username' not in session:
+        return redirect(url_for('intermediate_index', _external=True))
+    
+    score = session.get('score', 0)
+    username = session.get('username')
+    
+    # Save result to database
+    save_result(username, score, 'intermediate')
+    
+    return render_template('intermediate-result.html', score=score, username=username)
+
 @app.route('/advanced', methods=['GET', 'POST'])
 def advanced_index():
     if request.method == 'POST':
@@ -153,8 +210,9 @@ def advanced_result():
 @app.route('/leaderboard')
 def leaderboard():
     beginner_results = get_leaderboard('beginner')
+    intermediate_results = get_leaderboard('intermediate')
     advanced_results = get_leaderboard('advanced')
-    return render_template('leaderboard.html', beginner_results=beginner_results, advanced_results=advanced_results)
+    return render_template('leaderboard.html', beginner_results=beginner_results, intermediate_results=intermediate_results, advanced_results=advanced_results)
 
 def save_result(username, score, quiztype):
     conn = get_db_connection()

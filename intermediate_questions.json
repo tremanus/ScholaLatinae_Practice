@@ -1,0 +1,1124 @@
+{
+    "questions": [
+        {
+            "question": "Which one of the following colors describes the border on a senator's toga?",
+            "options": ["flāvus", "viridis", "caeruleus", "purpureus"],
+            "correct_answer": "purpureus"
+        },
+        {
+            "question": "Which Greek hero, son of Zeus and Danaë, defeated the Gorgon Medusa and later rescued Andromeda from a sea monster?",
+            "options": ["Perseus", "Jason", "Theseus", "Orpheus"],
+            "correct_answer": "Perseus"
+        },
+        {
+            "question": "Who battled and finally killed the multi-headed Hydra with help from his nephew, Iolaus?",
+            "options": ["Perseus", "Daedelus", "Jason", "Hercules"],
+            "correct_answer": "Hercules"
+        },
+        {
+            "question": "On his way to Rome with his army, Julius Caesar crossed the Rubicon. What was it that he crossed?",
+            "options": ["a small river", "a wide plain", "a mountain range", "a deep swamp"],
+            "correct_answer": "a small river"
+        },
+        {
+            "question": "Vīsne ad forum hodiē īre? Which of the following is the most likely reply to this question?",
+            "options": ["Bene respondistī!", "Mihi placet.", "Heri sōl lūcēbat.", "Ubi est stilus meus?"],
+            "correct_answer": "Mihi placet."
+        },
+        {
+            "question": "Based on its Latin root, which English word literally means 'to make better?'",
+            "options": ["minimize", "ameliorate", "magnify", "digitize"],
+            "correct_answer": "ameliorate"
+        },
+        {
+            "question": "What Latin expression might be used to describe an author's most important book?",
+            "options": ["lapsus linguae", "status quō", "magnum opus", "errāre hūmānum est"],
+            "correct_answer": "magnum opus"
+        },
+        {
+            "question": "Which land was farthest to the north?",
+            "options": ["Gallia", "Hispānia", "Britannia", "Āfrica"],
+            "correct_answer": "Britannia"
+        },
+        {
+            "question": "Which Roman, the adopted son of Julius Caesar, is generally considered to have been the first emperor?",
+            "options": ["Augustus", "Cicero", "Antony", "Marius"],
+            "correct_answer": "Augustus"
+        },
+        {
+            "question": "To what profession do the jobs of litterātor, grammaticus, and rhētor all relate?",
+            "options": ["education", "religion", "law", "art"],
+            "correct_answer": "education"
+        },
+        {
+            "question": "What Latin adjective describing a color gave its name to the room in a Roman house that originally contained a fire whose smoke darkened the walls and ceiling?",
+            "options": ["ruber, rubra, rubrum", "āter, ātra, ātrum", "purpureus, purpurea, purpureum", "albus, alba, album"],
+            "correct_answer": "āter, ātra, ātrum"
+        },
+        {
+            "question": "What character in Greek and Roman mythology ferried the souls of the dead across the River Styx?",
+            "options": ["Cerberus", "Hades", "Persephone", "Charon"],
+            "correct_answer": "Charon"
+        },
+        {
+            "question": "Who won the battle of Actium and later was awarded the title Augustus, meaning 'revered one,' by the Roman Senate?",
+            "options": ["Julius Caesar", "Octavian", "Marc Antony", "Cicero"],
+            "correct_answer": "Octavian"
+        },
+        {
+            "question": "Sunt sēdecim equī et duo bovēs. Quot animālia sunt?",
+            "options": ["ūndecim", "quīndecim", "duodēvīgintī", "vīgintī"],
+            "correct_answer": "duodēvīgintī"
+        },
+        {
+            "question": "Which of these women spoke many languages, ruled Egypt for many years, and supported Antony against Octavian?",
+            "options": ["Livia", "Clodia", "Cleopatra", "Boudicca"],
+            "correct_answer": "Cleopatra"
+        },
+        {
+            "question": "The Gallic general Vercingetorix united the Gauls against which Roman general?",
+            "options": ["Marius", "Caesar", "Scipio", "Pompey"],
+            "correct_answer": "Caesar"
+        },
+        {
+            "question": "Which Latin word gives us the English words decompose, expound, expository, and opponent?",
+            "options": ["possum", "pōnō", "poscō", "portō"],
+            "correct_answer": "pōnō"
+        },
+        {
+            "question": "What 3-headed monster guarded the entrance of the Underworld?",
+            "options": ["Cerberus", "the Minotaur", "Medusa", "Hydra"],
+            "correct_answer": "Cerberus"
+        },
+        {
+            "question": "When a person is said to have 'crossed the Rubicon,' what have they done?",
+            "options": ["given a gift to someone", "had great success", "done something they cannot reverse", "hurt someone's feelings"],
+            "correct_answer": "done something they cannot reverse"
+        },
+        {
+            "question": "According to mythology, who was the queen of the Underworld?",
+            "options": ["Medea", "Andromeda", "Helen", "Proserpina"],
+            "correct_answer": "Proserpina"
+        },
+        {
+            "question": "If you were in a structure that had mētae, a spīna, a curriculum and quadrīgae, where would you be?",
+            "options": ["in the baths", "in a racetrack", "in a cemetery", "in a theater"],
+            "correct_answer": "in a racetrack"
+        },
+        {
+            "question": "What color is the sky on a sunny day?",
+            "options": ["rubrum", "viride", "caeruleum", "ātrum"],
+            "correct_answer": "caeruleum"
+        },
+        {
+            "question": "If a teacher said to a student, “Bene respondistī,” the student had",
+            "options": ["not paid attention in class", "answered correctly", "asked to go to the office", "insulted another student"],
+            "correct_answer": "answered correctly"
+        },
+        {
+            "question": "The inventor Daedalus designed a labyrinth on Crete to enclose",
+            "options": ["the Minotaur", "Cerberus", "Pegasus", "the Chimera"],
+            "correct_answer": "the Minotaur"
+        },
+        {
+            "question": "What woman was unfairly changed into a snake-haired monster?",
+            "options": ["Medea", "Penelope", "Medusa", "Pandora"],
+            "correct_answer": "Medusa"
+        },
+        {
+            "question": "Where would a Roman have found a frīgidārium, hypocaustum, and strigilis?",
+            "options": ["templum", "forum", "thermae", "amphitheātrum"],
+            "correct_answer": "thermae"
+        },
+        {
+            "question": "What Thracian gladiator led a group of rebelling slaves in defeating five Roman armies?",
+            "options": ["Spartacus", "Scipio", "Pompey", "Hannibal"],
+            "correct_answer": "Spartacus"
+        },
+        {
+            "question": "Where were Aeneas, Hercules, Theseus, and Psyche going when they encountered the boatman Charon?",
+            "options": ["Egypt", "Sicily", "Hades", "Mt. Olympus"],
+            "correct_answer": "Hades"
+        },
+        {
+            "question": "What mountain range is at the border between Hispānia and Gallia?",
+            "options": ["Pyrenees", "Apennines", "Atlas", "Alps"],
+            "correct_answer": "Pyrenees"
+        },
+        {
+            "question": "The Latin abbreviation AUC for ab urbe conditā is used to express",
+            "options": ["a location", "a date", "a city name", "a size"],
+            "correct_answer": "a date"
+        },
+        {
+            "question": "The factiōnēs known as prasinī, russātī, venetī, and albātī were associated with",
+            "options": ["gladiatorial combats", "senate meetings", "political speeches", "chariot racing"],
+            "correct_answer": "chariot racing"
+        },
+        {
+            "question": "What leader held the consulship seven times and led the Populārēs against Sulla and the Optimātēs?",
+            "options": ["Augustus", "Cicero", "Marius", "Cato the Elder"],
+            "correct_answer": "Marius"
+        },
+        {
+            "question": "What Greek goddess turned Actaeon into a stag because he saw her bathing naked in the woods?",
+            "options": ["Hera", "Demeter", "Aphrodite", "Artemis"],
+            "correct_answer": "Artemis"
+        },
+        {
+            "question": "Salt is a solute that dissolves in a solvent such as water to form a solution. What is the meaning of the Latin verb from which solute, dissolves, solvent, and solution derive?",
+            "options": ["loosen", "create", "lead", "answer"],
+            "correct_answer": "loosen"
+        },
+        {
+            "question": "In March, July, October, and May what date falls on the 7th day?",
+            "options": ["Kalendae", "Nōnae", "Īdūs", "prīdiē"],
+            "correct_answer": "Nōnae"
+        },
+        {
+            "question": "Where would a Roman typically see the phrase sī bene valēs, valeō?",
+            "options": ["in a letter", "on a tombstone", "at the entrance to a house", "above a stage"],
+            "correct_answer": "in a letter"
+        },
+        {
+            "question": "The prefix “se-” as seen in seclude, segregate, and separate means",
+            "options": ["apart", "over", "again", "into"],
+            "correct_answer": "apart"
+        },
+        {
+            "question": "Caesar crossed the Rhine River in 55 BC to fight what foe?",
+            "options": ["the Britons", "the Greeks", "the Spaniards", "the Germans"],
+            "correct_answer": "the Germans"
+        },
+        {
+            "question": "The flag of France, the 2018 World Cup soccer champions, is blue, white, and red. What are these colors in Latin?",
+            "options": ["purpureus et aureus et prasinus", "āter et albus et fuscus", "flammeus et flāvus et ruber", "caeruleus et albus et ruber"],
+            "correct_answer": "caeruleus et albus et ruber"
+        },
+        {
+            "question": "If your teacher says to your class, “Claudite librōs vestrōs et aperīte aurēs vestrās” for what is she asking?",
+            "options": ["your answer", "a discussion", "an essay", "your attention"],
+            "correct_answer": "your attention"
+        },
+        {
+            "question": "Theseus and Pirithous went to the Underworld, but Pluto tricked them into sitting on the Chair of Forgetfulness. What other hero pulled Theseus off the chair to help him return to the world above?",
+            "options": ["Achilles", "Hercules", "Jason", "Perseus"],
+            "correct_answer": "Hercules"
+        },
+        {
+            "question": "What island, located between Italy and North Africa, became Rome’s first province?",
+            "options": ["Crete", "Sicily", "Britain", "Cyprus"],
+            "correct_answer": "Sicily"
+        },
+        {
+            "question": "Thread, wax, and feathers are featured in the myths about which Greek inventor, who built the labyrinth and later escaped from Crete?",
+            "options": ["Hercules", "Theseus", "Perseus", "Daedalus"],
+            "correct_answer": "Daedalus"
+        },
+        {
+            "question": "Who, formerly known as Octavian, became the first Roman emperor and ushered in the Pax Romāna?",
+            "options": ["Pompey", "Marc Antony", "Augustus", "Crassus"],
+            "correct_answer": "Augustus"
+        },
+        {
+            "question": "What Latin phrase is equivalent to the expression prō certō?",
+            "options": ["magnum opus", "sine dubiō", "cum laude", "nōlō contendere"],
+            "correct_answer": "sine dubiō"
+        },
+        {
+            "question": "The Latin ending –tās, as found in hūmānitās, lībertās, and pietās, yields what ending in English?",
+            "options": ["-ty", "-ane", "-ous", "-tion"],
+            "correct_answer": "-ty"
+        },
+        {
+            "question": "What mountain, located in Sicily, did the Romans believe had either a trapped, fire-breathing monster or Vulcan’s forge under it?",
+            "options": ["Parnassus", "Vesuvius", "Olympus", "Etna"],
+            "correct_answer": "Etna"
+        },
+        {
+            "question": "Adequate, equivocate, and equinox all derive from the Latin word meaning",
+            "options": ["equal", "valuable", "horse", "self"],
+            "correct_answer": "equal"
+        },
+        {
+            "question": "If you were to take this exam on the Nones of March, what date would that be?",
+            "options": ["March 1", "March 7", "March 13", "March 15"],
+            "correct_answer": "March 7"
+        },
+        {
+            "question": "Which emperor, appointed by the Praetorian Guard, was the first to invade Britain successfully in AD 43?",
+            "options": ["Augustus", "Tiberius", "Claudius", "Nero"],
+            "correct_answer": "Claudius"
+        },
+        {
+            "question": "In order to escape from the island of Crete, what man built wings and was the first human to fly?",
+            "options": ["Daedalus", "Narcissus", "Pygmalion", "Midas"],
+            "correct_answer": "Daedalus"
+        },
+        {
+            "question": "The Carthaginian general Hannibal dealt the Romans the most costly defeat in their history up to that point at the Battle of",
+            "options": ["Actium", "Pharsalus", "Alesia", "Cannae"],
+            "correct_answer": "Cannae"
+        },
+        {
+            "question": "As you push through the crowds in the forum, what might you say to those who are standing in your way?",
+            "options": ["Plaudite, omnēs!", "Ignōscite mihi!", "Mihi placet!", "Vīvāmus!"],
+            "correct_answer": "Ignōscite mihi!"
+        },
+        {
+            "question": "Where would you see a woman wearing a flammeum, tunica recta, and nodus Herculaneus as she said the phrase, “Ubi tū Gāius, ego Gāia”?",
+            "options": ["a funeral", "a wedding", "a theatrical performance", "a military triumph"],
+            "correct_answer": "a wedding"
+        },
+        {
+            "question": "The American Founding Father John Adams once wrote that he had “crossed the Rubicon.” By this he meant that he",
+            "options": ["was running away", "would die soon", "could no longer go back", "had plowed his fields"],
+            "correct_answer": "could no longer go back"
+        },
+        {
+            "question": "What Latin phrase best describes the means a Roman emperor could use to control the common people?",
+            "options": ["ad astra per aspera", "pānem et circēnsēs", "post hoc, ergō propter hoc", "ars longa, vīta brevis"],
+            "correct_answer": "pānem et circēnsēs"
+        },
+        {
+            "question": "What sorceress aided Jason in his quest for the Golden Fleece, eventually married him, and then killed their children in revenge after he rejected her for a younger princess?",
+            "options": ["Eurydice", "Ariadne", "Circe", "Medea"],
+            "correct_answer": "Medea"
+        },
+        {
+            "question": "What was the name of the wax-covered board on which Romans would write with a stilus and smooth over to write upon again?",
+            "options": ["strigilis", "mappa", "tābula", "lyra"],
+            "correct_answer": "tābula"
+        },
+        {
+            "question": "Who was the Roman general and statesman who served as consul seven times and was known for his re-organization of the army?",
+            "options": ["Marius", "Pompey", "Cincinnatus", "Coriolanus"],
+            "correct_answer": "Marius"
+        },
+        {
+            "question": "In Greek mythology, this mother’s sudden loss of her children illustrates that the gods were quick to punish human pride and arrogance.",
+            "options": ["Atalanta", "Leda", "Niobe", "Pandora"],
+            "correct_answer": "Niobe"
+        },
+        {
+            "question": "Saturn, a Titan who fathered Jupiter and his siblings, became the Italian god of",
+            "options": ["love and friendship", "harvest and agriculture", "volcanoes and metalworking", "the military and its ceremonies"],
+            "correct_answer": "harvest and agriculture"
+        },
+        {
+            "question": "Which province produced linen, papyrus, and a large portion of Rome’s grain supply?",
+            "options": ["Britannia", "Gallia", "Germānia", "Aegyptus"],
+            "correct_answer": "Aegyptus"
+        },
+        {
+            "question": "Based on its Latin root, which English word literally means, “to reduce to nothing”?",
+            "options": ["reanimate", "annihilate", "decapitate", "defenestrate"],
+            "correct_answer": "annihilate"
+        },
+        {
+            "question": "In classical mythology, where would the best, bravest, and brightest heroes spend their afterlife?",
+            "options": ["Tartarus", "beneath Mount Etna", "Elysian Fields", "Mount Parnassus"],
+            "correct_answer": "Elysian Fields"
+        },
+        {
+            "question": "What Roman political faction generally appealed to the desires of the common people?",
+            "options": ["Optimātēs", "Equitēs", "Imperātōrēs", "Populārēs"],
+            "correct_answer": "Populārēs"
+        },
+        {
+            "question": "What savage mythological animal, pursued by many men, was first wounded by Atalanta?",
+            "options": ["Calydonian Boar", "Minotaur", "Nemean Lion", "Hydra"],
+            "correct_answer": "Calydonian Boar"
+        },
+        {
+            "question": "If a team with aspirations for the championship suffers a disappointing but not season-ending loss, what might the coach say to encourage them?",
+            "options": ["veni, vidi, vici", "ad astra per aspera", "caveat emptor", "in loco parentis"],
+            "correct_answer": "ad astra per aspera"
+        },
+        {
+            "question": "During what common Roman event would one see the dropping of a mappa, as well as ōva and delphinī mounted on the spīna?",
+            "options": ["gladiatorial fights", "public bathing", "chariot racing", "stage productions"],
+            "correct_answer": "chariot racing"
+        },
+        {
+            "question": "What river did travelers have to cross to pass from Gaul into Italy?",
+            "options": ["Nile", "Rubicon", "Danube", "Tiber"],
+            "correct_answer": "Rubicon"
+        },
+        {
+            "question": "The English words eject, trajectory, and objective come from the Latin word that means to",
+            "options": ["take", "touch", "travel", "throw"],
+            "correct_answer": "throw"
+        },
+        {
+            "question": "The mayor's explanation of his actions was an ex post facto attempt to justify them. Ex post facto means",
+            "options": ["excellently crafted", "retroactively done", "humbly apologetic", "overly cautious"],
+            "correct_answer": "retroactively done"
+        },
+        {
+            "question": "Quirinal, Esquiline, Aventine, and Caelian are the names of Roman",
+            "options": ["hills", "rivers", "roads", "provinces"],
+            "correct_answer": "hills"
+        },
+        {
+            "question": "Who was the native Italian god of doorways as well as beginnings and endings?",
+            "options": ["Quirinus", "Faunus", "Saturnus", "Janus"],
+            "correct_answer": "Janus"
+        },
+        {
+            "question": "After introducing the guest speaker to the Latin students, the teacher said,",
+            "options": ["Mē paenitet!", "Plaudite, omnēs!", "Exeunt omnēs!", "Persōna nōn grāta!"],
+            "correct_answer": "Mē paenitet!"
+        },
+        {
+            "question": "Which region of the ancient world was so populated with Greek colonists that it was called Magna Graecia?",
+            "options": ["Cisalpine Gaul", "North Africa", "Southern Italy", "Western Germany"],
+            "correct_answer": "Southern Italy"
+        },
+        {
+            "question": "Which emperor, who had military success in Britain, adopted Nero as his heir, and is said to have been poisoned by his own wife?",
+            "options": ["Augustus", "Tiberius", "Caligula", "Claudius"],
+            "correct_answer": "Claudius"
+        },
+        {
+            "question": "At which battle was Hannibal defeated by Scipio?",
+            "options": ["Pharsalus", "Cannae", "Philippi", "Zama"],
+            "correct_answer": "Zama"
+        },
+        {
+            "question": "According to the Roman calendar, prīdie Kal. Iān. fell on",
+            "options": ["December 29", "December 31", "January 1", "January 3"],
+            "correct_answer": "January 3"
+        },
+        {
+            "question": "What is the Latin word for the universal color of a stop sign?",
+            "options": ["āter", "caeruleus", "ruber", "viridis"],
+            "correct_answer": "ruber"
+        },
+        {
+            "question": "In classical mythology, which hero and monster do NOT encounter each other?",
+            "options": ["Hercules and Cerberus", "Theseus and the Chimaera", "Perseus and Medusa", "Odysseus and Polyphemus"],
+            "correct_answer": "Theseus and the Chimaera"
+        },
+        {
+            "question": "With too much work for one person to do, each committee member took a task. This is an example of",
+            "options": ["caveat emptor", "status quo", "alea iacta est", "divide et impera"],
+            "correct_answer": "divide et impera"
+        },
+        {
+            "question": "If your teacher says, “Ī, discipule, ad tabulam et scrībe nōmen tuum,” what should you do?",
+            "options": ["Go to the board and write your name.", "Go to the library and sign in.", "Go to the shop and write your name on the wall.", "Go to the town record office and inscribe your name in the records."],
+            "correct_answer": "Go to the board and write your name."
+        },
+        {
+            "question": "With what common Roman activity are strigilēs, unguentum, and tepidārium associated?",
+            "options": ["gladiatorial fights", "public bathing", "chariot racing", "stage productions"],
+            "correct_answer": "public bathing"
+        },
+        {
+            "question": "“Diēs est calidus” is an appropriate response to",
+            "options": ["Quis abest hodiē?", "Quot oculōs habēs?", "Quaenam tempestās est?", "Quota hōra est?"],
+            "correct_answer": "Quaenam tempestās est?"
+        },
+        {
+            "question": "Who is the hero associated with the Golden Fleece and Medea?",
+            "options": ["Hercules", "Daedalus", "Jason", "Bellerophon"],
+            "correct_answer": "Jason"
+        },
+        {
+            "question": "Ubi erant Cūmae et Capua et Mediolānum et Brundisium?",
+            "options": ["in Italiā", "in Galliā", "in Hispāniā", "in Graeciā"],
+            "correct_answer": "in Italiā"
+        },
+        {
+            "question": "In mythology, who was NOT changed into a tree?",
+            "options": ["Daphne", "Niobe", "Philemon", "Baucis"],
+            "correct_answer": "Niobe"
+        },
+        {
+            "question": "Octavian’s victory at the Battle of Actium took place in 31 BC",
+            "options": ["on the sea off the coast of Greece", "in a valley of Thrace", "on the plain near Troy", "on a river of southern Gaul"],
+            "correct_answer": "on the sea off the coast of Greece"
+        },
+        {
+            "question": "What modern date is represented by a.d. iii Kal. Aug.?",
+            "options": ["July 23", "July 30", "August 3", "September 3"],
+            "correct_answer": "July 30"
+        },
+        {
+            "question": "The tunica rēcta, the flammeum, and sex crīnēs are terms related to",
+            "options": ["funerals", "triumphs", "chariot races", "weddings"],
+            "correct_answer": "weddings"
+        },
+        {
+            "question": "At the root of the words innate, renaissance, and nascent is the Latin verb nāscor meaning",
+            "options": ["to obtain", "to tell", "to be born", "to be able"],
+            "correct_answer": "to be born"
+        },
+        {
+            "question": "A possible response to the question Vīsne habēre plūs aquae? would be",
+            "options": ["Ita vērō, volō bibere!", "Ignōsce mihi, meā culpā!", "Valē! In viā ambulābō.", "Est statua in ātriō!"],
+            "correct_answer": "Ita vērō, volō bibere!"
+        },
+        {
+            "question": "What motto refers to military power giving way to civil authority?",
+            "options": ["Esse quam videri", "Cedant arma togae", "Ars gratia artis", "Virtute et armis"],
+            "correct_answer": "Cedant arma togae"
+        },
+        {
+            "question": "Who of the following was a foreign king who fought against Rome?",
+            "options": ["Horatius", "Sulla", "Pyrrhus", "Tiberius"],
+            "correct_answer": "Pyrrhus"
+        },
+        {
+            "question": "Telemachus is related to Odysseus in the same way as _____ is related to Daedalus",
+            "options": ["Perseus", "Theseus", "Icarus", "Jason"],
+            "correct_answer": "Icarus"
+        },
+        {
+            "question": "What is a typical response if a friend asks you, “Quid novī?”",
+            "options": ["Nihil", "Salvē", "Optimē", "Male"],
+            "correct_answer": "Nihil"
+        },
+        {
+            "question": "Where did the mythological hero Theseus journey to seek the Minotaur?",
+            "options": ["Sicily", "Troy", "Egypt", "Crete"],
+            "correct_answer": "Crete"
+        },
+        {
+            "question": "What does the abbreviation e.g. mean?",
+            "options": ["for example", "in other words", "note well", "thank you"],
+            "correct_answer": "for example"
+        },
+        {
+            "question": "The Latin phrase Dramatis Persōnae often introduces a list of",
+            "options": ["names on a grave stone", "candidates on a ballot", "players on a sports team", "characters in a theater production"],
+            "correct_answer": "characters in a theater production"
+        },
+        {
+            "question": "Where might a Roman audience see a spectacle featuring a rētiārius, a secūtor, a bēstiārius, and a vēnātiō?",
+            "options": ["a theater", "a temple", "an amphitheater", "public baths"],
+            "correct_answer": "an amphitheater"
+        },
+        {
+            "question": "If a friend says that a certain chain of stores is ubiquitous, you know that the stores in this chain are",
+            "options": ["expensive", "crowded", "everywhere", "spacious"],
+            "correct_answer": "everywhere"
+        },
+        {
+            "question": "What Latin verb is the root of the English words relate, reference, and translation?",
+            "options": ["faciō", "lavō", "laudō", "ferō"],
+            "correct_answer": "ferō"
+        },
+        {
+            "question": "Quis sum? Ego dē Olympō ad terram dēscendō. Sum nūntius deōrum. Ālās in pedibus meīs habeō.",
+            "options": ["Neptūnus", "Mercurius", "Iānus", "Mars"],
+            "correct_answer": "Mercurius"
+        },
+        {
+            "question": "At the Battle of Actium, the forces of Antony and Cleopatra fought with those of",
+            "options": ["Octavian", "Julius Caesar", "Pompey", "Brutus"],
+            "correct_answer": "Octavian"
+        },
+        {
+            "question": "The sound of a dulcimer ought to be",
+            "options": ["sweet", "scary", "confusing", "harsh"],
+            "correct_answer": "sweet"
+        },
+        {
+            "question": "Saliī, augurēs, flāminēs, and sacerdōtēs were primarily involved in Roman",
+            "options": ["military life", "provincial rule", "public works", "religious observances"],
+            "correct_answer": "religious observances"
+        },
+        {
+            "question": "According to the Roman dating system, prīdiē Īdūs Martiās was",
+            "options": ["March 12", "March 14", "March 16", "March 18"],
+            "correct_answer": "March 14"
+        },
+        {
+            "question": "The English words assuming, consumption, and resume come from the Latin word that means",
+            "options": ["call", "send out", "take up", "eat"],
+            "correct_answer": "take up"
+        },
+        {
+            "question": "Trebia, Lake Trasimene, and Cannae were",
+            "options": ["places of Carthaginian victories in the Second Punic War", "areas in Britain colonized by Claudius", "areas in Gaul which rebelled against Caesar", "territories yielded to Rome by the Samnites"],
+            "correct_answer": "places of Carthaginian victories in the Second Punic War"
+        },
+        {
+            "question": "Who were the protective guardian spirits unique to each Roman household and worshipped by its family members?",
+            "options": ["Larēs", "Gorgonēs", "Parcae", "Mūsae"],
+            "correct_answer": "Larēs"
+        },
+        {
+            "question": "Appia, Flāminia, Aurēlia, and Aemilia were names of Roman",
+            "options": ["hills", "baths", "roads", "amphitheaters"],
+            "correct_answer": "roads"
+        },
+        {
+            "question": "What self-absorbed mortal was transformed into a beautiful flower at the water’s edge?",
+            "options": ["Iris", "Narcissus", "Pyramus", "Echo"],
+            "correct_answer": "Narcissus"
+        },
+        {
+            "question": "Tuscany, the area north of Rome known today for its art, was once inhabited by the _____, who were skilled craftsmen.",
+            "options": ["Gauls", "Thracians", "Greeks", "Etruscans"],
+            "correct_answer": "Etruscans"
+        },
+        {
+            "question": "Aequora pulchra delphinōs ________.",
+            "options": ["habent", "habes", "habe", "sunt"],
+            "correct_answer": "sunt"
+        },
+        {
+            "question": "Nequiquam veniō ut munus_______donem.",
+            "options": ["frater", "fratre", "fratrī", "fratro"],
+            "correct_answer": "fratrī"
+        },
+        {
+            "question": "Fuga__________ est.",
+            "options": ["mihi", "me", "mei", "meo"],
+            "correct_answer": "mihi"
+        },
+        {
+            "question": "Cetus_____ me carpet.",
+            "options": ["misera", "miserum", "miserō", "miserī"],
+            "correct_answer": "miserum"
+        },
+        {
+            "question": "Vēnērunt cibum______. ",
+            "options": ["petendī", "petītum", "peterent", "petīre"],
+            "correct_answer": "petītum"
+        },
+        {
+            "question": "Haec domus est _________?",
+            "options": ["patrem meum", "pater meus", "patris meō", "patris meī"],
+            "correct_answer": "patris meī"
+        },
+        {
+            "question": "Nōs scīvimus hunc virum ____________ insignem imperatorem.",
+            "options": ["esse", "est", "erat", "fuerat"],
+            "correct_answer": "esse"
+        },
+        {
+            "question": "Caesare ________, Res Publica peritura est.",
+            "options": ["dictatorem", "dictatorī", "dictatore", "dictatoris"],
+            "correct_answer": "dictatore"
+        },
+        {
+            "question": "Līcetne ________ mulsum?",
+            "options": ["bibam", "bibere", "bibi", "bibendī"],
+            "correct_answer": "bibere"
+        },
+        {
+            "question": "Romanī moriuntur __________ causā.",
+            "options": ["amandum", "amandī", "amandō", "amandīs"],
+            "correct_answer": "amandō"
+        },
+        {
+            "question": "Putō _______ sapere.",
+            "options": ["tīs", "tuō", "tuī", "tē"],
+            "correct_answer": "tē"
+        },
+        {
+            "question": "Opus est __________.",
+            "options": ["consule", "consulis", "consulī", "consulem"],
+            "correct_answer": "consulī"
+        },
+        {
+            "question": "Sol lucēbat tot diēs ut herba __________ .",
+            "options": ["perīre", "pereat", "perīret", "perīerit"],
+            "correct_answer": "perīret"
+        },
+        {
+            "question": "Eo tempore non _________ id facere.",
+            "options": ["poteram", "potuisse", "posse", "eram"],
+            "correct_answer": "poteram"
+        },
+        {
+            "question": "Nemō_______ meīs persuāsit nē pedem referrent.",
+            "options": ["amicum", "amicōrum", "amicīs", "amicō"],
+            "correct_answer": "amicīs"
+        },
+        {
+            "question": "Dux legātōs mīsit quī urbem __________.",
+            "options": ["caperent", "ad capiendum", "captī essent", "caperint"],
+            "correct_answer": "caperent"
+        },
+        {
+            "question": "_________ eum praeposuī.",
+            "options": ["exercituī", "exercitum", "exercitūs", "exercituum"],
+            "correct_answer": "exercituī"
+        },
+        {
+            "question": "_______, omnes!",
+            "options": ["salvē", "salvērunt", "salvēte", "salvēre"],
+            "correct_answer": "salvēte"
+        },
+        {
+            "question": "Librīs __________ operam dat.",
+            "options": ["legendō", "legendīs", "legendī", "legendum"],
+            "correct_answer": "legendīs"
+        },
+        {
+            "question": "Studium_________ cum amicis habet.",
+            "options": ["vivendum", "vivendīs", "vivendī", "vivendō"],
+            "correct_answer": "vivendī"
+        },
+        {
+            "question": "Pectus scelestī ________caruit.",
+            "options": ["amoris", "amorem", "amorī", "amore"],
+            "correct_answer": "amore"
+        },
+        {
+            "question": "Aemilia est sapientior____________.",
+            "options": ["multīs", "multō", "multās", "multa"],
+            "correct_answer": "multō"
+        },
+        {
+            "question": "Imperat vobīs __________ hoc celerius faciātis.",
+            "options": ["ut", "quō", "tam", "ne"],
+            "correct_answer": "ut"
+        },
+        {
+            "question": "Monuit eōs _______ hoc facerent.",
+            "options": ["quī", "nē", "quō", "quīn"],
+            "correct_answer": "nē"
+        },
+        {
+            "question": "Sī__________ de hāc rē, non errem.",
+            "options": ["arbitrārī", "arbitrābar", "arbitrer", "arbitror"],
+            "correct_answer": "arbitrārī"
+        },
+        {
+            "question": "Audeant illī virī et illae feminae ____ fortēs.",
+            "options": ["esse", "sunt", "sint", "est"],
+            "correct_answer": "sint"
+        },
+        {
+            "question": "Utīnam prudentissima femina in municipiō________.",
+            "options": ["erat", "essem", "fui", "fuerim"],
+            "correct_answer": "essem"
+        },
+        {
+            "question": "Hoc _______ benevolentiā dixit ut eos non offenderet.",
+            "options": ["tantae", "tantō", "tantā", "tantās"],
+            "correct_answer": "tantā"
+        },
+        {
+            "question": "From what island did Daedalus and Icarus escape on wings of wax and feathers?",
+            "options": ["Rhodes", "Crete", "Naxos", "Sicily"],
+            "correct_answer": "Crete"
+        },
+        {
+            "question": "Which Titan was called “Sol” by the Romans?",
+            "options": ["Helius", "Oceanus", "Atlas", "Prometheus"],
+            "correct_answer": "Helius"
+        },
+        {
+            "question": "What son of Metaneira did Demeter place nightly in a fire in order to immortalize him?",
+            "options": ["Melicertes", "Astyanax", "Ascanius", "Demophoön"],
+            "correct_answer": "Demophoön"
+        },
+        {
+            "question": "What form did Zeus take when he pursued Leda, the mother of Helen?",
+            "options": ["bull", "swan", "cuckoo", "flame"],
+            "correct_answer": "swan"
+        },
+        {
+            "question": "Name the blind seer of Thebes who made prophecies about Narcissus and for Odysseus.",
+            "options": ["Melampus", "Nereus", "Teiresias", "Paris"],
+            "correct_answer": "Teiresias"
+        },
+        {
+            "question": "Who was the god of sun, music, medicine, and prophesy?",
+            "options": ["Zeus", "Hephaestus", "Apollo", "Hades"],
+            "correct_answer": "Apollo"
+        },
+        {
+            "question": "The sea goddess, Doris, was the mother of which group of 50 daughters?",
+            "options": ["Oreads", "Oceanids", "Danaids", "Nereids"],
+            "correct_answer": "Nereids"
+        },
+        {
+            "question": "Name the mother of Telemachus and the wife of Odysseus.",
+            "options": ["Penelope", "Arisbe", "Amata", "Polyxena"],
+            "correct_answer": "Penelope"
+        },
+        {
+            "question": "Which swampy river was sometimes considered the boundary of the Underworld, instead of the Styx?",
+            "options": ["Lethe", "Cocytus", "Phlegethon", "Acheron"],
+            "correct_answer": "Acheron"
+        },
+        {
+            "question": "What instrument did Marsyas play?",
+            "options": ["Syrinx pipes", "lyre", "trumpet", "(double) flute"],
+            "correct_answer": "(double) flute"
+        },
+        {
+            "question": "Whose daughter, Medea, helped Jason to steal his prized Golden fleece?",
+            "options": ["Helius", "Aeëtes", "Absyrtus", "Icarius"],
+            "correct_answer": "Aeëtes"
+        },
+        {
+            "question": "What did the Furies punish?",
+            "options": ["adultery", "murder of family", "theft", "impersonation of a god"],
+            "correct_answer": "murder of family"
+        },
+        {
+            "question": "Which son of Zeus and Europa ruled over Elysium in the Underworld?",
+            "options": ["Minos", "Rhadamanthys", "Sarpedon", "Asterius"],
+            "correct_answer": "Rhadamanthys"
+        },
+        {
+            "question": "What people, created by Zeus from ants, did Achilles lead into battle?",
+            "options": ["Ectenes", "Pelasgians", "Myrmidons", "Lapiths"],
+            "correct_answer": "Myrmidons"
+        },
+        {
+            "question": "Which Greek warrior at Troy withdrew from fighting when Agammemnon demanded his concubine, Briseïs?",
+            "options": ["Achilles", "Diomdes", "Ajax", "Menelaus"],
+            "correct_answer": "Achilles"
+        },
+        {
+            "question": "What son of Nauplius and Clymene was clever enough to see through Odysseus' ruse of insanity?",
+            "options": ["Machaeon", "Philoctetes", "Palamedes", "Epeius"],
+            "correct_answer": "Palamedes"
+        },
+        {
+            "question": "What city was purchased by a queen asking only for what land she could encompass in a bull’s hide?",
+            "options": ["Tiryns", "Troy", "Corinth", "Carthage"],
+            "correct_answer": "Carthage"
+        },
+        {
+            "question": "Who was punished with insatiable hunger by Demeter after he cut down an oak belonging to a dryad?",
+            "options": ["Cepheus", "Erysichthon", "Hypsaeus", "Neleus"],
+            "correct_answer": "Erysichthon"
+        },
+        {
+            "question": "Whose stables did Heracles manage to clean in a day by diverting two rivers?",
+            "options": ["Deucalion's", "Augeias'", "Cychreus'", "Iasion's"],
+            "correct_answer": "Augeias'"
+        },
+        {
+            "question": "What female monsters were known as “the hounds of Zeus” and may have been personifications of storm winds?",
+            "options": ["Harpies", "Sirens", "Furies", "Lamiae"],
+            "correct_answer": "Harpies"
+        },
+        {
+            "question": "While the crow is usually Apollo's bird, which goddess originally had it as hers until she rejected it for the owl?",
+            "options": ["Hera", "Athena", "Aphrodite", "Artemis"],
+            "correct_answer": "Athena"
+        },
+        {
+            "question": "Which of the following was NOT a monster captured or killed by Heracles during his Labors?",
+            "options": ["Ladon", "Erymanthian boar", "Mares of Diomedes", "Python"],
+            "correct_answer": "Python"
+        },
+        {
+            "question": "What daughter of the river Peneius and Creusa was turned into a laurel tree while fleeing Apollo?",
+            "options": ["Daphne", "Helen", "Chloris", "Arisbe"],
+            "correct_answer": "Daphne"
+        },
+        {
+            "question": "What was the principal city of the Amazons (though the movie Wonder Woman depicts it as an island)?",
+            "options": ["Memphis", "Drepane", "Colchis", "Themiscyra"],
+            "correct_answer": "Themiscyra"
+        },
+        {
+            "question": "Which late Republican figure committed suicide following the Battle of Thapsus?",
+            "options": ["Pompey", "Cato the Younger", "Cassius", "Cicero"],
+            "correct_answer": "Cato the Younger"
+        },
+        {
+            "question": "Which king of Rome incorporated the Janiculum Hill?",
+            "options": ["Romulus", "Numa Pompilius", "Ancus Marcius", "Servius Tullius"],
+            "correct_answer": "Ancus Marcius"
+        },
+        {
+            "question": "Against whom was a senatus consultum ultimum passed in 121 B.C.?",
+            "options": ["Gaius Gracchus", "Tiberius Gracchus", "Scipio Aemilianus", "Saturninus"],
+            "correct_answer": "Gaius Gracchus"
+        },
+        {
+            "question": "What naval battle of 256 B.C. preceded Regulus’ ill-fated invasion of Africa during the First Punic War?",
+            "options": ["Cape Ecnomus", "Drepana", "Aegates Islands", "Mylae"],
+            "correct_answer": "Cape Ecnomus"
+        },
+        {
+            "question": "Which not-so-nice emperor died when the wrestler Narcissus strangled him in a bathtub?",
+            "options": ["Caligula", "Nero", "Domitian", "Commodus"],
+            "correct_answer": "Commodus"
+        },
+        {
+            "question": "In which year did Octavian celebrate a triple triumph?",
+            "options": ["31 BC", "27 BC", "2 BC", "29 BC"],
+            "correct_answer": "29 BC"
+        },
+        {
+            "question": "What Queen of the Ethiopians negotiated Rome’s southern border at the First Cataract of the Nile River?",
+            "options": ["Cleopatra", "Teuta", "Candace", "Boudicca"],
+            "correct_answer": "Candace"
+        },
+        {
+            "question": "What tribune granted Caesar control of Illyricum and Cisalpine Gaul in 59 B.C.?",
+            "options": ["Marcellus", "Scribonius Curio", "Clodius Pulcher", "Vatinius"],
+            "correct_answer": "Vatinius"
+        },
+        {
+            "question": "Which emperor demanded to be referred to as dominus et deus?",
+            "options": ["Domitian", "Aurelian", "Diocletian", "Constantine"],
+            "correct_answer": "Domitian"
+        },
+        {
+            "question": "What governor was responsible for the construction of Hadrian’s Wall?",
+            "options": ["Platorius Nepos", "Aulus Plautius", "Lollius Urbicus", "Julius Severus"],
+            "correct_answer": "Aulus Plautius"
+        },
+        {
+            "question": "Under whose reign was Ctesiphon NOT sacked?",
+            "options": ["Caracalla’s", "Carus’", "Trajan’s", "Galerius’"],
+            "correct_answer": "Trajan’s"
+        },
+        {
+            "question": "What pretender to the throne of Pergamum masqueraded as a son of the Roman ally Eumenes II?",
+            "options": ["Attalus III", "Ariobarzanes", "Eudamus", "Aristonicus"],
+            "correct_answer": "Aristonicus"
+        },
+        {
+            "question": "Where did Curius Dentatus bring the war with King Pyrrhus to a close in 275 B.C.?",
+            "options": ["Heraclea", "Asculum", "Sentinum", "Beneventum"],
+            "correct_answer": "Beneventum"
+        },
+        {
+            "question": "What late emperor took some measures to restore paganism which were quickly reversed by Jovian?",
+            "options": ["Theodosius I", "Julian", "Gratian", "Constantius II"],
+            "correct_answer": "Julian"
+        },
+        {
+            "question": "What early Republican brokered peace with the Latins and passed agrarian reform, but was put to death for “attempting to become king” – according to the patricians?",
+            "options": ["Publicola", "Collatinus", "Spurius Cassius", "Appius Claudius"],
+            "correct_answer": "Spurius Cassius"
+        },
+        {
+            "question": "Which Gallic figure was the chieftain of the Eburones?",
+            "options": ["Vercingetorix", "Orgetorix", "Ariovistus", "Ambiorix"],
+            "correct_answer": "Ambiorix"
+        },
+        {
+            "question": "Which of the emperors of 69 A.D. died by suicide?",
+            "options": ["Vitellius", "Nero", "Galba", "Otho"],
+            "correct_answer": "Otho"
+        },
+        {
+            "question": "What city enjoyed the expertise of the genius Archimedes but was ultimately fell to forces led by Marcellus?",
+            "options": ["Tarentum", "Capua", "Syracuse", "Messana"],
+            "correct_answer": "Syracuse"
+        },
+        {
+            "question": "Which king of Rome conducted the first census?",
+            "options": ["Romulus", "Numa Pompilius", "Tarquinius Priscus", "Servius Tullius"],
+            "correct_answer": "Servius Tullius"
+        },
+        {
+            "question": "What powerful empress was trusted with many state affairs during the reign of her son Alexander Severus?",
+            "options": ["Julia Domna", "Julia Maesa", "Julia Mamaea", "Julia Soaemeis"],
+            "correct_answer": "Julia Mamaea"
+        },
+        {
+            "question": "Where did Tiberius retire late in Augustus’ reign before reluctantly succeeding him in 14 A.D.?",
+            "options": ["Capri", "Rhodes", "Cyprus", "Pandateria"],
+            "correct_answer": "Capri"
+        },
+        {
+            "question": "gens",
+            "options": ["stone", "knee", "clan", "cheek"],
+            "correct_answer": "clan"
+        },
+        {
+            "question": "uxor",
+            "options": ["shade", "wave", "city", "wife"],
+            "correct_answer": "wife"
+        },
+        {
+            "question": "tangō",
+            "options": ["rejoice", "touch", "stretch", "dance"],
+            "correct_answer": "touch"
+        },
+        {
+            "question": "nimis",
+            "options": ["nest", "cloudy", "nothing", "too much"],
+            "correct_answer": "too much"
+        },
+        {
+            "question": "rēgia",
+            "options": ["palace", "boundary", "ruler", "area"],
+            "correct_answer": "palace"
+        },
+        {
+            "question": "bene",
+            "options": ["soon", "blessed", "well", "indeed"],
+            "correct_answer": "well"
+        },
+        {
+            "question": "pellō",
+            "options": ["strike", "wander", "flee", "shave"],
+            "correct_answer": "strike"
+        },
+        {
+            "question": "iterum",
+            "options": ["thus", "meanwhile", "again", "within"],
+            "correct_answer": "again"
+        },
+        {
+            "question": "pons",
+            "options": ["battle", "foot", "harbor", "bridge"],
+            "correct_answer": "bridge"
+        },
+        {
+            "question": "frūmentum",
+            "options": ["fruit", "strait", "grain", "plow"],
+            "correct_answer": "grain"
+        },
+        {
+            "question": "cēra",
+            "options": ["wax", "ash", "rest", "basket"],
+            "correct_answer": "wax"
+        },
+        {
+            "question": "ala",
+            "options": ["breeze", "shield", "food", "wing"],
+            "correct_answer": "wing"
+        },
+        {
+            "question": "inermis",
+            "options": ["sluggish", "hostile", "distinguished", "defenseless"],
+            "correct_answer": "defenseless"
+        },
+        {
+            "question": "rīdeō",
+            "options": ["redden", "smile", "reject", "stiffen"],
+            "correct_answer": "smile"
+        },
+        {
+            "question": "pār",
+            "options": ["because", "enough", "equal", "through"],
+            "correct_answer": "equal"
+        },
+        {
+            "question": "arx",
+            "options": ["pole", "citadel", "flame", "art"],
+            "correct_answer": "citadel"
+        },
+        {
+            "question": "culpa",
+            "options": ["guilt", "honor", "garment", "reason"],
+            "correct_answer": "guilt"
+        },
+        {
+            "question": "What is the term for relatives connected through marriage only?",
+            "options": ["cognatī", "agnatī", "stirps", "adfines"],
+            "correct_answer": "adfines"
+        },
+        {
+            "question": "What Roman gens was the only to use the praenomen Mamercus?",
+            "options": ["Claudii", "Aemilii", "Metelli", "Julii"],
+            "correct_answer": "Aemilii"
+        },
+        {
+            "question": "What is the term for a betrothal where a maiden is promised to a man by her pater familias?",
+            "options": ["sponsalia", "hymenaeus", "matronalia", "susceptio"],
+            "correct_answer": "sponsalia"
+        },
+        {
+            "question": "Which of the following was NOT a toy for Roman children?",
+            "options": ["crepundia", "turbines", "tali", "cunae"],
+            "correct_answer": "cunae"
+        },
+        {
+            "question": "What open courtyard separated the street from the door to the Roman house?",
+            "options": ["hortus", "xystus", "vestibulum", "diaetae"],
+            "correct_answer": "vestibulum"
+        },
+        {
+            "question": "What are all of the following: horologium, clepsydra, solarium?",
+            "options": ["seats", "clocks", "lighting", "doors"],
+            "correct_answer": "clocks"
+        },
+        {
+            "question": "Which type of tunic was long enough to reach the ankles?",
+            "options": ["tunica talaris", "tunica dalmatica", "tunica manicata", "tunica angusti clavi"],
+            "correct_answer": "tunica talaris"
+        },
+        {
+            "question": "Margarita was the Latin word for which jewel, a favorite amongst Roman women?",
+            "options": ["pearl", "emerald", "sapphire", "diamond"],
+            "correct_answer": "pearl"
+        },
+        {
+            "question": "What was the term for honeyed wine?",
+            "options": ["mustum", "mulsum", "mulsa", "vinum"],
+            "correct_answer": "mulsum"
+        },
+        {
+            "question": "What Roman ball game featured three people and at least two balls?",
+            "options": ["micatio", "folles", "trigon", "calculi"],
+            "correct_answer": "trigon"
+        },
+        {
+            "question": "Which Roman emperor added the purpurea and aurea factiones to the ludi circenses?",
+            "options": ["Domitian", "Diocletian", "Diomedes", "Nero"],
+            "correct_answer": "Domitian"
+        },
+        {
+            "question": "Which kind of gladiator fought blindfolded?",
+            "options": ["retiarius", "dimachaerus", "loqueator", "andabata"],
+            "correct_answer": "andabata"
+        },
+        {
+            "question": "Which of the following was NOT a type of fish sauce?",
+            "options": ["asellus", "muria", "garum", "liquamen"],
+            "correct_answer": "asellus"
+        },
+        {
+            "question": "Which toga was black and worn by those in mourning?",
+            "options": ["toga candida", "toga picta", "toga pulla", "toga pura"],
+            "correct_answer": "toga pulla"
+        },
+        {
+            "question": "What is the term for a Roman stepmother?",
+            "options": ["amita", "matertera", "noverca", "provigna"],
+            "correct_answer": "noverca"
+        },
+        {
+            "question": "What was the term for the apprenticeships young Romans would have, most commonly in law or military?",
+            "options": ["tirocinium", "suasoria", "declamatio", "pergula"],
+            "correct_answer": "tirocinium"
+        },
+        {
+            "question": "Which of the following dates was NOT considered unlucky for marriage?",
+            "options": ["Oct. 5th", "May 5th", "August 24th", "June 24th"],
+            "correct_answer": "June 24th"
+        },
+        {
+            "question": "What Roman praenomen was abbreviated T.?",
+            "options": ["Titus", "Tiberius", "Tullus", "Tellius"],
+            "correct_answer": "Titus"
+        },
+        {
+            "question": "What type of atria featured neither an impluvium nor a compluvium?",
+            "options": ["Corinthium", "tetrastylon", "Tuscanicum", "testudinatum"],
+            "correct_answer": "testudinatum"
+        },
+        {
+            "question": "What was the term for the slave who rubbed oil, scraped it off, and handed towels to people at the baths?",
+            "options": ["lagopus", "capsarius", "bubulcus", "vestiplicus"],
+            "correct_answer": "capsarius"
+        },
+        {
+            "question": "What was the occupation of an argentarius?",
+            "options": ["secretary", "innkeeper", "banker", "painter"],
+            "correct_answer": "banker"
+        }
+    ]
+}

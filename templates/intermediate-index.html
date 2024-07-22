@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="icon" type="image/x-icon" href="https://i.ibb.co/RcgBb57/Screenshot-2024-07-20-at-9-40-49-PM.png">
+    <link rel="stylesheet" href="{{ url_for('static', filename='header.css') }}">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&display=swap');
+
+        body {
+            font-family: 'Cormorant Garamond', sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column; /* Arrange items in a column */
+            align-items: center;
+            background-color: #fff; /* Optional: for better visibility */
+            font-weight: 500;
+        }
+
+        .container {
+            text-align: center;
+            background: #E7D4F0;
+            margin-top: 50px; /* Space between header and container */
+            margin-bottom: 50px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 500px; /* Fixed width */
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        img {
+            width: 80%; /* Half the container width */
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        label, input, button {
+            margin-bottom: 15px;
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            width: 80%;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: black;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 4px;
+            width: 50%;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+        @media only screen and (max-width: 600px) {
+            .container {
+                width: 90%;
+                margin: 10px;
+                padding: 10px;
+            }
+
+            h1 {
+                font-size: 20px;
+            }
+
+            input[type="text"], button {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="menu-btn" onclick="toggleDropdown()">☰</div>
+        <div class="left">
+        <div class="logo">
+            <a href="https://scholalatinae.com">
+                <img src="https://i.ibb.co/8mKzpLC/Screenshot-2024-07-20-at-1-39-55-PM.png" alt="Logo">
+            </a>
+        </div>
+        <nav>
+            <a href="https://scholalatinae.com/mission">Mission</a>
+            <a href="https://scholalatinae.com/about-us">About Us</a>
+            <a href="https://scholalatinae.com/donate">Donate</a>
+            <a href="https://scholalatinae.com/contact">Contact</a>
+        </nav>
+        </div>
+        <div class="buttons">
+            <a href="https://scholalatinae.com/learn">Learn</a>
+            <a href="https://scholalatinae.com/profile">Account</a>
+        </div>
+    </header>
+    <div class="dropdown-menu" id="dropdownMenu">
+        <button class="close-btn" onclick="toggleDropdown()" aria-label="Close menu">X</button>
+        <nav>
+            <a href="https://scholalatinae.com/mission">Mission</a>
+            <a href="https://scholalatinae.com/about-us">About Us</a>
+            <a href="https://scholalatinae.com/donate">Donate</a>
+            <a href="https://scholalatinae.com/contact">Contact</a>
+            <a href="https://scholalatinae.com/learn">Learn</a>
+            <a href="https://scholalatinae.com/profile">Account</a>
+        </nav>
+    </div>
+    <div class="container">
+        <h1>Intermediate</h1>
+        <img src="https://i.ibb.co/zRWKqS3/image.png" alt="image" border="0">
+        <form method="POST">
+            <label for="username">Username: (use the same as the one you signed up with)</label>
+            <input type="text" id="username" name="username" required autocomplete="username">
+            <button type="submit">Practice</button>
+        </form>
+    </div>
+    <script>
+        function toggleDropdown() {
+            const menu = document.getElementById('dropdownMenu');
+            menu.classList.toggle('active');
+        }
+    </script>
+    <script>
+        window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+      </script>
+      <script defer src="/_vercel/insights/script.js"></script>
+      <script>
+        window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+      </script>
+      <script defer src="/_vercel/speed-insights/script.js"></script>
+</body>
+</html>
