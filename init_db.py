@@ -18,7 +18,7 @@ def init_db():
             username VARCHAR(50) NOT NULL,
             score INTEGER NOT NULL,
             timestamp TIMESTAMP NOT NULL,
-            quiz_type VARCHAR(20) NOT NULL
+            quiztype VARCHAR(20) NOT NULL
         );
     ''')
 

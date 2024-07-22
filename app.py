@@ -156,14 +156,14 @@ def leaderboard():
     advanced_results = get_leaderboard('advanced')
     return render_template('leaderboard.html', beginner_results=beginner_results, advanced_results=advanced_results)
 
-def save_result(username, score, quiz_type):
+def save_result(username, score, quiztype):
     conn = get_db_connection()
     cursor = conn.cursor()
 
     # Check if user already exists
     cursor.execute('''
-        SELECT score FROM results WHERE username = %s AND quiz_type = %s
-    ''', (username, quiz_type))
+        SELECT score FROM results WHERE username = %s AND quiztype = %s
+    ''', (username, quiztype))
     existing_score = cursor.fetchone()
 
     if existing_score:
@@ -171,29 +171,29 @@ def save_result(username, score, quiz_type):
         cursor.execute('''
             UPDATE results
             SET score = score + %s, timestamp = %s
-            WHERE username = %s AND quiz_type = %s
-        ''', (score, datetime.now(), username, quiz_type))
+            WHERE username = %s AND quiztype = %s
+        ''', (score, datetime.now(), username, quiztype))
     else:
         # Insert new user
         cursor.execute('''
-            INSERT INTO results (username, score, timestamp, quiz_type)
+            INSERT INTO results (username, score, timestamp, quiztype)
             VALUES (%s, %s, %s, %s)
-        ''', (username, score, datetime.now(), quiz_type))
+        ''', (username, score, datetime.now(), quiztype))
 
     conn.commit()
     cursor.close()
     conn.close()
 
-def get_leaderboard(quiz_type):
+def get_leaderboard(quiztype):
     conn = get_db_connection()
     cursor = conn.cursor()
     cursor.execute('''
         SELECT username, score
         FROM results
-        WHERE quiz_type = %s
+        WHERE quiztype = %s
         ORDER BY score DESC
         LIMIT 10
-    ''', (quiz_type,))
+    ''', (quiztype,))
     rows = cursor.fetchall()
     cursor.close()
     conn.close()
