@@ -11,7 +11,7 @@ def init_db():
     conn = get_db_connection()
     cursor = conn.cursor()
 
-    # Create the results table with quiz_type if it does not exist
+    # Create the results table if it does not exist
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS results (
             id SERIAL PRIMARY KEY,
