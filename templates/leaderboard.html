@@ -16,16 +16,27 @@
         }
 
         .container {
-            text-align: center;
+            display: flex;
+            justify-content: center;
             margin-top: 50px;
             margin-bottom: 50px;
             background: #E7D4F0;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            width: 900px;
+            width: 100%;
+            max-width: 1200px;
             margin-left: auto;
             margin-right: auto;
+        }
+
+        .leaderboard-section {
+            flex: 1;
+            margin: 10px;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
         h1 {
@@ -53,7 +64,8 @@
         }
 
         .practice {
-            margin-right: 30px;
+            display: block;
+            margin: 10px 0;
         }
     </style>
 </head>
@@ -90,50 +102,52 @@
         </nav>
     </div>
     <div class="container">
-        <h1>Beginner Leaderboard</h1>
-        <table>
-            <thead>
-                <tr>
-                    <th>Rank</th>
-                    <th>Username</th>
-                    <th>Qs</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for result in beginner_results %}
+        <div class="leaderboard-section">
+            <h1>Beginner Leaderboard</h1>
+            <table>
+                <thead>
                     <tr>
-                        <td>{{ loop.index }}</td>
-                        <td>{{ result[0] }}</td>
-                        <td>{{ result[1] }}</td>
+                        <th>Rank</th>
+                        <th>Username</th>
+                        <th>Qs</th>
                     </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-        <a class="practice" href="/beginner">More Practice</a>
-        <a href="{{ url_for('index') }}">Back to all Quizzes</a>
-    </div>
-    <div class="container">
-        <h1>Advanced Leaderboard</h1>
-        <table>
-            <thead>
-                <tr>
-                    <th>Rank</th>
-                    <th>Username</th>
-                    <th>Qs</th>
-                </tr>
-            </thead>
-            <tbody>
-                {% for result in advanced_results %}
+                </thead>
+                <tbody>
+                    {% for result in beginner_results %}
+                        <tr>
+                            <td>{{ loop.index }}</td>
+                            <td>{{ result[0] }}</td>
+                            <td>{{ result[1] }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <a class="practice" href="/beginner">More Practice</a>
+            <a href="{{ url_for('index') }}">Back to all Quizzes</a>
+        </div>
+        <div class="leaderboard-section">
+            <h1>Advanced Leaderboard</h1>
+            <table>
+                <thead>
                     <tr>
-                        <td>{{ loop.index }}</td>
-                        <td>{{ result[0] }}</td>
-                        <td>{{ result[1] }}</td>
+                        <th>Rank</th>
+                        <th>Username</th>
+                        <th>Qs</th>
                     </tr>
-                {% endfor %}
-            </tbody>
-        </table>
-        <a class="practice" href="/advanced">More Practice</a>
-        <a href="{{ url_for('index') }}">Back to all Quizzes</a>
+                </thead>
+                <tbody>
+                    {% for result in advanced_results %}
+                        <tr>
+                            <td>{{ loop.index }}</td>
+                            <td>{{ result[0] }}</td>
+                            <td>{{ result[1] }}</td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+            <a class="practice" href="/advanced">More Practice</a>
+            <a href="{{ url_for('index') }}">Back to all Quizzes</a>
+        </div>
     </div>
     <script>
         function toggleDropdown() {
