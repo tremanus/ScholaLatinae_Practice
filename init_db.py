@@ -16,7 +16,7 @@ def init_db():
         CREATE TABLE IF NOT EXISTS results (
             id SERIAL PRIMARY KEY,
             username VARCHAR(50) NOT NULL,
-            
+            score INTEGER NOT NULL,
             timestamp TIMESTAMP NOT NULL,
             quiz_type VARCHAR(20) NOT NULL
         );
