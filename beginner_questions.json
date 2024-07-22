@@ -1124,6 +1124,111 @@
         "question": "The Latin abbreviation P.M. (post merīdiem) means",
         "options": ["dawn", "morning", "noon", "afternoon"],
         "correct_answer": "afternoon"
+    },
+    {
+        "question": "What was the Roman name for the god of the sea?",
+        "options": ["Neptune", "Mars", "Apollo", "Jupiter"],
+        "correct_answer": "Neptune"
+    },
+    {
+        "question": "Which Roman structure was primarily used for chariot races?",
+        "options": ["the Forum", "the Pantheon", "the Circus Maximus", "the Colosseum"],
+        "correct_answer": "the Circus Maximus"
+    },
+    {
+        "question": "The Latin phrase 'Veni, vidi, vici' translates to",
+        "options": ["I came, I saw, I conquered", "I went, I fought, I won", "I arrived, I watched, I succeeded", "I entered, I fought, I overcame"],
+        "correct_answer": "I came, I saw, I conquered"
+    },
+    {
+        "question": "Which Roman numeral is used to represent the number 50?",
+        "options": ["L", "C", "D", "M"],
+        "correct_answer": "L"
+    },
+    {
+        "question": "In ancient Rome, what was a 'toga'?",
+        "options": ["a type of food", "a piece of clothing", "a musical instrument", "a kind of building"],
+        "correct_answer": "a piece of clothing"
+    },
+    {
+        "question": "Who was the Roman goddess of love and beauty?",
+        "options": ["Juno", "Minerva", "Venus", "Diana"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "What was the primary language spoken in ancient Rome?",
+        "options": ["Greek", "Latin", "Hebrew", "Aramaic"],
+        "correct_answer": "Latin"
+    },
+    {
+        "question": "The phrase 'Caveat emptor' means",
+        "options": ["let the buyer beware", "let the seller be honest", "buy now, pay later", "none of the above"],
+        "correct_answer": "let the buyer beware"
+    },
+    {
+        "question": "Who was the Roman god of war?",
+        "options": ["Neptune", "Mars", "Apollo", "Jupiter"],
+        "correct_answer": "Mars"
+    },
+    {
+        "question": "Which Roman festival was celebrated in honor of the god Saturn?",
+        "options": ["Saturnalia", "Lupercalia", "Consualia", "Floralia"],
+        "correct_answer": "Saturnalia"
+    },
+    {
+        "question": "In ancient Rome, a 'villa' was",
+        "options": ["a type of meal", "a kind of weapon", "a large country house", "a type of festival"],
+        "correct_answer": "a large country house"
+    },
+    {
+        "question": "Which Roman numeral is used to represent the number 100?",
+        "options": ["L", "C", "D", "M"],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The Latin phrase 'Et tu, Brute?' translates to",
+        "options": ["And you, Brutus?", "What is it, Brutus?", "Why, Brutus?", "Hello, Brutus!"],
+        "correct_answer": "And you, Brutus?"
+    },
+    {
+        "question": "What was the purpose of the Roman 'Forum'?",
+        "options": ["a place for gladiatorial games", "a marketplace and public square", "a residential area", "a military training ground"],
+        "correct_answer": "a marketplace and public square"
+    },
+    {
+        "question": "Who was the Roman goddess of the hunt?",
+        "options": ["Minerva", "Venus", "Diana", "Juno"],
+        "correct_answer": "Diana"
+    },
+    {
+        "question": "Which of these Roman buildings was used for religious ceremonies?",
+        "options": ["the Colosseum", "the Circus Maximus", "the Pantheon", "the Forum"],
+        "correct_answer": "the Pantheon"
+    },
+    {
+        "question": "What does the Latin phrase 'Ad astra' mean?",
+        "options": ["to the stars", "to the earth", "through the heavens", "from the heavens"],
+        "correct_answer": "to the stars"
+    },
+    {
+        "question": "Who was the first emperor of Rome?",
+        "options": ["Augustus", "Nero", "Julius Caesar", "Trajan"],
+        "correct_answer": "Augustus"
+    },
+    {
+        "question": "The Latin word 'aqua' means",
+        "options": ["fire", "air", "water", "earth"],
+        "correct_answer": "water"
+    },
+    {
+        "question": "Which Roman building is known for its large dome and oculus?",
+        "options": ["the Colosseum", "the Forum", "the Pantheon", "the Circus Maximus"],
+        "correct_answer": "the Pantheon"
+    },
+    {
+        "question": "The Latin phrase 'Tempus fugit' means",
+        "options": ["time flies", "time stands still", "time is precious", "time is slow"],
+        "correct_answer": "time flies"
     }
     ]
   }

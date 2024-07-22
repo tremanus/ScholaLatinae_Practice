@@ -1119,6 +1119,81 @@
             "question": "What was the occupation of an argentarius?",
             "options": ["secretary", "innkeeper", "banker", "painter"],
             "correct_answer": "banker"
+        },
+        {
+            "question": "What is the Latin motto of the state of Virginia?",
+            "options": ["Sic Semper Tyrannis", "Virtus et Ardua", "Fide et Fortitudine", "Labor Omnia Vincit"],
+            "correct_answer": "Sic Semper Tyrannis"
+        },
+        {
+            "question": "The Latin motto 'Lux et Veritas' is associated with which university?",
+            "options": ["Yale University", "Harvard University", "Princeton University", "Stanford University"],
+            "correct_answer": "Yale University"
+        },
+        {
+            "question": "What does the Latin motto 'E Pluribus Unum' mean?",
+            "options": ["Out of many, one", "To each his own", "In God we trust", "From many, one"],
+            "correct_answer": "Out of many, one"
+        },
+        {
+            "question": "The Latin motto 'Veritas' is associated with which university?",
+            "options": ["Harvard University", "Columbia University", "University of Chicago", "University of Pennsylvania"],
+            "correct_answer": "Harvard University"
+        },
+        {
+            "question": "Which state has the Latin motto 'Concordia Integritas Industria'?",
+            "options": ["New Hampshire", "New Jersey", "New York", "North Carolina"],
+            "correct_answer": "New Hampshire"
+        },
+        {
+            "question": "What does the Latin motto 'Amor Vincit Omnia' mean?",
+            "options": ["Love conquers all", "Time is money", "Strength through unity", "Peace and justice"],
+            "correct_answer": "Love conquers all"
+        },
+        {
+            "question": "The Latin motto 'In Lumine Tuo Videbimus Lumen' is associated with which university?",
+            "options": ["University of Pennsylvania", "University of California", "University of Texas", "University of Michigan"],
+            "correct_answer": "University of Pennsylvania"
+        },
+        {
+            "question": "What is the Latin motto of the state of South Carolina?",
+            "options": ["Dum Spiro Spero", "Animus Opus", "Audemus Jura Nostra Defendere", "Virtus Junxit Mors Non Separabit"],
+            "correct_answer": "Animus Opus"
+        },
+        {
+            "question": "The Latin motto 'Ad Astra per Aspera' translates to",
+            "options": ["To the stars through difficulties", "Through the heavens to glory", "From hardship to the stars", "From the stars to the heavens"],
+            "correct_answer": "To the stars through difficulties"
+        },
+        {
+            "question": "Which university uses the Latin motto 'Fiat Lux'?",
+            "options": ["University of California, Berkeley", "University of Southern California", "University of Chicago", "University of Virginia"],
+            "correct_answer": "University of California, Berkeley"
+        },
+        {
+            "question": "What is the Latin motto of the state of New York?",
+            "options": ["Excelsior", "E Pluribus Unum", "Virtus et Ardua", "Labor Omnia Vincit"],
+            "correct_answer": "Excelsior"
+        },
+        {
+            "question": "The Latin motto 'Dei Sub Numine Viget' is associated with which university?",
+            "options": ["Princeton University", "University of Chicago", "Stanford University", "Harvard University"],
+            "correct_answer": "Princeton University"
+        },
+        {
+            "question": "What does the Latin motto 'In Deo Speramus' mean?",
+            "options": ["In God we trust", "Through faith we triumph", "In light we find truth", "With strength we prevail"],
+            "correct_answer": "In God we trust"
+        },
+        {
+            "question": "Which state has the Latin motto 'Montani Semper Liberi'?",
+            "options": ["West Virginia", "Virginia", "Pennsylvania", "Maryland"],
+            "correct_answer": "West Virginia"
+        },
+        {
+            "question": "The Latin motto 'Semper Fi' is short for",
+            "options": ["Semper Fidelis", "Semper Fortis", "Semper Fidelis et Virtus", "Semper Virtus"],
+            "correct_answer": "Semper Fidelis"
         }
     ]
 }
