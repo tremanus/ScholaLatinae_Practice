@@ -115,6 +115,31 @@
         input[type="submit"]:hover {
             background-color: #45a049;
         }
+        /* Mobile styles */
+        @media only screen and (max-width: 900px) {
+            .container {
+                width: 95%; /* Adjust container width for mobile */
+                padding: 10px; /* Reduce padding for mobile */
+                margin-top: 20px; /* Reduce margin-top for mobile */
+                margin-bottom: 20px; /* Reduce margin-bottom for mobile */
+            }
+
+            h1 {
+                font-size: 20px; /* Adjust font size for mobile */
+                padding: 10px; /* Reduce padding for mobile */
+            }
+
+            .option-container {
+                width: 100%; /* Make each option take full width */
+                font-size: 16px; /* Adjust font size for mobile */
+                padding: 8px; /* Reduce padding for mobile */
+            }
+
+            input[type="submit"] {
+                width: 100%; /* Make the submit button take full width */
+                font-size: 18px; /* Adjust font size for mobile */
+            }
+        }
     </style>
 </head>
 <body>
