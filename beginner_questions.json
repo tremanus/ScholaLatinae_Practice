@@ -131,11 +131,6 @@
         "correct_answer": "in caelō"
       },
       {
-        "question": "If you are told that you have an a.m. meeting, what do you learn about the meeting?",
-        "options": ["It’s on a boat.", "It's before noon.", "It's at your house.", "It's after dinner."],
-        "correct_answer": "It's before noon."
-      },
-      {
         "question": "Why would a worker typically receive a bonus?",
         "options": ["Their work was late.", "Their work was average.", "Their work needed correction.", "Their work was good."],
         "correct_answer": "Their work was good."
