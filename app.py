@@ -122,7 +122,7 @@ def advanced_quiz():
         session['answers'].append((current_question['question'], answer, is_correct, current_question['correct_answer']))
 
         session['question_index'] += 1
-        if session['question_index'] >= len(session['questions'])):
+        if session['question_index'] >= len(session['questions']):
             return redirect(url_for('advanced_result', _external=True))
 
     current_question_index = session.get('question_index', 0)
