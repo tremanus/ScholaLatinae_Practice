@@ -22,23 +22,6 @@ def init_db():
         );
     ''')
 
-    # Add quiz_type column if it does not exist
-    cursor.execute('''
-        DO $$
-        BEGIN
-            IF NOT EXISTS (
-                SELECT 1
-                FROM information_schema.columns
-                WHERE table_name='results'
-                AND column_name='quiz_type'
-            ) THEN
-                ALTER TABLE results
-                ADD COLUMN quiz_type VARCHAR(20) NOT NULL;
-            END IF;
-        END
-        $$;
-    ''')
-
     conn.commit()
     cursor.close()
     conn.close()
