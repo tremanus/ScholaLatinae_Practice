@@ -69,6 +69,78 @@
             color: #555;
         }
 
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.7);
+            animation: fadeIn 0.5s;
+        }
+
+        .modal-content {
+            background-color: #fff;
+            margin: 10% auto;
+            padding: 30px;
+            border-radius: 8px;
+            width: 80%;
+            max-width: 600px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+            text-align: center;
+            animation: slideIn 0.5s;
+        }
+
+        @keyframes fadeIn {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+
+        @keyframes slideIn {
+            from {transform: translateY(-50px);}
+            to {transform: translateY(0);}
+        }
+
+        .modal-header {
+            font-size: 1.75rem;
+            font-weight: bold;
+            color: #4CAF50;
+            margin-bottom: 20px;
+        }
+
+        .modal-body {
+            margin: 20px 0;
+            font-size: 1rem;
+            color: #333;
+        }
+
+        .modal-body ul {
+            text-align: left;
+            margin: 20px 0;
+            padding: 0 20px;
+        }
+
+        .modal-body li {
+            margin-bottom: 10px;
+        }
+
+        .close {
+            color: #aaa;
+            float: right;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: #000;
+        }
+
         /* Mobile styles */
         @media (max-width: 768px) {
             .options {
@@ -83,6 +155,10 @@
 
             h1 {
                 font-size: 2rem; /* Smaller font size for smaller screens */
+            }
+
+            .modal-content {
+                width: 90%;
             }
         }
     </style>
@@ -142,10 +218,53 @@
         </div>
     </div>
 
+    <!-- The Modal -->
+    <div id="announcementModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="modal-header">Contest Announcement!</div>
+            <div class="modal-body">
+                <p>We are excited to announce a <b>new contest</b> for all our users! Test your knowledge of the Classics and get a chance to win amazing prizes! Here are the details:</p>
+                <ul>
+                    <li><b>Dates:</b> From July 22 to August 22</li>
+                    <li><b>Prizes:</b> The winner will receive a $50 giftcard, and the top 3 users will be featured on our website!</li>
+                    <li><b>How to Participate:</b> Simply choose the level that best describes your knowledge and accumulate correctly answered questions. The more quizzes you take, the higher your chances of winning!</li>
+                    <li><b>Criteria:</b> You must have a ScholaLatinae account and use the same username as the one you signed up with. You must also be subscribed to our YouTube (<a href="youtube.com/@ScholaLatinae">ScholaLatinae</a>) and follow our Instagram (<a href="instagram.com/scholalatinae">@scholalatinae</a>)</li>
+                </ul>
+                <p>Don't miss this opportunity to showcase your Latin skills and win an exciting prize. Good luck!</p>
+            </div>
+        </div>
+    </div>
+
     <script>
         function toggleDropdown() {
-            const menu = document.getElementById('dropdownMenu');
-            menu.classList.toggle('active');
+            const dropdownMenu = document.getElementById('dropdownMenu');
+            dropdownMenu.style.display = dropdownMenu.style.display === 'block' ? 'none' : 'block';
+        }
+
+        // Get the modal
+        var modal = document.getElementById("announcementModal");
+
+        // Get the <span> element that closes the modal
+        var span = document.getElementsByClassName("close")[0];
+
+        // When the user clicks on <span> (x), close the modal
+        span.onclick = function() {
+            modal.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+
+        // Display the modal after a short delay
+        window.onload = function() {
+            setTimeout(function() {
+                modal.style.display = "block";
+            }, 1000); // Adjust delay as needed
         }
     </script>
 
@@ -155,7 +274,7 @@
     <script defer src="/_vercel/insights/script.js"></script>
     <script>
         window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
-      </script>
-      <script defer src="/_vercel/speed-insights/script.js"></script>
+    </script>
+    <script defer src="/_vercel/speed-insights/script.js"></script>
 </body>
 </html>

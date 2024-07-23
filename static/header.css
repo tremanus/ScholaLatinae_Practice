@@ -101,7 +101,7 @@
     position: absolute; /* Take it out of the normal flow */
     top: 40px; /* Adjust as needed */
     left: 40px; /* Adjust as needed */
-    font-size: 4rem; /* Adjust size as needed */
+    font-size: 3rem; /* Adjust size as needed */
     cursor: pointer; /* Indicate it's clickable */
     color: #333; /* Set the color for the "x" */
     background: none; /* Remove background */
