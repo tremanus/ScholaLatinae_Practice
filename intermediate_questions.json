@@ -1141,11 +1141,6 @@
             "correct_answer": "Harvard University"
         },
         {
-            "question": "Which state has the Latin motto 'Concordia Integritas Industria'?",
-            "options": ["New Hampshire", "New Jersey", "New York", "North Carolina"],
-            "correct_answer": "New Hampshire"
-        },
-        {
             "question": "What does the Latin motto 'Amor Vincit Omnia' mean?",
             "options": ["Love conquers all", "Time is money", "Strength through unity", "Peace and justice"],
             "correct_answer": "Love conquers all"
@@ -1154,11 +1149,6 @@
             "question": "The Latin motto 'In Lumine Tuo Videbimus Lumen' is associated with which university?",
             "options": ["University of Pennsylvania", "University of California", "University of Texas", "University of Michigan"],
             "correct_answer": "University of Pennsylvania"
-        },
-        {
-            "question": "What is the Latin motto of the state of South Carolina?",
-            "options": ["Dum Spiro Spero", "Animus Opus", "Audemus Jura Nostra Defendere", "Virtus Junxit Mors Non Separabit"],
-            "correct_answer": "Animus Opus"
         },
         {
             "question": "The Latin motto 'Ad Astra per Aspera' translates to",
