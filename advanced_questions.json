@@ -2629,6 +2629,246 @@
       "question": "What author, known for his old-fashioned and puritanical style, was called the \"father of Latin prose\"?",
       "options": ["Cato the Elder", "Cicero", "Virgil", "Quintus Ennius"],
       "correct_answer": "Cato the Elder"
+    },
+    {
+      "question": "Which work of Cato the Elder was a 7-book history of Rome?",
+      "options": ["Origines", "De Agri Cultura", "De Re Rustica", "De Bello Gallico"],
+      "correct_answer": "Origines"
+    },
+    {
+      "question": "How many books did Cato's Origines contain?",
+      "options": ["7", "10", "12", "5"],
+      "correct_answer": "7"
+    },
+    {
+      "question": "Which work of Cato the Elder begins with a line of hexameter?",
+      "options": ["Origines", "De Agri Cultura", "De Bello Gallico", "De Re Rustica"],
+      "correct_answer": "Origines"
+    },
+    {
+      "question": "Which work of Cato the Elder was the first prose historical text in Latin?",
+      "options": ["Origines", "De Agri Cultura", "De Bello Gallico", "De Re Rustica"],
+      "correct_answer": "Origines"
+    },
+    {
+      "question": "Which work of Cato the Elder was a treatise on farming?",
+      "options": ["De Agri Cultura", "Origines", "De Bello Gallico", "De Re Rustica"],
+      "correct_answer": "De Agri Cultura"
+    },
+    {
+      "question": "What is the alternate title of Cato's De Agri Cultura?",
+      "options": ["De Re Rustica", "De Bello Gallico", "Origines", "De Agri Cultura"],
+      "correct_answer": "De Re Rustica"
+    },
+    {
+      "question": "Which work of Cato the Elder was the earliest Latin prose work to come down to us in its entirety?",
+      "options": ["De Agri Cultura", "Origines", "De Bello Gallico", "De Re Rustica"],
+      "correct_answer": "De Agri Cultura"
+    },
+    {
+      "question": "What was Terence's full name?",
+      "options": ["Publius Terentius Afer", "Marcus Terentius Varro", "Gaius Terentius Hortalus", "Lucius Terentius Aristophanes"],
+      "correct_answer": "Publius Terentius Afer"
+    },
+    {
+      "question": "What author was born ca. 195 BC in Carthage?",
+      "options": ["Terence", "Plautus", "Naevius", "Ennius"],
+      "correct_answer": "Terence"
+    },
+    {
+      "question": "Where was Terence born in 195 or 185 BC?",
+      "options": ["Carthage", "Rome", "Sarsina", "Brundisium"],
+      "correct_answer": "Carthage"
+    },
+    {
+      "question": "In what year did Terence die?",
+      "options": ["159 BC", "174 BC", "166 BC", "130 BC"],
+      "correct_answer": "159 BC"
+    },
+    {
+      "question": "What comic playwright was born in Carthage in 195 BC?",
+      "options": ["Terence", "Plautus", "Naevius", "Ennius"],
+      "correct_answer": "Terence"
+    },
+    {
+      "question": "What style of Greek comedy did Plautus and Terence employ?",
+      "options": ["New Comedy", "Old Comedy", "Satyr Play", "Tragedy"],
+      "correct_answer": "New Comedy"
+    },
+    {
+      "question": "What comic playwright was brought to Rome from Carthage as a slave?",
+      "options": ["Terence", "Plautus", "Naevius", "Ennius"],
+      "correct_answer": "Terence"
+    },
+    {
+      "question": "In what year did Terence make his theatrical debut?",
+      "options": ["166 BC", "159 BC", "174 BC", "180 BC"],
+      "correct_answer": "166 BC"
+    },
+    {
+      "question": "Who was the literary patron of Terence?",
+      "options": ["Scipio Aemilianus", "Cato the Elder", "Julius Caesar", "Pompey the Great"],
+      "correct_answer": "Scipio Aemilianus"
+    },
+    {
+      "question": "In what city were all of Terence's plays set?",
+      "options": ["Athens", "Rome", "Syracuse", "Sparta"],
+      "correct_answer": "Athens"
+    },
+    {
+      "question": "Who acted in all of Terence's plays?",
+      "options": ["Ambivius Turpio", "Roscius", "Cicero", "Plautus"],
+      "correct_answer": "Ambivius Turpio"
+    },
+    {
+      "question": "Which play of Terence was his earliest work?",
+      "options": ["Andria", "Eunuchus", "Adelphi", "Heauton Timorumenos"],
+      "correct_answer": "Andria"
+    },
+    {
+      "question": "What is the translation of 'Andria'?",
+      "options": ["The Woman of Andros", "The Man of Andros", "The Woman of Athens", "The Man of Athens"],
+      "correct_answer": "The Woman of Andros"
+    },
+    {
+      "question": "In the prologue of which of Terence's plays does he defend his use of contaminatio?",
+      "options": ["Andria", "Eunuchus", "Adelphi", "Heauton Timorumenos"],
+      "correct_answer": "Andria"
+    },
+    {
+      "question": "What is contaminatio?",
+      "options": ["Combination of elements of multiple Greek plays into one Latin play", "A type of Greek tragedy", "A Roman comedic dance", "A form of Latin poetry"],
+      "correct_answer": "Combination of elements of multiple Greek plays into one Latin play"
+    },
+    {
+      "question": "What is the translation of 'Adelphi'?",
+      "options": ["The Brothers", "The Sisters", "The Parents", "The Cousins"],
+      "correct_answer": "The Brothers"
+    },
+    {
+      "question": "Which play of Terence is a comedy about twins, one born in the country and one born in the city?",
+      "options": ["Adelphi", "Eunuchus", "Hecyra", "Heauton Timorumenos"],
+      "correct_answer": "Adelphi"
+    },
+    {
+      "question": "Which play of Terence was his biggest commercial success?",
+      "options": ["Eunuchus", "Andria", "Hecyra", "Adelphi"],
+      "correct_answer": "Eunuchus"
+    },
+    {
+      "question": "What is the translation of 'Hecyra'?",
+      "options": ["The Mother-in-Law", "The Wife", "The Aunt", "The Daughter"],
+      "correct_answer": "The Mother-in-Law"
+    },
+    {
+      "question": "Which play of Terence was only produced after two failed attempts?",
+      "options": ["Hecyra", "Eunuchus", "Adelphi", "Andria"],
+      "correct_answer": "Hecyra"
+    },
+    {
+      "question": "Which play of Terence did the audience leave in preference for a show of tightrope walkers during the first and second attempts?",
+      "options": ["Hecyra", "Eunuchus", "Andria", "Adelphi"],
+      "correct_answer": "Hecyra"
+    },
+    {
+      "question": "What is the translation of 'Heauton Timorumenos'?",
+      "options": ["The Self-Tormentor", "The Self-Punisher", "The Self-Defender", "The Self-Critic"],
+      "correct_answer": "The Self-Tormentor"
+    },
+    {
+      "question": "Which play of Terence deals with Clinia who is about to be separated from his wife?",
+      "options": ["Heauton Timorumenos", "Eunuchus", "Hecyra", "Adelphi"],
+      "correct_answer": "Heauton Timorumenos"
+    },
+    {
+      "question": "In which play of Terence does the title character remark 'homo sum, humani nil a me alienum puto'?",
+      "options": ["Heauton Timorumenos", "Andria", "Eunuchus", "Adelphi"],
+      "correct_answer": "Heauton Timorumenos"
+    },
+    {
+      "question": "What is Lucilius' full name?",
+      "options": ["Gaius Lucilius", "Publius Lucilius", "Marcus Lucilius", "Titus Lucilius"],
+      "correct_answer": "Gaius Lucilius"
+    },
+    {
+      "question": "In what year was Lucilius born?",
+      "options": ["180 BC", "160 BC", "150 BC", "200 BC"],
+      "correct_answer": "180 BC"
+    },
+    {
+      "question": "Where was Lucilius born in 180 BC?",
+      "options": ["Suessa Aurunca", "Rome", "Capua", "Brundisium"],
+      "correct_answer": "Suessa Aurunca"
+    },
+    {
+      "question": "What author was born in 180 BC at Suessa Aurunca?",
+      "options": ["Lucilius", "Plautus", "Naevius", "Ennius"],
+      "correct_answer": "Lucilius"
+    },
+    {
+      "question": "In what year did Lucilius die?",
+      "options": ["102 BC", "120 BC", "110 BC", "90 BC"],
+      "correct_answer": "102 BC"
+    },
+    {
+      "question": "What author established hexameter as the meter of Roman satire?",
+      "options": ["Lucilius", "Horace", "Juvenal", "Persius"],
+      "correct_answer": "Lucilius"
+    },
+    {
+      "question": "What meter did Lucilius establish as the meter of Roman satire?",
+      "options": ["Dactylic Hexameter", "Iambic Pentameter", "Trochaic Tetrameter", "Anapestic Dimeter"],
+      "correct_answer": "Dactylic Hexameter"
+    },
+    {
+      "question": "Who was the first Latin writer to focus exclusively on Satire?",
+      "options": ["Lucilius", "Horace", "Juvenal", "Persius"],
+      "correct_answer": "Lucilius"
+    },
+    {
+      "question": "What genre was Lucilius the first to focus exclusively on?",
+      "options": ["Satire", "Tragedy", "Epic", "Lyric"],
+      "correct_answer": "Satire"
+    },
+    {
+      "question": "What was the title of Lucilius' collection of Satires?",
+      "options": ["Sermones", "Satires", "Epistulae", "Carmina"],
+      "correct_answer": "Sermones"
+    },
+    {
+      "question": "What is the alternate title of Lucilius' Sermones?",
+      "options": ["Ludus ac Sermones", "De Agri Cultura", "De Bello Gallico", "Adelphi"],
+      "correct_answer": "Ludus ac Sermones"
+    },
+    {
+      "question": "Who wrote a 30 book collection of Satires called Sermones?",
+      "options": ["Lucilius", "Horace", "Juvenal", "Persius"],
+      "correct_answer": "Lucilius"
+    },
+    {
+      "question": "How many books of Satires made up Lucilius' Sermones?",
+      "options": ["30", "12", "24", "15"],
+      "correct_answer": "30"
+    },
+    {
+      "question": "What author did Horace call his lantern for his influence in Satire?",
+      "options": ["Lucilius", "Juvenal", "Persius", "Plautus"],
+      "correct_answer": "Lucilius"
+    },
+    {
+      "question": "What author called Lucilius his lantern for his influence in Satire?",
+      "options": ["Horace", "Juvenal", "Persius", "Plautus"],
+      "correct_answer": "Horace"
+    },
+    {
+      "question": "Whose satires on a trip to Brundisium and an encounter with a bore were models for Horace?",
+      "options": ["Lucilius", "Plautus", "Naevius", "Ennius"],
+      "correct_answer": "Lucilius"
+    },
+    {
+      "question": "What author was the great-uncle of Pompey the Great?",
+      "options": ["Lucilius", "Plautus", "Naevius", "Ennius"],
+      "correct_answer": "Lucilius"
     }
 ]
 }
