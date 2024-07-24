@@ -45,7 +45,6 @@ def beginner_index():
         session['question_index'] = 0
         session['score'] = 0
         session['answers'] = []  # Initialize the answers list
-        session['result_submitted'] = False  # Initialize flag to check result submission
         return redirect(url_for('beginner_quiz', _external=True))
     return render_template('beginner-index.html')
 
@@ -86,18 +85,11 @@ def beginner_result():
     if 'username' not in session:
         return redirect(url_for('beginner_index', _external=True))
     
-    if session.get('result_submitted'):
-        # Redirect to leaderboard if result has already been submitted
-        return redirect(url_for('leaderboard', _external=True))
-
     score = session.get('score', 0)
     username = session.get('username')
     
     # Save result to database
     save_result(username, score, 'beginner')
-    
-    # Set flag to indicate result has been submitted
-    session['result_submitted'] = True
     
     return render_template('beginner-result.html', score=score, username=username)
 
@@ -110,7 +102,6 @@ def intermediate_index():
         session['question_index'] = 0
         session['score'] = 0
         session['answers'] = []  # Initialize the answers list
-        session['result_submitted'] = False  # Initialize flag to check result submission
         return redirect(url_for('intermediate_quiz', _external=True))
     return render_template('intermediate-index.html')
 
@@ -151,18 +142,11 @@ def intermediate_result():
     if 'username' not in session:
         return redirect(url_for('intermediate_index', _external=True))
     
-    if session.get('result_submitted'):
-        # Redirect to leaderboard if result has already been submitted
-        return redirect(url_for('leaderboard', _external=True))
-
     score = session.get('score', 0)
     username = session.get('username')
     
     # Save result to database
     save_result(username, score, 'intermediate')
-    
-    # Set flag to indicate result has been submitted
-    session['result_submitted'] = True
     
     return render_template('intermediate-result.html', score=score, username=username)
 
@@ -175,7 +159,6 @@ def advanced_index():
         session['question_index'] = 0
         session['score'] = 0
         session['answers'] = []  # Initialize the answers list
-        session['result_submitted'] = False  # Initialize flag to check result submission
         return redirect(url_for('advanced_quiz', _external=True))
     return render_template('advanced-index.html')
 
@@ -216,64 +199,63 @@ def advanced_result():
     if 'username' not in session:
         return redirect(url_for('advanced_index', _external=True))
     
-    if session.get('result_submitted'):
-        # Redirect to leaderboard if result has already been submitted
-        return redirect(url_for('leaderboard', _external=True))
-
     score = session.get('score', 0)
     username = session.get('username')
     
     # Save result to db
     save_result(username, score, 'advanced')
     
-    # Set flag to indicate result has been submitted
-    session['result_submitted'] = True
-    
     return render_template('advanced-result.html', score=score, username=username)
 
 @app.route('/leaderboard')
 def leaderboard():
-    conn = get_db_connection()
-    cur = conn.cursor()
-    
-    # Fetch top 10 results for each quiz type
-    cur.execute('''
-        SELECT username, score, quiztype 
-        FROM (
-            SELECT *, 
-                   ROW_NUMBER() OVER (PARTITION BY quiztype ORDER BY score DESC) as rn
-            FROM results
-        ) sub
-        WHERE rn <= 10
-        ORDER BY quiztype, score DESC
-    ''')
-    
-    all_results = cur.fetchall()
-    
-    # Separate results by quiz type
-    beginner_results = [r for r in all_results if r[2] == 'beginner']
-    intermediate_results = [r for r in all_results if r[2] == 'intermediate']
-    advanced_results = [r for r in all_results if r[2] == 'advanced']
-    
-    cur.close()
-    conn.close()
-    
-    return render_template('leaderboard.html', 
-                           beginner_results=beginner_results,
-                           intermediate_results=intermediate_results,
-                           advanced_results=advanced_results)
+    beginner_results = get_leaderboard('beginner')
+    intermediate_results = get_leaderboard('intermediate')
+    advanced_results = get_leaderboard('advanced')
+    return render_template('leaderboard.html', beginner_results=beginner_results, intermediate_results=intermediate_results, advanced_results=advanced_results)
 
 def save_result(username, score, quiztype):
     conn = get_db_connection()
-    cur = conn.cursor()
-    # Use parameterized queries to prevent SQL injection
-    cur.execute(
-        'INSERT INTO results (username, score, quiztype, timestamp) VALUES (%s, %s, %s, %s)',
-        (username, score, quiztype, datetime.now())
-    )
+    cursor = conn.cursor()
+
+    # Check if user already exists
+    cursor.execute('''
+        SELECT score FROM results WHERE username = %s AND quiztype = %s
+    ''', (username, quiztype))
+    existing_score = cursor.fetchone()
+
+    if existing_score:
+        # Update existing user's score
+        cursor.execute('''
+            UPDATE results
+            SET score = score + %s, timestamp = %s
+            WHERE username = %s AND quiztype = %s
+        ''', (score, datetime.now(), username, quiztype))
+    else:
+        # Insert new user
+        cursor.execute('''
+            INSERT INTO results (username, score, timestamp, quiztype)
+            VALUES (%s, %s, %s, %s)
+        ''', (username, score, datetime.now(), quiztype))
+
     conn.commit()
-    cur.close()
+    cursor.close()
     conn.close()
 
+def get_leaderboard(quiztype):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute('''
+        SELECT username, score
+        FROM results
+        WHERE quiztype = %s
+        ORDER BY score DESC
+        LIMIT 10
+    ''', (quiztype,))
+    rows = cursor.fetchall()
+    cursor.close()
+    conn.close()
+    return rows
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=5001)  # Change port if needed
