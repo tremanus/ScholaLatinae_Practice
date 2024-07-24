@@ -1224,7 +1224,382 @@
         "question": "The Latin phrase 'Tempus fugit' means",
         "options": ["time flies", "time stands still", "time is precious", "time is slow"],
         "correct_answer": "time flies"
-    }
+    },
+    {
+        "question": "ego, mei",
+        "options": ["I, me", "you (sg.)", "we, us", "you (pl.), you all"],
+        "correct_answer": "I, me"
+      },
+      {
+        "question": "tū, tuī",
+        "options": ["I, me", "you (sg.)", "we, us", "you (pl.), you all"],
+        "correct_answer": "you (sg.)"
+      },
+      {
+        "question": "nōs, nostrī/nostrum",
+        "options": ["I, me", "you (sg.)", "we, us", "you (pl.), you all"],
+        "correct_answer": "we, us"
+      },
+      {
+        "question": "vōs, vestrī/vestrum",
+        "options": ["I, me", "you (sg.)", "we, us", "you (pl.), you all"],
+        "correct_answer": "you (pl.), you all"
+      },
+      {
+        "question": "suī, sibi, sē, sē",
+        "options": ["him/her/it/one's-self; themselves", "this; these (pl.)", "that; those (pl.)", "himself/herself/itself; the very/real/actual one"],
+        "correct_answer": "him/her/it/one's-self; themselves"
+      },
+      {
+        "question": "hic, haec, hoc",
+        "options": ["him/her/it/one's-self; themselves", "this; these (pl.)", "that; those (pl.)", "himself/herself/itself; the very/real/actual one"],
+        "correct_answer": "this; these (pl.)"
+      },
+      {
+        "question": "ille, illa, illud",
+        "options": ["him/her/it/one's-self; themselves", "this; these (pl.)", "that; those (pl.)", "himself/herself/itself; the very/real/actual one"],
+        "correct_answer": "that; those (pl.)"
+      },
+      {
+        "question": "ipse, ipsa, ipsum",
+        "options": ["him/her/it/one's-self; themselves", "this; these (pl.)", "that; those (pl.)", "himself/herself/itself; the very/real/actual one"],
+        "correct_answer": "himself/herself/itself; the very/real/actual one"
+      },
+      {
+        "question": "is, ea, id",
+        "options": ["he/she/it/they (by gender/number)", "who, which, that", "Behold!", "Alas!"],
+        "correct_answer": "he/she/it/they (by gender/number)"
+      },
+      {
+        "question": "quī, quae, quod",
+        "options": ["he/she/it/they (by gender/number)", "who, which, that", "Behold!", "Alas!"],
+        "correct_answer": "who, which, that"
+      },
+      {
+        "question": "Ecce!",
+        "options": ["Behold!", "Alas!", "Oh, good! Well done!", "Yes (indeed)!"],
+        "correct_answer": "Behold!"
+      },
+      {
+        "question": "Ēheu!",
+        "options": ["Behold!", "Alas!", "Oh, good! Well done!", "Yes (indeed)!"],
+        "correct_answer": "Alas!"
+      },
+      {
+        "question": "Euge!",
+        "options": ["Behold!", "Alas!", "Oh, good! Well done!", "Yes (indeed)!"],
+        "correct_answer": "Oh, good! Well done!"
+      },
+      {
+        "question": "Ita (vērō)",
+        "options": ["Behold!", "Alas!", "Oh, good! Well done!", "Yes (indeed)!"],
+        "correct_answer": "Yes (indeed)!"
+      },
+      {
+        "question": "Minimē!",
+        "options": ["No!", "Why?", "How?", "How many?"],
+        "correct_answer": "No!"
+      },
+      {
+        "question": "Cūr?",
+        "options": ["No!", "Why?", "How?", "How many?"],
+        "correct_answer": "Why?"
+      },
+      {
+        "question": "-ne (enclitic)",
+        "options": ["(expects yes or no answer)", "(expects yes answer)", "(expects no answer)", "(of)?"],
+        "correct_answer": "(expects yes or no answer)"
+      },
+      {
+        "question": "Nōnne?",
+        "options": ["(expects yes or no answer)", "(expects yes answer)", "(expects no answer)", "(of)?"],
+        "correct_answer": "(expects yes answer)"
+      },
+      {
+        "question": "Num?",
+        "options": ["(expects yes or no answer)", "(expects yes answer)", "(expects no answer)", "(of)?"],
+        "correct_answer": "(expects no answer)"
+      },
+      {
+        "question": "Quālis?, Quāle?",
+        "options": ["What kind/sort (of)?", "When?", "What?", "Who?"],
+        "correct_answer": "What kind/sort (of)?"
+      },
+      {
+        "question": "Quandō?",
+        "options": ["What kind/sort (of)?", "When?", "What?", "Who?"],
+        "correct_answer": "When?"
+      },
+      {
+        "question": "Quid?",
+        "options": ["What kind/sort (of)?", "When?", "What?", "Who?"],
+        "correct_answer": "What?"
+      },
+      {
+        "question": "Quis?",
+        "options": ["What kind/sort (of)?", "When?", "What?", "Who?"],
+        "correct_answer": "Who?"
+      },
+      {
+        "question": "Quō?",
+        "options": ["To where?", "How?", "How many?", "Where?"],
+        "correct_answer": "To where?"
+      },
+      {
+        "question": "Quōmodo?",
+        "options": ["To where?", "How?", "How many?", "Where?"],
+        "correct_answer": "How?"
+      },
+      {
+        "question": "Quot?",
+        "options": ["To where?", "How?", "How many?", "Where?"],
+        "correct_answer": "How many?"
+      },
+      {
+        "question": "Ubi?",
+        "options": ["To where?", "How?", "How many?", "Where?"],
+        "correct_answer": "Where?"
+      },
+      {
+        "question": "Unde?",
+        "options": ["To where?", "How?", "How many?", "From where?"],
+        "correct_answer": "From where?"
+      },
+      {
+        "question": "ad (+acc)",
+        "options": ["to, towards; at, near", "before, in front of", "at, near, among; at the house of", "around"],
+        "correct_answer": "to, towards; at, near"
+      },
+      {
+        "question": "ante (+acc)",
+        "options": ["to, towards; at, near", "before, in front of", "at, near, among; at the house of", "around"],
+        "correct_answer": "before, in front of"
+      },
+      {
+        "question": "apud (+acc)",
+        "options": ["to, towards; at, near", "before, in front of", "at, near, among; at the house of", "around"],
+        "correct_answer": "at, near, among; at the house of"
+      },
+      {
+        "question": "circum (+acc)",
+        "options": ["to, towards; at, near", "before, in front of", "at, near, among; at the house of", "around"],
+        "correct_answer": "around"
+      },
+      {
+        "question": "contrā (+acc)",
+        "options": ["against", "outside of", "below", "between, among"],
+        "correct_answer": "against"
+      },
+      {
+        "question": "extrā (+acc)",
+        "options": ["against", "outside of", "below", "between, among"],
+        "correct_answer": "outside of"
+      },
+      {
+        "question": "infrā (+acc)",
+        "options": ["against", "outside of", "below", "between, among"],
+        "correct_answer": "below"
+      },
+      {
+        "question": "inter (+acc)",
+        "options": ["against", "outside of", "below", "between, among"],
+        "correct_answer": "between, among"
+      },
+      {
+        "question": "intrā (+acc)",
+        "options": ["within, inside", "because of", "through", "behind, after"],
+        "correct_answer": "within, inside"
+      },
+      {
+        "question": "ob (+acc)",
+        "options": ["within, inside", "because of", "through", "behind, after"],
+        "correct_answer": "because of"
+      },
+      {
+        "question": "per (+acc)",
+        "options": ["within, inside", "because of", "through", "behind, after"],
+        "correct_answer": "through"
+      },
+      {
+        "question": "post (+acc)",
+        "options": ["within, inside", "because of", "through", "behind, after"],
+        "correct_answer": "behind, after"
+      },
+      {
+        "question": "praeter (+acc)",
+        "options": ["except, beyond", "near", "on account of", "above, over"],
+        "correct_answer": "except, beyond"
+      },
+      {
+        "question": "prope (+acc)",
+        "options": ["except, beyond", "near", "on account of", "above, over"],
+        "correct_answer": "near"
+      },
+      {
+        "question": "propter (+acc)",
+        "options": ["except, beyond", "near", "on account of", "above, over"],
+        "correct_answer": "on account of"
+      },
+      {
+        "question": "suprā (+acc)",
+        "options": ["except, beyond", "near", "on account of", "above, over"],
+        "correct_answer": "above, over"
+      },
+      {
+        "question": "trāns (+acc)",
+        "options": ["across", "beyond", "away from, from", "with"],
+        "correct_answer": "across"
+      },
+      {
+        "question": "ultrā (+acc)",
+        "options": ["across", "beyond", "away from, from", "with"],
+        "correct_answer": "beyond"
+      },
+      {
+        "question": "ā / ab (+abl)",
+        "options": ["away from, from; (with time words) since; (with passive voice) by", "with", "down from, from; about", "out of, from"],
+        "correct_answer": "away from, from; (with time words) since; (with passive voice) by"
+      },
+      {
+        "question": "cum (+abl)",
+        "options": ["away from, from; (with time words) since; (with passive voice) by", "with", "down from, from; about", "out of, from"],
+        "correct_answer": "with"
+      },
+      {
+        "question": "dē (+abl)",
+        "options": ["away from, from; (with time words) since; (with passive voice) by", "with", "down from, from; about", "out of, from"],
+        "correct_answer": "down from, from; about"
+      },
+      {
+        "question": "ē / ex (+abl)",
+        "options": ["away from, from; (with time words) since; (with passive voice) by", "with", "down from, from; about", "out of, from"],
+        "correct_answer": "out of, from"
+      },
+      {
+        "question": "prae (+abl)",
+        "options": ["for, in front of, on behalf of", "without", "before, in front of", "from"],
+        "correct_answer": "before, in front of"
+      },
+      {
+        "question": "prō (+abl)",
+        "options": ["for, in front of, on behalf of", "without", "before, in front of", "from"],
+        "correct_answer": "for, in front of, on behalf of"
+      },
+      {
+        "question": "sine (+abl)",
+        "options": ["for, in front of, on behalf of", "without", "before, in front of", "from"],
+        "correct_answer": "without"
+      },
+      {
+        "question": "in (+acc. with verbs of motion)",
+        "options": ["into, onto, against", "in, on, upon", "under, beneath", "above, over"],
+        "correct_answer": "into, onto, against"
+      },
+      {
+        "question": "sub (+acc. with verbs of motion)",
+        "options": ["into, onto, against", "in, on, upon", "under, beneath", "above, over"],
+        "correct_answer": "under, beneath"
+      },
+      {
+        "question": "super (+acc. with verbs of motion)",
+        "options": ["into, onto, against", "in, on, upon", "under, beneath", "above, over"],
+        "correct_answer": "above, over"
+      },
+      {
+        "question": "atque or ac",
+        "options": ["and, and also, and moreover", "but, but on the other hand", "or", "either...or"],
+        "correct_answer": "and, and also, and moreover"
+      },
+      {
+        "question": "at",
+        "options": ["and, and also, and moreover", "but, but on the other hand", "or", "either...or"],
+        "correct_answer": "but, but on the other hand"
+      },
+      {
+        "question": "aut",
+        "options": ["and, and also, and moreover", "but, but on the other hand", "or", "either...or"],
+        "correct_answer": "or"
+      },
+      {
+        "question": "aut...aut",
+        "options": ["and, and also, and moreover", "but, but on the other hand", "or", "either...or"],
+        "correct_answer": "either...or"
+      },
+      {
+        "question": "autem (postpositive)",
+        "options": ["however, but, moreover, also", "therefore", "nor, and not", "neither...nor"],
+        "correct_answer": "however, but, moreover, also"
+      },
+      {
+        "question": "dum",
+        "options": ["however, but, moreover, also", "therefore", "nor, and not", "neither...nor"],
+        "correct_answer": "while"
+      },
+      {
+        "question": "enim (postpositive)",
+        "options": ["however, but, moreover, also", "therefore", "for, because, indeed, truly", "nor, and not"],
+        "correct_answer": "for, because, indeed, truly"
+      },
+      {
+        "question": "et",
+        "options": ["and", "nor, and not", "neither...nor", "both...and"],
+        "correct_answer": "and"
+      },
+      {
+        "question": "et...et",
+        "options": ["and", "nor, and not", "neither...nor", "both...and"],
+        "correct_answer": "both...and"
+      },
+      {
+        "question": "igitur (postpositive)",
+        "options": ["and", "nor, and not", "neither...nor", "therefore"],
+        "correct_answer": "therefore"
+      },
+      {
+        "question": "nam",
+        "options": ["and", "nor, and not", "neither...nor", "for, because"],
+        "correct_answer": "for, because"
+      },
+      {
+        "question": "nec or neque",
+        "options": ["and", "nor, and not", "neither...nor", "for, because"],
+        "correct_answer": "nor, and not"
+      },
+      {
+        "question": "neque...neque",
+        "options": ["and", "nor, and not", "neither...nor", "for, because"],
+        "correct_answer": "neither...nor"
+      },
+      {
+        "question": "postquam",
+        "options": ["after", "although", "and also", "because"],
+        "correct_answer": "after"
+      },
+      {
+        "question": "quamquam",
+        "options": ["after", "although", "and also", "because"],
+        "correct_answer": "although"
+      },
+      {
+        "question": "-que (enclitic)",
+        "options": ["and", "but", "or", "however"],
+        "correct_answer": "and"
+      },
+      {
+        "question": "quod",
+        "options": ["and", "but", "or", "because"],
+        "correct_answer": "because"
+      },
+      {
+        "question": "sed",
+        "options": ["and", "but", "or", "because"],
+        "correct_answer": "but"
+      },
+      {
+        "question": "ubi",
+        "options": ["where, when", "how", "what", "why"],
+        "correct_answer": "where, when"
+      }
     ]
   }
   
