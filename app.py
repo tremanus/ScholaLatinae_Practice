@@ -202,7 +202,7 @@ def advanced_result():
     score = session.get('score', 0)
     username = session.get('username')
     
-    # Save result to database
+    # Save result to db
     save_result(username, score, 'advanced')
     
     return render_template('advanced-result.html', score=score, username=username)
