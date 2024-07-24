@@ -235,19 +235,19 @@ def advanced_result():
 def leaderboard():
     conn = get_db_connection()
     cur = conn.cursor()
-    cur.execute('SELECT username, score, quiz_type FROM results ORDER BY quiz_type, score DESC')
+    cur.execute('SELECT username, score, quiztype FROM results ORDER BY quiztype, score DESC')
     leaderboard_data = cur.fetchall()
     cur.close()
     conn.close()
     return render_template('leaderboard.html', leaderboard_data=leaderboard_data)
 
-def save_result(username, score, quiz_type):
+def save_result(username, score, quiztype):
     conn = get_db_connection()
     cur = conn.cursor()
     # Use parameterized queries to prevent SQL injection
     cur.execute(
-        'INSERT INTO results (username, score, quiz_type, timestamp) VALUES (%s, %s, %s, %s)',
-        (username, score, quiz_type, datetime.now())
+        'INSERT INTO results (username, score, quiztype, timestamp) VALUES (%s, %s, %s, %s)',
+        (username, score, quiztype, datetime.now())
     )
     conn.commit()
     cur.close()
