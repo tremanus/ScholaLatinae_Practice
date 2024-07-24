@@ -2869,6 +2869,126 @@
       "question": "What author was the great-uncle of Pompey the Great?",
       "options": ["Lucilius", "Plautus", "Naevius", "Ennius"],
       "correct_answer": "Lucilius"
+    },
+    {
+      "question": "What author was called the 'Christian Cicero'?",
+      "options": ["Lactantius", "Jerome", "Arnobius", "Cicero"],
+      "correct_answer": "Lactantius"
+    },
+    {
+      "question": "What honorific title was given to Lactantius because of his writing style?",
+      "options": ["Christian Cicero", "Father of the Church", "Doctor of the Church", "Apostle of the Gauls"],
+      "correct_answer": "Christian Cicero"
+    },
+    {
+      "question": "What work of Lactantius justified Christianity to educated Pagans?",
+      "options": ["Institutiones Divinae", "De Mortibus Persecutorum", "Divina Commedia", "Apologia"],
+      "correct_answer": "Institutiones Divinae"
+    },
+    {
+      "question": "What is the Latin title of Lactantius' Divine Institutions?",
+      "options": ["Institutiones Divinae", "De Divinitate", "Divinae Institutiones", "De Fide"],
+      "correct_answer": "Institutiones Divinae"
+    },
+    {
+      "question": "To which emperor did Lactantius dedicate his Institutiones Divinae?",
+      "options": ["Constantine", "Maxentius", "Diocletian", "Julian"],
+      "correct_answer": "Constantine"
+    },
+    {
+      "question": "Which work did Lactantius dedicate to the emperor Constantine?",
+      "options": ["Institutiones Divinae", "De Mortibus Persecutorum", "Divina Commedia", "De Ira"],
+      "correct_answer": "Institutiones Divinae"
+    },
+    {
+      "question": "By what writer of the Late Republic was Lactantius' style greatly influenced?",
+      "options": ["Cicero", "Sallust", "Livy", "Caesar"],
+      "correct_answer": "Cicero"
+    },
+    {
+      "question": "What Numidian rhetorician was Lactantius' teacher?",
+      "options": ["Arnobius", "Tertullian", "Augustine", "Clement"],
+      "correct_answer": "Arnobius"
+    },
+    {
+      "question": "What pupil of Arnobius wrote the Institutiones Divinae?",
+      "options": ["Lactantius", "Jerome", "Augustine", "Hilary"],
+      "correct_answer": "Lactantius"
+    },
+    {
+      "question": "Which author tutored Constantine's son Crispus?",
+      "options": ["Lactantius", "Jerome", "Arnobius", "Augustine"],
+      "correct_answer": "Lactantius"
+    },
+    {
+      "question": "What son of Constantine did Lactantius tutor?",
+      "options": ["Crispus", "Constantius", "Constans", "Julian"],
+      "correct_answer": "Crispus"
+    },
+    {
+      "question": "What was Jerome's full name?",
+      "options": ["Sophronius Eusebius Heironymus", "Gaius Valerius Catullus", "Publius Ovidius Naso", "Marcus Tullius Cicero"],
+      "correct_answer": "Sophronius Eusebius Heironymus"
+    },
+    {
+      "question": "In what Dalmatian city was Jerome born?",
+      "options": ["Stridon", "Salona", "Dubrovnik", "Split"],
+      "correct_answer": "Stridon"
+    },
+    {
+      "question": "Which author was born at Stridon in Dalmatia?",
+      "options": ["Jerome", "Lactantius", "Augustine", "Tertullian"],
+      "correct_answer": "Jerome"
+    },
+    {
+      "question": "In what year was Jerome born at Stridon?",
+      "options": ["347 AD", "350 AD", "360 AD", "345 AD"],
+      "correct_answer": "347 AD"
+    },
+    {
+      "question": "In what year did Jerome die at Bethlehem?",
+      "options": ["420 AD", "410 AD", "430 AD", "415 AD"],
+      "correct_answer": "420 AD"
+    },
+    {
+      "question": "Which work of Jerome was a Latin translation of the Bible for common people?",
+      "options": ["Vulgate", "Septuagint", "Peshitta", "Vita Patrum"],
+      "correct_answer": "Vulgate"
+    },
+    {
+      "question": "What is the Latin title of Jerome's Vulgate?",
+      "options": ["Biblia Vulgata", "Biblia Sacra", "Biblia Latina", "Vulgata Testamenta"],
+      "correct_answer": "Biblia Vulgata"
+    },
+    {
+      "question": "Who translated the Hebrew Old Testament and Greek New Testament into Latin?",
+      "options": ["Jerome", "Lactantius", "Augustine", "Hilary"],
+      "correct_answer": "Jerome"
+    },
+    {
+      "question": "Which author translated the Bible into Latin?",
+      "options": ["Jerome", "Clement", "Tertullian", "Irenaeus"],
+      "correct_answer": "Jerome"
+    },
+    {
+      "question": "Which work of Jerome covers the lives of 135 Christian authors from St. Peter to himself?",
+      "options": ["De Viris Illustribus", "Chronica", "Vita Patrum", "Adversus Haereses"],
+      "correct_answer": "De Viris Illustribus"
+    },
+    {
+      "question": "Which Christian author wrote a De Viris Illustribus which covers the lives of 135 Christian authors, from St. Peter to Jerome himself?",
+      "options": ["Jerome", "Augustine", "Clement", "Eusebius"],
+      "correct_answer": "Jerome"
+    },
+    {
+      "question": "Which work of Jerome is a historical treatise from Constantine to the death of Valens?",
+      "options": ["Chronica", "De Viris Illustribus", "Vulgate", "Apologia"],
+      "correct_answer": "Chronica"
+    },
+    {
+      "question": "Which Christian author wrote a Chronica which details history from Constantine to the death of Valens?",
+      "options": ["Jerome", "Augustine", "Eusebius", "Irenaeus"],
+      "correct_answer": "Jerome"
     }
 ]
 }
