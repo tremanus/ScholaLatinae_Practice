@@ -1599,6 +1599,181 @@
         "question": "ubi",
         "options": ["where, when", "how", "what", "why"],
         "correct_answer": "where, when"
+      },
+      {
+        "question": "ūnus, ūna, ūnum",
+        "options": ["one", "two", "three", "four"],
+        "correct_answer": "one"
+      },
+      {
+        "question": "duo, duae, duo",
+        "options": ["one", "two", "three", "four"],
+        "correct_answer": "two"
+      },
+      {
+        "question": "trēs, trēs, tria",
+        "options": ["one", "two", "three", "four"],
+        "correct_answer": "three"
+      },
+      {
+        "question": "quattuor",
+        "options": ["four", "five", "six", "seven"],
+        "correct_answer": "four"
+      },
+      {
+        "question": "quīnque",
+        "options": ["four", "five", "six", "seven"],
+        "correct_answer": "five"
+      },
+      {
+        "question": "sex",
+        "options": ["five", "six", "seven", "eight"],
+        "correct_answer": "six"
+      },
+      {
+        "question": "septem",
+        "options": ["six", "seven", "eight", "nine"],
+        "correct_answer": "seven"
+      },
+      {
+        "question": "octō",
+        "options": ["seven", "eight", "nine", "ten"],
+        "correct_answer": "eight"
+      },
+      {
+        "question": "novem",
+        "options": ["eight", "nine", "ten", "eleven"],
+        "correct_answer": "nine"
+      },
+      {
+        "question": "decem",
+        "options": ["nine", "ten", "eleven", "twelve"],
+        "correct_answer": "ten"
+      },
+      {
+        "question": "ūndecim",
+        "options": ["ten", "eleven", "twelve", "thirteen"],
+        "correct_answer": "eleven"
+      },
+      {
+        "question": "duodecim",
+        "options": ["eleven", "twelve", "thirteen", "fourteen"],
+        "correct_answer": "twelve"
+      },
+      {
+        "question": "tredecim",
+        "options": ["twelve", "thirteen", "fourteen", "fifteen"],
+        "correct_answer": "thirteen"
+      },
+      {
+        "question": "quattuordecim",
+        "options": ["thirteen", "fourteen", "fifteen", "sixteen"],
+        "correct_answer": "fourteen"
+      },
+      {
+        "question": "quīndecim",
+        "options": ["fourteen", "fifteen", "sixteen", "seventeen"],
+        "correct_answer": "fifteen"
+      },
+      {
+        "question": "sēdecim",
+        "options": ["fifteen", "sixteen", "seventeen", "eighteen"],
+        "correct_answer": "sixteen"
+      },
+      {
+        "question": "septendecim",
+        "options": ["sixteen", "seventeen", "eighteen", "nineteen"],
+        "correct_answer": "seventeen"
+      },
+      {
+        "question": "duodēvīgintī",
+        "options": ["seventeen", "eighteen", "nineteen", "twenty"],
+        "correct_answer": "eighteen"
+      },
+      {
+        "question": "undēvīgintī",
+        "options": ["eighteen", "nineteen", "twenty", "twenty-one"],
+        "correct_answer": "nineteen"
+      },
+      {
+        "question": "vīgintī",
+        "options": ["nineteen", "twenty", "twenty-one", "one hundred"],
+        "correct_answer": "twenty"
+      },
+      {
+        "question": "vīgintī et ūnus",
+        "options": ["twenty", "twenty-one", "one hundred", "one thousand"],
+        "correct_answer": "twenty-one"
+      },
+      {
+        "question": "centum",
+        "options": ["twenty-one", "one hundred", "one thousand", "first"],
+        "correct_answer": "one hundred"
+      },
+      {
+        "question": "mīlle",
+        "options": ["one hundred", "one thousand", "first", "second"],
+        "correct_answer": "one thousand"
+      },
+      {
+        "question": "prīmus, -a, -um",
+        "options": ["one thousand", "first", "second", "third"],
+        "correct_answer": "first"
+      },
+      {
+        "question": "secundus, -a, -um",
+        "options": ["first", "second", "third", "fourth"],
+        "correct_answer": "second"
+      },
+      {
+        "question": "tertius, -a, -um",
+        "options": ["second", "third", "fourth", "fifth"],
+        "correct_answer": "third"
+      },
+      {
+        "question": "quārtus, -a, -um",
+        "options": ["third", "fourth", "fifth", "sixth"],
+        "correct_answer": "fourth"
+      },
+      {
+        "question": "quīntus, -a, -um",
+        "options": ["fourth", "fifth", "sixth", "seventh"],
+        "correct_answer": "fifth"
+      },
+      {
+        "question": "sextus, -a, -um",
+        "options": ["fifth", "sixth", "seventh", "eighth"],
+        "correct_answer": "sixth"
+      },
+      {
+        "question": "septimus, -a, -um",
+        "options": ["sixth", "seventh", "eighth", "ninth"],
+        "correct_answer": "seventh"
+      },
+      {
+        "question": "octāvus, -a, -um",
+        "options": ["seventh", "eighth", "ninth", "tenth"],
+        "correct_answer": "eighth"
+      },
+      {
+        "question": "nōnus, -a, -um",
+        "options": ["eighth", "ninth", "tenth", "eleventh"],
+        "correct_answer": "ninth"
+      },
+      {
+        "question": "decimus, -a, -um",
+        "options": ["ninth", "tenth", "eleventh", "twelfth"],
+        "correct_answer": "tenth"
+      },
+      {
+        "question": "ūndecimus, -a, -um",
+        "options": ["tenth", "eleventh", "twelfth", "thirteenth"],
+        "correct_answer": "eleventh"
+      },
+      {
+        "question": "duodecimus, -a, -um",
+        "options": ["eleventh", "twelfth", "thirteenth", "fourteenth"],
+        "correct_answer": "twelfth"
       }
     ]
   }
