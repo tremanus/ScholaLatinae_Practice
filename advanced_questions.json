@@ -2079,6 +2079,236 @@
         "question": "Would that I had not wasted all of that time!",
         "options": ["utinam", "dudum", "quin", "vae"],
         "correct_answer": "utinam"
+    },
+    {
+      "question": "What is Livius Andronicus' full name?",
+      "options": ["Marcus Livius Andronicus", "Lucius Livius Andronicus", "Gaius Livius Andronicus", "Publius Livius Andronicus"],
+      "correct_answer": "Lucius Livius Andronicus"
+    },
+    {
+      "question": "What author was born in 284 B.C. at Tarentum?",
+      "options": ["Ennius", "Plautus", "Livius Andronicus", "Terence"],
+      "correct_answer": "Livius Andronicus"
+    },
+    {
+      "question": "Where was Livius Andronicus born in 284 B.C.?",
+      "options": ["Rome", "Naples", "Capua", "Tarentum"],
+      "correct_answer": "Tarentum"
+    },
+    {
+      "question": "In what year was Livius Andronicus born at Tarentum?",
+      "options": ["264 BC", "284 BC", "304 BC", "324 BC"],
+      "correct_answer": "284 BC"
+    },
+    {
+      "question": "In what year did Livius Andronicus die?",
+      "options": ["204 BC", "224 BC", "244 BC", "264 BC"],
+      "correct_answer": "204 BC"
+    },
+    {
+      "question": "What author was called the 'Father of Latin Literature'?",
+      "options": ["Ennius", "Plautus", "Livius Andronicus", "Terence"],
+      "correct_answer": "Livius Andronicus"
+    },
+    {
+      "question": "What honorific title was given to Livius Andronicus?",
+      "options": ["Father of Latin Poetry", "Father of Latin Drama", "Father of Latin Epics", "Father of Latin Literature"],
+      "correct_answer": "Father of Latin Literature"
+    },
+    {
+      "question": "In what year did Livius Andronicus come to Rome as a slave?",
+      "options": ["292 BC", "282 BC", "272 BC", "262 BC"],
+      "correct_answer": "272 BC"
+    },
+    {
+      "question": "What author came to Rome as a slave in 272 BC?",
+      "options": ["Ennius", "Plautus", "Livius Andronicus", "Terence"],
+      "correct_answer": "Livius Andronicus"
+    },
+    {
+      "question": "Which work of Livius Andronicus is a Latin translation of Homer's Odyssey?",
+      "options": ["Aeneid", "Odyssey", "Odussia", "Metamorphoses"],
+      "correct_answer": "Odussia"
+    },
+    {
+      "question": "Who wrote the first Latin translation of Homer's Odyssey?",
+      "options": ["Ennius", "Plautus", "Livius Andronicus", "Terence"],
+      "correct_answer": "Livius Andronicus"
+    },
+    {
+      "question": "What was the earliest extant work of Latin literature?",
+      "options": ["Aeneid", "Metamorphoses", "Odussia", "Georgics"],
+      "correct_answer": "Odussia"
+    },
+    {
+      "question": "What was the purpose of Livius Andronicus' Odussia?",
+      "options": ["entertainment", "propaganda", "textbook", "religious"],
+      "correct_answer": "textbook"
+    },
+    {
+      "question": "For whose children did Livius Andronicus compose the Odussia as a textbook?",
+      "options": ["Scipio Africanus", "Livius Salinator", "Marcus Aurelius", "Julius Caesar"],
+      "correct_answer": "Livius Salinator"
+    },
+    {
+      "question": "In what early Italian meter was the Odussia written?",
+      "options": ["Dactylic Hexameter", "Elegiac Couplets", "Iambic Trimeter", "Saturnian"],
+      "correct_answer": "Saturnian"
+    },
+    {
+      "question": "What Latin term did Livius Andronicus use to translate 'Muse'?",
+      "options": ["Camena", "Nympha", "Dea", "Nymphae"],
+      "correct_answer": "Camena"
+    },
+    {
+      "question": "Who wrote the first Roman comedy and Roman tragedy for the Ludi Romani of 240 BC?",
+      "options": ["Plautus", "Terence", "Livius Andronicus", "Ennius"],
+      "correct_answer": "Livius Andronicus"
+    },
+    {
+      "question": "For what event in 240 BC did Livius Andronicus compose the first Roman comedy and tragedy?",
+      "options": ["Ludi Plebeii", "Ludi Romani", "Saturnalia", "Floralia"],
+      "correct_answer": "Ludi Romani"
+    },
+    {
+      "question": "What author was the first to produce plays in Rome?",
+      "options": ["Plautus", "Terence", "Livius Andronicus", "Ennius"],
+      "correct_answer": "Livius Andronicus"
+    },
+    {
+      "question": "What author composed a parthenion in honor of Juno in 207 BC?",
+      "options": ["Plautus", "Terence", "Livius Andronicus", "Ennius"],
+      "correct_answer": "Livius Andronicus"
+    },
+    {
+      "question": "What type of poem did Livius Andronicus compose in honor of Juno in 207 BC?",
+      "options": ["epic", "elegy", "parthenion", "ode"],
+      "correct_answer": "parthenion"
+    },
+    {
+      "question": "In what year did Livius Andronicus compose a parthenion in honor of Juno?",
+      "options": ["207 BC", "217 BC", "227 BC", "237 BC"],
+      "correct_answer": "207 BC"
+    },
+    {
+      "question": "What author regarded Livius Andronicus' work as antiquated and not worth reading?",
+      "options": ["Cato", "Varro", "Cicero", "Seneca"],
+      "correct_answer": "Cicero"
+    },
+    {
+      "question": "What author was born in 270 BC at Capua?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "In what year was Gnaeus Naevius born near Capua?",
+      "options": ["280 BC", "270 BC", "260 BC", "250 BC"],
+      "correct_answer": "270 BC"
+    },
+    {
+      "question": "Where did Gnaeus Naevius die in exile in 201 BC?",
+      "options": ["Carthage", "Syracuse", "Rome", "Utica"],
+      "correct_answer": "Utica"
+    },
+    {
+      "question": "Which author died at Utica in 201 BC?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "In what year did Gnaeus Naevius die in exile at Utica?",
+      "options": ["201 BC", "211 BC", "221 BC", "231 BC"],
+      "correct_answer": "201 BC"
+    },
+    {
+      "question": "What dramatist was the first native Italian to write Latin literature?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "What author pioneered 'fabulae praetextae', tragedies written on Roman historical material?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "What are fabulae praetextae?",
+      "options": ["comedies on Roman themes", "historical narratives", "tragedies written on Roman historical material", "epic poems"],
+      "correct_answer": "tragedies written on Roman historical material"
+    },
+    {
+      "question": "Who was the first to write an epic on an entirely Italian subject?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "What was the title of Naevius' epic on the First Punic War?",
+      "options": ["Aeneid", "Iliad", "Bellum Punicum", "Metamorphoses"],
+      "correct_answer": "Bellum Punicum"
+    },
+    {
+      "question": "Who wrote the Bellum Punicum, the first epic on an Italian subject?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "To what African city was Naevius exiled because of his feud with the Metelli family?",
+      "options": ["Carthage", "Syracuse", "Rome", "Utica"],
+      "correct_answer": "Utica"
+    },
+    {
+      "question": "Which author was exiled to Utica because of his feud with the Metelli family?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "With what family did Gnaeus Naevius have a feud which got him exiled to Utica?",
+      "options": ["Cornelii", "Fabii", "Metelli", "Claudians"],
+      "correct_answer": "Metelli"
+    },
+    {
+      "question": "Which author remarked 'Fato Metelli fiunt Romae consules'?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "Translate Naevius' remark 'fato Metelli fiunt Romae consules'.",
+      "options": ["By fate the Metelli become consuls at Rome", "By fate the Metelli rule Rome", "By fate the Metelli lead Rome", "By fate the Metelli govern Rome"],
+      "correct_answer": "It's fate that makes the Metelli consuls at Rome"
+    },
+    {
+      "question": "Which work of Gnaeus Naevius is an epic poem about the First Punic War, written in Saturnian verse?",
+      "options": ["Aeneid", "Iliad", "Bellum Punicum", "Metamorphoses"],
+      "correct_answer": "Bellum Punicum"
+    },
+    {
+      "question": "Whose Bellum Punicum details the events from Aeneas' arrival in Latium down to the First Punic War?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "How many books did Naevius' Bellum Punicum contain?",
+      "options": ["5", "6", "7", "8"],
+      "correct_answer": "7"
+    },
+    {
+      "question": "What grammarian arranged Naevius' Bellum Punicum into 7 Books?",
+      "options": ["Varro", "Donatus", "Lampadio", "Servius"],
+      "correct_answer": "Lampadio"
+    },
+    {
+      "question": "What are the titles of Naevius' two fabulae praetextae?",
+      "options": ["Amphitryon & Miles Gloriosus", "Menaechmi & Pseudolus", "Clastidium & Romulus", "Rudens & Curculio"],
+      "correct_answer": "Clastidium & Romulus"
+    },
+    {
+      "question": "Who wrote a fabula praetexta entitled Clastidium?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "Who wrote a fabula praetexta entitled Romulus?",
+      "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
+      "correct_answer": "Gnaeus Naevius"
     }
 ]
 }
