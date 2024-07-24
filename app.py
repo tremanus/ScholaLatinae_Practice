@@ -235,11 +235,33 @@ def advanced_result():
 def leaderboard():
     conn = get_db_connection()
     cur = conn.cursor()
-    cur.execute('SELECT username, score, quiztype FROM results ORDER BY quiztype, score DESC')
-    leaderboard_data = cur.fetchall()
+    
+    # Fetch top 10 results for each quiz type
+    cur.execute('''
+        SELECT username, score, quiztype 
+        FROM (
+            SELECT *, 
+                   ROW_NUMBER() OVER (PARTITION BY quiztype ORDER BY score DESC) as rn
+            FROM results
+        ) sub
+        WHERE rn <= 10
+        ORDER BY quiztype, score DESC
+    ''')
+    
+    all_results = cur.fetchall()
+    
+    # Separate results by quiz type
+    beginner_results = [r for r in all_results if r[2] == 'beginner']
+    intermediate_results = [r for r in all_results if r[2] == 'intermediate']
+    advanced_results = [r for r in all_results if r[2] == 'advanced']
+    
     cur.close()
     conn.close()
-    return render_template('leaderboard.html', leaderboard_data=leaderboard_data)
+    
+    return render_template('leaderboard.html', 
+                           beginner_results=beginner_results,
+                           intermediate_results=intermediate_results,
+                           advanced_results=advanced_results)
 
 def save_result(username, score, quiztype):
     conn = get_db_connection()
