@@ -250,7 +250,7 @@ def get_leaderboard(quiztype):
         FROM results
         WHERE quiztype = %s
         ORDER BY score DESC
-        LIMIT 10
+        LIMIT 12
     ''', (quiztype,))
     rows = cursor.fetchall()
     cursor.close()
