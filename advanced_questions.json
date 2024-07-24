@@ -2309,6 +2309,151 @@
       "question": "Who wrote a fabula praetexta entitled Romulus?",
       "options": ["Plautus", "Terence", "Gnaeus Naevius", "Ennius"],
       "correct_answer": "Gnaeus Naevius"
+    },
+    {
+      "question": "What was Plautus' full name?",
+      "options": ["Titus Maccius Plautus", "Marcus Plautus", "Gaius Plautus", "Lucius Plautus"],
+      "correct_answer": "Titus Maccius Plautus"
+    },
+    {
+      "question": "Where was Plautus born c. 254 BC?",
+      "options": ["Rome", "Naples", "Sarsina", "Capua"],
+      "correct_answer": "Sarsina"
+    },
+    {
+      "question": "Which author was born at Sarsina c. 254 BC?",
+      "options": ["Terence", "Ennius", "Plautus", "Livius Andronicus"],
+      "correct_answer": "Plautus"
+    },
+    {
+      "question": "In what year did Plautus die?",
+      "options": ["204 BC", "184 BC", "164 BC", "144 BC"],
+      "correct_answer": "184 BC"
+    },
+    {
+      "question": "What comic playwright was born at Sarsina c. 254 BC?",
+      "options": ["Terence", "Ennius", "Plautus", "Livius Andronicus"],
+      "correct_answer": "Plautus"
+    },
+    {
+      "question": "Which Broadway play is based on a compilation of Plautus' plays?",
+      "options": ["West Side Story", "A Funny Thing Happened on the Way to the Forum", "Cats", "Les Misérables"],
+      "correct_answer": "A Funny Thing Happened on the Way to the Forum"
+    },
+    {
+      "question": "The Broadway play 'A Funny Thing Happened on the Way to the Forum' is based on a compilation of which author's plays?",
+      "options": ["Terence", "Ennius", "Plautus", "Livius Andronicus"],
+      "correct_answer": "Plautus"
+    },
+    {
+      "question": "Varro said that if the Muses had spoken Latin they would have spoken the type that appeared in which author's plays?",
+      "options": ["Terence", "Ennius", "Plautus", "Livius Andronicus"],
+      "correct_answer": "Plautus"
+    },
+    {
+      "question": "Which play of Plautus deals with a clever slave who manages to steal away from the boastful soldier Pyrgopolyneices the girl loved by his young master?",
+      "options": ["Mostellaria", "Miles Gloriosus", "Aulularia", "Pseudolus"],
+      "correct_answer": "Miles Gloriosus"
+    },
+    {
+      "question": "What is the translation of 'Miles Gloriosus'?",
+      "options": ["The Haunted House", "The Pot of Gold", "The Braggart Soldier", "The Twin Brothers"],
+      "correct_answer": "The Braggart Soldier"
+    },
+    {
+      "question": "Which play of Plautus was his longest?",
+      "options": ["Mostellaria", "Miles Gloriosus", "Aulularia", "Pseudolus"],
+      "correct_answer": "Miles Gloriosus"
+    },
+    {
+      "question": "In Plautus' Miles Gloriosus, what boastful soldier is swindled out of his girl?",
+      "options": ["Tranio", "Pyrgopolyneices", "Ballio", "Euclio"],
+      "correct_answer": "Pyrgopolyneices"
+    },
+    {
+      "question": "Which play of Plautus deals with the slave Tranio who convinces his master's father that his house is haunted?",
+      "options": ["Mostellaria", "Miles Gloriosus", "Aulularia", "Pseudolus"],
+      "correct_answer": "Mostellaria"
+    },
+    {
+      "question": "What is the translation of 'Mostellaria'?",
+      "options": ["The Braggart Soldier", "The Pot of Gold", "The Haunted House", "The Twin Brothers"],
+      "correct_answer": "The Haunted House"
+    },
+    {
+      "question": "In Plautus' Mostellaria, what clever slave convinces his master's father that his house is haunted?",
+      "options": ["Pyrgopolyneices", "Tranio", "Ballio", "Euclio"],
+      "correct_answer": "Tranio"
+    },
+    {
+      "question": "Which play of Plautus deals with the misfortunes of a miser named Euclio who tries to hide his fortune?",
+      "options": ["Mostellaria", "Miles Gloriosus", "Aulularia", "Pseudolus"],
+      "correct_answer": "Aulularia"
+    },
+    {
+      "question": "What is the translation of 'Aulularia'?",
+      "options": ["The Braggart Soldier", "The Pot of Gold", "The Haunted House", "The Twin Brothers"],
+      "correct_answer": "The Pot of Gold"
+    },
+    {
+      "question": "In Plautus' Aulularia, what miser tries to hide his fortune?",
+      "options": ["Pyrgopolyneices", "Tranio", "Ballio", "Euclio"],
+      "correct_answer": "Euclio"
+    },
+    {
+      "question": "Which play of Plautus deals with a clever slave who tricks the pimp Ballio out of a girl his young master loves?",
+      "options": ["Mostellaria", "Miles Gloriosus", "Aulularia", "Pseudolus"],
+      "correct_answer": "Pseudolus"
+    },
+    {
+      "question": "In Plautus' Pseudolus, what pimp is swindled out of one of his girls?",
+      "options": ["Pyrgopolyneices", "Tranio", "Ballio", "Euclio"],
+      "correct_answer": "Ballio"
+    },
+    {
+      "question": "Which play of Plautus deals with twins separated at birth?",
+      "options": ["Mostellaria", "Miles Gloriosus", "Menaechmi", "Pseudolus"],
+      "correct_answer": "Menaechmi"
+    },
+    {
+      "question": "Which play of Plautus is the primary model for Shakespeare's Comedy of Errors?",
+      "options": ["Mostellaria", "Miles Gloriosus", "Menaechmi", "Pseudolus"],
+      "correct_answer": "Menaechmi"
+    },
+    {
+      "question": "Which play of Plautus deals with the confusion over Hercules' birth?",
+      "options": ["Amphitruo", "Miles Gloriosus", "Menaechmi", "Pseudolus"],
+      "correct_answer": "Amphitruo"
+    },
+    {
+      "question": "Which play of Plautus is the only one with a mythological subject?",
+      "options": ["Amphitruo", "Miles Gloriosus", "Menaechmi", "Pseudolus"],
+      "correct_answer": "Amphitruo"
+    },
+    {
+      "question": "Which play of Plautus deals with the efforts of a well-to-do father to ransom his son who has been taken prisoner of war?",
+      "options": ["Amphitruo", "Miles Gloriosus", "Captivi", "Pseudolus"],
+      "correct_answer": "Captivi"
+    },
+    {
+      "question": "Which play of Plautus mentions the imprisonment of Naevius?",
+      "options": ["Amphitruo", "Miles Gloriosus", "Captivi", "Pseudolus"],
+      "correct_answer": "Captivi"
+    },
+    {
+      "question": "Which play of Plautus has no female characters?",
+      "options": ["Amphitruo", "Miles Gloriosus", "Captivi", "Pseudolus"],
+      "correct_answer": "Captivi"
+    },
+    {
+      "question": "Which play of Plautus deals with a parasite of a young man who is in love with a courtesan?",
+      "options": ["Curculio", "Miles Gloriosus", "Captivi", "Pseudolus"],
+      "correct_answer": "Curculio"
+    },
+    {
+      "question": "Which play of Plautus was his shortest?",
+      "options": ["Curculio", "Miles Gloriosus", "Captivi", "Pseudolus"],
+      "correct_answer": "Curculio"
     }
 ]
 }
