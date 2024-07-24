@@ -2454,6 +2454,181 @@
       "question": "Which play of Plautus was his shortest?",
       "options": ["Curculio", "Miles Gloriosus", "Captivi", "Pseudolus"],
       "correct_answer": "Curculio"
+    },
+    {
+      "question": "What author was born in 239 BC at Rudiae in Calabria?",
+      "options": ["Quintus Ennius", "Gnaeus Naevius", "Marcus Pacuvius", "Titus Maccius Plautus"],
+      "correct_answer": "Quintus Ennius"
+    },
+    {
+      "question": "Where was Quintus Ennius born in 239 BC?",
+      "options": ["Rudiae (in Calabria)", "Rome", "Capua", "Sarsina"],
+      "correct_answer": "Rudiae (in Calabria)"
+    },
+    {
+      "question": "In what year did Quintus Ennius die?",
+      "options": ["169 BC", "204 BC", "184 BC", "130 BC"],
+      "correct_answer": "169 BC"
+    },
+    {
+      "question": "What author wrote an 18-book epic on Roman history entitled Annales?",
+      "options": ["Quintus Ennius", "Livius Andronicus", "Plautus", "Cato the Elder"],
+      "correct_answer": "Quintus Ennius"
+    },
+    {
+      "question": "How many books did Ennius' Annales contain?",
+      "options": ["18", "7", "12", "24"],
+      "correct_answer": "18"
+    },
+    {
+      "question": "Which work of Quintus Ennius is an 18-book epic poem on Roman history?",
+      "options": ["Annales", "Odussia", "Bellum Punicum", "Origines"],
+      "correct_answer": "Annales"
+    },
+    {
+      "question": "What author first adapted dactylic hexameter from Greek poetry into Latin?",
+      "options": ["Quintus Ennius", "Homer", "Virgil", "Ovid"],
+      "correct_answer": "Quintus Ennius"
+    },
+    {
+      "question": "What author made dactylic hexameter the official meter of Latin epic poetry?",
+      "options": ["Quintus Ennius", "Ovid", "Virgil", "Livius Andronicus"],
+      "correct_answer": "Quintus Ennius"
+    },
+    {
+      "question": "Who brought Quintus Ennius to Rome?",
+      "options": ["Cato the Elder", "Scipio Africanus", "Cicero", "Livius Andronicus"],
+      "correct_answer": "Cato the Elder"
+    },
+    {
+      "question": "What poet claimed that he had three hearts because he spoke Latin, Greek, and Oscan?",
+      "options": ["Quintus Ennius", "Cicero", "Homer", "Livius Andronicus"],
+      "correct_answer": "Quintus Ennius"
+    },
+    {
+      "question": "What three languages made up Ennius' three hearts?",
+      "options": ["Greek, Oscan, Latin", "Latin, Etruscan, Greek", "Latin, Greek, Phoenician", "Oscan, Etruscan, Latin"],
+      "correct_answer": "Greek, Oscan, Latin"
+    },
+    {
+      "question": "Who was the first Latin writer to compose Satire?",
+      "options": ["Quintus Ennius", "Horace", "Juvenal", "Persius"],
+      "correct_answer": "Quintus Ennius"
+    },
+    {
+      "question": "What nephew of Ennius was a famous tragedian?",
+      "options": ["Pacuvius", "Naevius", "Plautus", "Terence"],
+      "correct_answer": "Pacuvius"
+    },
+    {
+      "question": "What poet was the famous uncle of Pacuvius?",
+      "options": ["Quintus Ennius", "Homer", "Virgil", "Cicero"],
+      "correct_answer": "Quintus Ennius"
+    },
+    {
+      "question": "What was Pacuvius' full name?",
+      "options": ["Marcus Pacuvius", "Gaius Pacuvius", "Quintus Pacuvius", "Lucius Pacuvius"],
+      "correct_answer": "Marcus Pacuvius"
+    },
+    {
+      "question": "Where was Pacuvius in 220 BC?",
+      "options": ["Brundisium", "Rome", "Capua", "Sarsina"],
+      "correct_answer": "Brundisium"
+    },
+    {
+      "question": "In what year was Pacuvius born in Brundisium?",
+      "options": ["220 BC", "234 BC", "239 BC", "270 BC"],
+      "correct_answer": "220 BC"
+    },
+    {
+      "question": "In what year did Pacuvius die?",
+      "options": ["130 BC", "169 BC", "204 BC", "184 BC"],
+      "correct_answer": "130 BC"
+    },
+    {
+      "question": "What author did Cicero consider the \"greatest of Latin tragic poets\"?",
+      "options": ["Pacuvius", "Naevius", "Plautus", "Quintus Ennius"],
+      "correct_answer": "Pacuvius"
+    },
+    {
+      "question": "Who considered Pacuvius the greatest of Latin tragic poets?",
+      "options": ["Cicero", "Virgil", "Horace", "Ovid"],
+      "correct_answer": "Cicero"
+    },
+    {
+      "question": "Which work of Pacuvius depicts Orestes driven mad by the Furies?",
+      "options": ["Dulorestes", "Niptra", "Medea", "Pseudolus"],
+      "correct_answer": "Dulorestes"
+    },
+    {
+      "question": "What is the translation of Dulorestes?",
+      "options": ["Orestes the Slave", "Orestes the King", "Orestes the Hero", "Orestes the Madman"],
+      "correct_answer": "Orestes the Slave"
+    },
+    {
+      "question": "Who wrote the tragedies Dulorestes and Niptra?",
+      "options": ["Pacuvius", "Plautus", "Naevius", "Terence"],
+      "correct_answer": "Pacuvius"
+    },
+    {
+      "question": "Which work of Pacuvius depicts Ulysses' death at the hands of Telegonus?",
+      "options": ["Niptra", "Dulorestes", "Hecuba", "Ajax"],
+      "correct_answer": "Niptra"
+    },
+    {
+      "question": "What is the translation of Niptra?",
+      "options": ["The Bath", "The Shipwreck", "The Return", "The Quest"],
+      "correct_answer": "The Bath"
+    },
+    {
+      "question": "What is Cato the Elder's full name?",
+      "options": ["Marcus Porcius Cato", "Gaius Julius Caesar", "Lucius Cornelius Sulla", "Gnaeus Pompeius Magnus"],
+      "correct_answer": "Marcus Porcius Cato"
+    },
+    {
+      "question": "What author was born in 234 BC at Tusculum?",
+      "options": ["Cato the Elder", "Plautus", "Ennius", "Naevius"],
+      "correct_answer": "Cato the Elder"
+    },
+    {
+      "question": "Where was Cato the Elder born in 234 BC?",
+      "options": ["Tusculum", "Rome", "Brundisium", "Capua"],
+      "correct_answer": "Tusculum"
+    },
+    {
+      "question": "In what year was Cato the Elder born at Tusculum?",
+      "options": ["234 BC", "270 BC", "239 BC", "220 BC"],
+      "correct_answer": "234 BC"
+    },
+    {
+      "question": "In what year did Cato the Elder die?",
+      "options": ["149 BC", "130 BC", "169 BC", "184 BC"],
+      "correct_answer": "149 BC"
+    },
+    {
+      "question": "What author was called the \"Father of Latin Prose\"?",
+      "options": ["Cato the Elder", "Cicero", "Plautus", "Quintus Ennius"],
+      "correct_answer": "Cato the Elder"
+    },
+    {
+      "question": "Who was the first to write history in Latin?",
+      "options": ["Cato the Elder", "Livius Andronicus", "Quintus Ennius", "Plautus"],
+      "correct_answer": "Cato the Elder"
+    },
+    {
+      "question": "What author brought Quintius Ennius to Rome?",
+      "options": ["Cato the Elder", "Scipio Africanus", "Cicero", "Plautus"],
+      "correct_answer": "Cato the Elder"
+    },
+    {
+      "question": "What political office did Cato the Elder hold in 184 BC?",
+      "options": ["censor", "consul", "praetor", "aedile"],
+      "correct_answer": "censor"
+    },
+    {
+      "question": "What author, known for his old-fashioned and puritanical style, was called the \"father of Latin prose\"?",
+      "options": ["Cato the Elder", "Cicero", "Virgil", "Quintus Ennius"],
+      "correct_answer": "Cato the Elder"
     }
 ]
 }
