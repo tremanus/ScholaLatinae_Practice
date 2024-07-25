@@ -156,9 +156,21 @@ def intermediate_result():
     
     score = session.get('score', 0)
     username = session.get('username')
-    
+    last_submission_time = session.get('last_submission_time')
+
+    # Check if the last submission was within the last 20 seconds
+    if last_submission_time:
+        last_submission_time = datetime.strptime(last_submission_time, '%Y-%m-%d %H:%M:%S.%f')
+        time_since_last_submission = datetime.now() - last_submission_time
+        if time_since_last_submission < timedelta(seconds=20):
+            error_message = "You must wait 20 seconds between submissions."
+            return render_template('intermediate-result.html', score=score, username=username, error_message=error_message)
+
     # Save result to database
     save_result(username, score, 'intermediate')
+
+    # Update the last submission time
+    session['last_submission_time'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
     
     return render_template('intermediate-result.html', score=score, username=username)
 
@@ -213,9 +225,21 @@ def advanced_result():
     
     score = session.get('score', 0)
     username = session.get('username')
-    
-    # Save result to db
+    last_submission_time = session.get('last_submission_time')
+
+    # Check if the last submission was within the last 20 seconds
+    if last_submission_time:
+        last_submission_time = datetime.strptime(last_submission_time, '%Y-%m-%d %H:%M:%S.%f')
+        time_since_last_submission = datetime.now() - last_submission_time
+        if time_since_last_submission < timedelta(seconds=20):
+            error_message = "You must wait 20 seconds between submissions."
+            return render_template('advanced-result.html', score=score, username=username, error_message=error_message)
+
+    # Save result to database
     save_result(username, score, 'advanced')
+
+    # Update the last submission time
+    session['last_submission_time'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
     
     return render_template('advanced-result.html', score=score, username=username)
 
