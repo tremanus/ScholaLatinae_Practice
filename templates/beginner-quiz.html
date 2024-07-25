@@ -103,8 +103,12 @@
             background-color: #ffcccb;
         }
 
-        .no-hover:hover {
-            background-color: transparent;
+        .no-hover-correct {
+            background-color: #c8e6c9 !important; /* Correct answer background */
+        }
+
+        .no-hover-incorrect {
+            background-color: #ffcccb !important; /* Incorrect answer background */
         }
 
         input[type="submit"] {
@@ -207,27 +211,27 @@
             const selectedAnswerInput = document.getElementById('selected-answer');
             const nextButton = document.getElementById('next-button');
             const correctAnswer = "{{ question['correct_answer'] }}";
-
+        
             function disableOptions() {
                 options.forEach(option => {
                     option.style.pointerEvents = 'none'; // Disable click events
                 });
             }
-
+        
             options.forEach(option => {
                 option.addEventListener('click', () => {
                     // Remove classes from all options
-                    options.forEach(opt => opt.classList.remove('selected', 'correct', 'incorrect', 'no-hover'));
-
+                    options.forEach(opt => opt.classList.remove('selected', 'correct', 'incorrect', 'no-hover-correct', 'no-hover-incorrect'));
+        
                     const selectedValue = option.getAttribute('data-value');
                     option.classList.add('selected');
                     selectedAnswerInput.value = selectedValue;
-
+        
                     // Highlight the selected answer
                     if (selectedValue === correctAnswer) {
-                        option.classList.add('correct');
+                        option.classList.add('correct', 'no-hover-correct');
                     } else {
-                        option.classList.add('incorrect');
+                        option.classList.add('incorrect', 'no-hover-incorrect');
                         // Highlight the correct answer
                         options.forEach(opt => {
                             if (opt.getAttribute('data-value') === correctAnswer) {
@@ -235,18 +239,16 @@
                             }
                         });
                     }
-
-                    // Prevent hover effect on the selected option
-                    option.classList.add('no-hover');
-
+        
                     // Disable all options
                     disableOptions();
-
+        
                     // Show the "Next" button
                     nextButton.style.display = 'block';
                 });
             });
         });
-    </script>
+        </script>
+        
 </body>
 </html>
