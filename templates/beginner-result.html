@@ -58,6 +58,11 @@
         .button {
             margin-right: 20px;
         }
+        .error-message {
+            color: red;
+            margin-bottom: 20px;
+        }
+
         @media only screen and (max-width: 600px) {
             .container {
                 width: 90%; /* Make container 90% width on mobile */
@@ -109,6 +114,10 @@
     </div>
     <div class="container">
         <h1>Quiz Result</h1>
+        {% if error_message %}
+            <div class="error-message">{{ error_message }}</div>
+        {% endif %}
+
         <img src="https://i.ibb.co/nMphdZ6/image.png" alt="Quiz Image">
         <p>{{ score }} out of 10!</p>
         <a href="/leaderboard" class="button">Leaderboard</a>
