@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
     <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZDEJ71T2DV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZDEJ71T2DV"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-  gtag('config', 'G-ZDEJ71T2DV');
-</script>
+        gtag('config', 'G-ZDEJ71T2DV');
+    </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz</title>
@@ -208,6 +208,12 @@
             const nextButton = document.getElementById('next-button');
             const correctAnswer = "{{ question['correct_answer'] }}";
 
+            function disableOptions() {
+                options.forEach(option => {
+                    option.style.pointerEvents = 'none'; // Disable click events
+                });
+            }
+
             options.forEach(option => {
                 option.addEventListener('click', () => {
                     // Remove classes from all options
@@ -233,17 +239,14 @@
                     // Prevent hover effect on the selected option
                     option.classList.add('no-hover');
 
+                    // Disable all options
+                    disableOptions();
+
                     // Show the "Next" button
                     nextButton.style.display = 'block';
                 });
             });
         });
-    </script>
-    <script>
-        function toggleDropdown() {
-            const menu = document.getElementById('dropdownMenu');
-            menu.classList.toggle('active');
-        }
     </script>
 </body>
 </html>
