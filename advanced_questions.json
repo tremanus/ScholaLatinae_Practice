@@ -4074,6 +4074,1176 @@
         "question": "What did Mestra disguise as to escape from her first master?",
         "options": ["fisherman", "shepherd", "merchant", "slave"],
         "correct_answer": "fisherman"
+    },
+    {
+        "question": "To what deity does Heracles sacrifice at Cape Cenaeum?",
+        "options": ["Jupiter", "Apollo", "Neptune", "Mars"],
+        "correct_answer": "Jupiter"
+    },
+    {
+        "question": "What animal is believed to give birth through the mouth?",
+        "options": ["weasel", "snake", "lizard", "cat"],
+        "correct_answer": "weasel"
+    },
+    {
+        "question": "Who was transformed into an animal believed to give birth through the mouth?",
+        "options": ["Galanthis", "Daphne", "Io", "Callisto"],
+        "correct_answer": "Galanthis"
+    },
+    {
+        "question": "Who is called by the patronymic Pallantias, since she is sometimes said to be a daughter of the Titan Pallas?",
+        "options": ["Aurora", "Athena", "Hera", "Artemis"],
+        "correct_answer": "Aurora"
+    },
+    {
+        "question": "What patronymic does Ovid give Aurora?",
+        "options": ["Pallantias", "Herculea", "Apollonia", "Zeus"],
+        "correct_answer": "Pallantias"
+    },
+    {
+        "question": "What son of Apollo and Deione was believed by Minos to have been planning to rebel against him?",
+        "options": ["Miletus", "Orpheus", "Aesculapius", "Hyacinthus"],
+        "correct_answer": "Miletus"
+    },
+    {
+        "question": "Who has a dream where she “joins her body” with her brother?",
+        "options": ["Byblis", "Phaedra", "Iphigenia", "Electra"],
+        "correct_answer": "Byblis"
+    },
+    {
+        "question": "Who has to remember to erase the word “sister” whenever she accidentally refers to herself in a letter she writes to her brother?",
+        "options": ["Byblis", "Phaedra", "Sappho", "Ariadne"],
+        "correct_answer": "Byblis"
+    },
+    {
+        "question": "Who decided that the letter she wrote was read at a bad time by the slave to whom she had trusted?",
+        "options": ["Byblis", "Clytemenestra", "Dido", "Phyllis"],
+        "correct_answer": "Byblis"
+    },
+    {
+        "question": "What type of nymphs transform Byblis into a spring?",
+        "options": ["Lelegian nymphs", "Oceanid nymphs", "Dryad nymphs", "Naiad nymphs"],
+        "correct_answer": "Lelegian nymphs"
+    },
+    {
+        "question": "Lelegian nymphs transform WHOM into a spring?",
+        "options": ["Byblis", "Io", "Syrinx", "Echo"],
+        "correct_answer": "Byblis"
+    },
+    {
+        "question": "Who is accompanied by Anubis, Bubastis, Apis, Harpocrates, and Osiris when she tells Telethusa to raise the child with her husband Ligdus?",
+        "options": ["Isis", "Hathor", "Nephthys", "Selene"],
+        "correct_answer": "Isis"
+    },
+    {
+        "question": "Who was the daughter of Telestes?",
+        "options": ["Ianthe", "Phaedra", "Eurydice", "Helen"],
+        "correct_answer": "Ianthe"
+    },
+    {
+        "question": "Who was the father of Ianthe?",
+        "options": ["Telestes", "Euryalus", "Hippodamas", "Perseus"],
+        "correct_answer": "Telestes"
+    },
+    {
+        "question": "Who says that her love is even weirder than Pasiphae falling in love with a bull?",
+        "options": ["Iphis", "Myrrha", "Phyllis", "Scylla"],
+        "correct_answer": "Iphis"
+    },
+    {
+        "question": "Even the Furies cry because of WHOM?",
+        "options": ["Orpheus", "Psyche", "Eurydice", "Narcissus"],
+        "correct_answer": "Orpheus"
+    },
+    {
+        "question": "Whose astonishment is compared to the unnamed man who turned into stone out of fright from seeing Hercules bringing Cerberus into the upper world, and to Olenos and Lethaea?",
+        "options": ["Orpheus", "Eurydice", "Phaedra", "Dido"],
+        "correct_answer": "Orpheus"
+    },
+    {
+        "question": "What couple, where the wife boasted about his beauty and the husband tried to take the punishment upon himself, were turned to stone on Mt. Ida?",
+        "options": ["Olenos and Lethaea", "Pyramus and Thisbe", "Narcissus and Echo", "Cadmus and Harmonia"],
+        "correct_answer": "Olenos and Lethaea"
+    },
+    {
+        "question": "What were Olenos and Lethaea turned into?",
+        "options": ["stone", "trees", "animals", "flowers"],
+        "correct_answer": "stone"
+    },
+    {
+        "question": "Where were Olenos and Lethaea turned into stone?",
+        "options": ["Mt. Ida", "Mt. Olympus", "Mt. Parnassus", "Mt. Etna"],
+        "correct_answer": "Mt. Ida"
+    },
+    {
+        "question": "Who is compared to violets or poppies or lilies when someone steps on them?",
+        "options": ["Hyacinthus", "Adonis", "Tithonus", "Orpheus"],
+        "correct_answer": "Hyacinthus"
+    },
+    {
+        "question": "What group of promiscuous women were from Amathus?",
+        "options": ["Propoetides", "Nereids", "Muses", "Sirens"],
+        "correct_answer": "Propoetides"
+    },
+    {
+        "question": "Where were the Propoetides from?",
+        "options": ["Amathus", "Thebes", "Corinth", "Athens"],
+        "correct_answer": "Amathus"
+    },
+    {
+        "question": "What horned monsters who guarded an altar of Jupiter Hospes but killed their guests instead of honoring them?",
+        "options": ["Cerastae", "Satyrs", "Cyclopes", "Giants"],
+        "correct_answer": "Cerastae"
+    },
+    {
+        "question": "What feature did the Cerastae have?",
+        "options": ["horns", "wings", "scales", "claws"],
+        "correct_answer": "horns"
+    },
+    {
+        "question": "An altar of WHAT god was guarded by the Cerastae?",
+        "options": ["Jupiter Hospes", "Apollo", "Neptune", "Mars"],
+        "correct_answer": "Jupiter Hospes"
+    },
+    {
+        "question": "Who punished the Cerastae by transforming them into bulls?",
+        "options": ["Venus", "Minerva", "Juno", "Diana"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "Because they already had horns on their head, WHO were transformed into bulls by Venus?",
+        "options": ["Cerastae", "Satyrs", "Cyclopes", "Giants"],
+        "correct_answer": "Cerastae"
+    },
+    {
+        "question": "Into what were the Cerastae transformed by Venus as punishment for killing their guests instead of honoring them?",
+        "options": ["bulls", "pigs", "goats", "dogs"],
+        "correct_answer": "bulls"
+    },
+    {
+        "question": "What group denied Venus’s divinity and was punished by being the first prostitutes?",
+        "options": ["Propoetides", "Nereids", "Muses", "Siren"],
+        "correct_answer": "Propoetides"
+    },
+    {
+        "question": "Who turned the Propoetides into the first prostitutes?",
+        "options": ["Venus", "Apollo", "Diana", "Juno"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "What group became stone because the blood left their face due to their inability to blush and their loss of shame?",
+        "options": ["Propoetides", "Satyrs", "Giants", "Cyclopes"],
+        "correct_answer": "Propoetides"
+    },
+    {
+        "question": "What did the Propoetides become because the blood left their face due to their inability to blush and their loss of shame?",
+        "options": ["stone", "trees", "animals", "flowers"],
+        "correct_answer": "stone"
+    },
+    {
+        "question": "Who, seeing the behavior of the Propoetides, decided he hated women and refused to marry?",
+        "options": ["Pygmalion", "Orpheus", "Tithonus", "Aeneas"],
+        "correct_answer": "Pygmalion"
+    },
+    {
+        "question": "What group caused Myrrha to fall in love with her father Cinyras?",
+        "options": ["Furies", "Muses", "Graces", "Nereids"],
+        "correct_answer": "Furies"
+    },
+    {
+        "question": "Who was caused by the Furies to fall in love with her father?",
+        "options": ["Myrrha", "Phaedra", "Leda", "Helen"],
+        "correct_answer": "Myrrha"
+    },
+    {
+        "question": "Who justifies her incest to herself by citing animals who do it, and other regions where it’s acceptable for daughters to sleep with their fathers, and wishes she had been born there?",
+        "options": ["Myrrha", "Dido", "Jocasta", "Phyllis"],
+        "correct_answer": "Myrrha"
+    },
+    {
+        "question": "Who is about to hang herself because she wants to commit incest, but is saved by her nurse?",
+        "options": ["Myrrha", "Phaedra", "Medea", "Scylla"],
+        "correct_answer": "Myrrha"
+    },
+    {
+        "question": "Who celebrates a festival of Ceres, during which she’s not allowed to have sex for nine days?",
+        "options": ["Cenchreis", "Phyllis", "Medea", "Dido"],
+        "correct_answer": "Cenchreis"
+    },
+    {
+        "question": "What deity's festival does Cenchreis celebrate during which she’s not allowed to have sex for nine days?",
+        "options": ["Ceres", "Apollo", "Diana", "Jupiter"],
+        "correct_answer": "Ceres"
+    },
+    {
+        "question": "What 2 people's eyes are covered by the constellation Icarius and Erigone?",
+        "options": ["Cinyras and Myrrha", "Pyramus and Thisbe", "Narcissus and Echo", "Cadmus and Harmonia"],
+        "correct_answer": "Cinyras and Myrrha"
+    },
+    {
+        "question": "What 2 constellations cover the eyes of Cinyras and Myrrha when Myrrha enters his bedroom?",
+        "options": ["Icarius and Erigone", "Orion and Pleiades", "Aquila and Delphinus", "Lyra and Cygnus"],
+        "correct_answer": "Icarius and Erigone"
+    },
+    {
+        "question": "An owl 3 times makes its ill-omened cries when WHO enters her lover's bedroom?",
+        "options": ["Myrrha", "Phaedra", "Dido", "Helen"],
+        "correct_answer": "Myrrha"
+    },
+    {
+        "question": "What animal 3 times makes its ill-omened cry when Myrrha enters the bedroom of Cinyras?",
+        "options": ["owl", "dog", "crow", "hawk"],
+        "correct_answer": "owl"
+    },
+    {
+        "question": "When Cupid gives his mother Venus a kiss, he accidentally wounds her with an arrow, causing her to fall in love with WHOM?",
+        "options": ["Adonis", "Perseus", "Hercules", "Aeneas"],
+        "correct_answer": "Adonis"
+    },
+    {
+        "question": "Who made the temple of Cybele that Hippomenes and Atalanta sleep in?",
+        "options": ["Echion", "Perseus", "Theseus", "Cadmus"],
+        "correct_answer": "Echion"
+    },
+    {
+        "question": "What deity's temple does Echion, a Spartoi, make?",
+        "options": ["Cybele", "Apollo", "Jupiter", "Venus"],
+        "correct_answer": "Cybele"
+    },
+    {
+        "question": "What animal is turned to stone as it tries to attack the head of Orpheus?",
+        "options": ["snake", "lion", "bear", "eagle"],
+        "correct_answer": "snake"
+    },
+    {
+        "question": "Who turns a snake into stone when it tries to attack the head of Orpheus when it arrives at Lesbos?",
+        "options": ["Apollo", "Zeus", "Hermes", "Poseidon"],
+        "correct_answer": "Apollo"
+    },
+    {
+        "question": "A snake that tries to attack the head of Orpheus is transformed into WHAT?",
+        "options": ["stone", "gold", "fire", "water"],
+        "correct_answer": "stone"
+    },
+    {
+        "question": "What Phrygian king had learned the rites of Dionysus from Eumolpus and Orpheus?",
+        "options": ["Midas", "Gordius", "Meleager", "Phineas"],
+        "correct_answer": "Midas"
+    },
+    {
+        "question": "What 2 men had taught Midas the rites of Dionysus?",
+        "options": ["Eumolpus and Orpheus", "Zeus and Apollo", "Hermes and Dionysus", "Ares and Hephaestus"],
+        "correct_answer": "Eumolpus and Orpheus"
+    },
+    {
+        "question": "Whose rites are taught by Eumolpus and Orpheus to Midas?",
+        "options": ["Dionysus", "Apollo", "Athena", "Aphrodite"],
+        "correct_answer": "Dionysus"
+    },
+    {
+        "question": "To what region must Peleus go for killing Phocus?",
+        "options": ["Trachis", "Thebes", "Argos", "Sparta"],
+        "correct_answer": "Trachis"
+    },
+    {
+        "question": "Who transforms into an old woman at night to seduce Chione?",
+        "options": ["Apollo", "Hermes", "Zeus", "Apollo"],
+        "correct_answer": "Apollo"
+    },
+    {
+        "question": "What does Apollo transform himself into to seduce Chione?",
+        "options": ["old woman", "young man", "wolf", "eagle"],
+        "correct_answer": "old woman"
+    },
+    {
+        "question": "Who is killed by being shot in the tongue by Diana?",
+        "options": ["Chione", "Hyacinthus", "Phyllis", "Phaedra"],
+        "correct_answer": "Chione"
+    },
+    {
+        "question": "Who shoots Chione in the tongue which kills her?",
+        "options": ["Diana", "Apollo", "Artemis", "Hera"],
+        "correct_answer": "Diana"
+    },
+    {
+        "question": "On what body part does Diana shoot and kill Chione?",
+        "options": ["tongue", "arm", "leg", "chest"],
+        "correct_answer": "tongue"
+    },
+    {
+        "question": "Who embraces the dead Chione attempts to console Daedalion?",
+        "options": ["Ceyx", "Theseus", "Orpheus", "Jason"],
+        "correct_answer": "Ceyx"
+    },
+    {
+        "question": "Whose dead body is embraced by king Ceyx of Trachis?",
+        "options": ["Chione", "Diana", "Clytemnestra", "Polyxena"],
+        "correct_answer": "Chione"
+    },
+    {
+        "question": "What herdsman shows up to Trachis with a message for Peleus?",
+        "options": ["Onetor", "Pan", "Silenus", "Arcas"],
+        "correct_answer": "Onetor"
+    },
+    {
+        "question": "For whom did the herdsman Onetor have a message?",
+        "options": ["Peleus", "Hercules", "Theseus", "Achilles"],
+        "correct_answer": "Peleus"
+    },
+    {
+        "question": "Who prepares to go to Apollo’s oracle at Claros since he was disturbed by omens related to his brother’s death?",
+        "options": ["Ceyx", "Peleus", "Orestes", "Aeneas"],
+        "correct_answer": "Ceyx"
+    },
+    {
+        "question": "Where was there an oracle of Apollo that Ceyx was trying to go to to find out about his brother's death?",
+        "options": ["Claros", "Delphi", "Dodona", "Delos"],
+        "correct_answer": "Claros"
+    },
+    {
+        "question": "Who had an oracle at Claros that Ceyx was preparing to go to?",
+        "options": ["Apollo", "Hermes", "Zeus", "Hades"],
+        "correct_answer": "Apollo"
+    },
+    {
+        "question": "What Phlegyan was making Delphi inaccessible until Apollo challenged him to a boxing match in the form of a child and vanquished him?",
+        "options": ["Phorbas", "Eurytus", "Antaeus", "Geryon"],
+        "correct_answer": "Phorbas"
+    },
+    {
+        "question": "What people is Phorbas, the man who was making Delphi inaccessible, a part of?",
+        "options": ["Phlegyans", "Titans", "Giants", "Cyclopes"],
+        "correct_answer": "Phlegyans"
+    },
+    {
+        "question": "What city was Phorbas making inaccessible?",
+        "options": ["Delphi", "Athens", "Thebes", "Sparta"],
+        "correct_answer": "Delphi"
+    },
+    {
+        "question": "Who challenged Phorbas to a boxing match in the form of a child and killed him?",
+        "options": ["Apollo", "Hercules", "Theseus", "Ares"],
+        "correct_answer": "Apollo"
+    },
+    {
+        "question": "What type of contest did Apollo challenge Phorbas to, where he killed him?",
+        "options": ["Boxing", "Wrestling", "Chariot Racing", "Archery"],
+        "correct_answer": "Boxing"
+    },
+    {
+        "question": "What form did Apollo take to challenge Phorbas to a boxing match and kill him?",
+        "options": ["child", "wolf", "eagle", "old man"],
+        "correct_answer": "child"
+    },
+    {
+        "question": "The star Lucifer stays dark that night in mourning of WHOSE death?",
+        "options": ["Ceyx", "Phaeton", "Orpheus", "Pyramus"],
+        "correct_answer": "Ceyx"
+    },
+    {
+        "question": "What star stays dark on the night of Ceyx death to resemble mourning?",
+        "options": ["Lucifer", "Vesper", "Sirius", "Polaris"],
+        "correct_answer": "Lucifer"
+    },
+    {
+        "question": "Who sends Iris to visit the house of Somnus and tell him to send Alcyone a dream?",
+        "options": ["Juno", "Venus", "Diana", "Hera"],
+        "correct_answer": "Juno"
+    },
+    {
+        "question": "Who is sent by Juno to visit the house of Somnus and tell him to send Alcyone a dream?",
+        "options": ["Iris", "Hermes", "Apollo", "Nike"],
+        "correct_answer": "Iris"
+    },
+    {
+        "question": "Who is told by Iris to send Alcyone a dream?",
+        "options": ["Somnus", "Hades", "Morpheus", "Zeus"],
+        "correct_answer": "Somnus"
+    },
+    {
+        "question": "Whose home is doorless lest the creaking of the doors make noise, and is on the same island near the Cimmerians?",
+        "options": ["Somnus", "Elysium", "Hades", "Lethe"],
+        "correct_answer": "Somnus"
+    },
+    {
+        "question": "Who sends Morpheus to visit Alcyone?",
+        "options": ["Somnus", "Hades", "Apollo", "Jupiter"],
+        "correct_answer": "Somnus"
+    },
+    {
+        "question": "Whom does Somnus send to visit Alcyone?",
+        "options": ["Morpheus", "Thanatos", "Hypnos", "Phantasos"],
+        "correct_answer": "Morpheus"
+    },
+    {
+        "question": "Who takes on the form of Ceyx (without the man’s usual splendor, naked, and with wet hair and beard) and describes what happened to Alcyone in her dream?",
+        "options": ["Morpheus", "Iris", "Apollo", "Somnus"],
+        "correct_answer": "Morpheus"
+    },
+    {
+        "question": "Whose form does Morpheus take, without the man’s usual splendor, naked, and with wet hair and beard, when appearing to Alcyone in her dream?",
+        "options": ["Ceyx", "Zeus", "Hermes", "Orpheus"],
+        "correct_answer": "Ceyx"
+    },
+    {
+        "question": "What bird's nest in the sea remain calm because Aeolus keeps the wind in check?",
+        "options": ["Halcyons", "Eagles", "Swans", "Pelicans"],
+        "correct_answer": "Halcyons"
+    },
+    {
+        "question": "According to Ovid, a blue snake slithers in a bird's nest and eats 8 baby birds WHERE?",
+        "options": ["Aulis", "Delphi", "Troy", "Argos"],
+        "correct_answer": "Aulis"
+    },
+    {
+        "question": "Who lives in the center of the world, in a home with thousands of entrances and exits, with voices and whispers going back and forth, accompanied by the likes of Credulitas and Error?",
+        "options": ["Fama", "Hades", "Zeus", "Apollo"],
+        "correct_answer": "Fama"
+    },
+    {
+        "question": "What general region does Fama live in?",
+        "options": ["the center of the world", "the underworld", "Olympus", "the heavens"],
+        "correct_answer": "the center of the world"
+    },
+    {
+        "question": "Near what river did Achilles wound Telephus?",
+        "options": ["Caicus", "Euphrates", "Tiber", "Achelous"],
+        "correct_answer": "Caicus"
+    },
+    {
+        "question": "Who was wounded near the Caicus river?",
+        "options": ["Telephus", "Hector", "Ajax", "Paris"],
+        "correct_answer": "Telephus"
+    },
+    {
+        "question": "To prove his spear still works, WHO kills a random Lycian named Menoetes?",
+        "options": ["Achilles", "Hercules", "Theseus", "Perseus"],
+        "correct_answer": "Achilles"
+    },
+    {
+        "question": "What Lycian is killed by Achilles to prove that his spear still works in a battle against the invulnerable Cycnus?",
+        "options": ["Menoetes", "Clytemenestra", "Meleager", "Antilochus"],
+        "correct_answer": "Menoetes"
+    },
+    {
+        "question": "Who saw Caeneus' invulnerability and has the idea to beat him to the ground with oak / fir trees?",
+        "options": ["Monychus", "Eurytion", "Chiron", "Pholus"],
+        "correct_answer": "Monychus"
+    },
+    {
+        "question": "What type of creature was Monychus?",
+        "options": ["centaur", "giant", "nymph", "cyclops"],
+        "correct_answer": "centaur"
+    },
+    {
+        "question": "Whom did Monychus see, and subsequently kill?",
+        "options": ["Caeneus", "Hercules", "Orpheus", "Philoctetes"],
+        "correct_answer": "Caeneus"
+    },
+    {
+        "question": "According to Ovid, what type of tree did Monychus and other Centaurs use to kill Caeneus?",
+        "options": ["oak tree", "pine tree", "olive tree", "cypress tree"],
+        "correct_answer": "oak tree"
+    },
+    {
+        "question": "Who claimed that Caeneus was transformed into a golden bird?",
+        "options": ["Mopsus", "Tlepolemus", "Polydorus", "Aeneas"],
+        "correct_answer": "Mopsus"
+    },
+    {
+        "question": "Into what was Caeneus transformed?",
+        "options": ["golden bird", "silver tree", "bronze statue", "golden statue"],
+        "correct_answer": "golden bird"
+    },
+    {
+        "question": "Who was transformed into a golden bird?",
+        "options": ["Caeneus", "Narcissus", "Aeneas", "Polydorus"],
+        "correct_answer": "Caeneus"
+    },
+    {
+        "question": "Who complains that his father was snubbed in Nestor's narrative of the Lapiths vs Centaurs, since he had played an important role in defeating the Centaurs?",
+        "options": ["Tlepolemus", "Perseus", "Meleager", "Hercules"],
+        "correct_answer": "Tlepolemus"
+    },
+    {
+        "question": "Whose ashes did Hecuba take with her while being dragged away?",
+        "options": ["Hector", "Paris", "Achilles", "Polydorus"],
+        "correct_answer": "Hector"
+    },
+    {
+        "question": "Who took Hector's ashes with her while being dragged away?",
+        "options": ["Hecuba", "Andromache", "Helen", "Cassandra"],
+        "correct_answer": "Hecuba"
+    },
+    {
+        "question": "What does Hecuba leave on Hector's tomb?",
+        "options": ["a white hair", "a golden crown", "a piece of cloth", "a silver coin"],
+        "correct_answer": "a white hair"
+    },
+    {
+        "question": "On whose tomb did Hecuba leave a white hair?",
+        "options": ["Hector", "Paris", "Achilles", "Aeneas"],
+        "correct_answer": "Hector"
+    },
+    {
+        "question": "Who was the father of Telemus?",
+        "options": ["Eurymus", "Aeolus", "Oceanus", "Tethys"],
+        "correct_answer": "Eurymus"
+    },
+    {
+        "question": "Who was the son of Eurymus?",
+        "options": ["Telemus", "Misenus", "Glaucus", "Aeneas"],
+        "correct_answer": "Telemus"
+    },
+    {
+        "question": "Who saw that as soon as the fish touched the herbs in the grass, they fled back into the sea?",
+        "options": ["Glaucus", "Odysseus", "Aeneas", "Misenus"],
+        "correct_answer": "Glaucus"
+    },
+    {
+        "question": "What happened to the fish that Glaucus saw when they touched the herbs in the grass?",
+        "options": ["they fled back to the sea", "they turned into stone", "they changed color", "they began to sing"],
+        "correct_answer": "they fled back to the sea"
+    },
+    {
+        "question": "Who purified Glaucus of any mortal parts that remained?",
+        "options": ["Oceanus and Tethys", "Apollo and Artemis", "Zeus and Hera", "Poseidon and Amphitrite"],
+        "correct_answer": "Oceanus and Tethys"
+    },
+    {
+        "question": "Who was purified of any mortal parts that remained by Oceanus and Tethys?",
+        "options": ["Glaucus", "Misenus", "Telemus", "Aeneas"],
+        "correct_answer": "Glaucus"
+    },
+    {
+        "question": "How many times did Oceanus and Tethys sing a magical incantation to purify Glaucus?",
+        "options": ["9", "3", "7", "12"],
+        "correct_answer": "9"
+    },
+    {
+        "question": "Who sang a magical incantation 9 times to purify Glaucus?",
+        "options": ["Oceanus and Tethys", "Zeus and Hera", "Apollo and Artemis", "Poseidon and Amphitrite"],
+        "correct_answer": "Oceanus and Tethys"
+    },
+    {
+        "question": "What trumpeteer of his did Aeneas bury?",
+        "options": ["Misenus", "Polydorus", "Meleager", "Aeneas's father"],
+        "correct_answer": "Misenus"
+    },
+    {
+        "question": "Who was the father of Misenus?",
+        "options": ["Aeolus", "Poseidon", "Zeus", "Apollo"],
+        "correct_answer": "Aeolus"
+    },
+    {
+        "question": "What son of Aeolus was buried by Aeneas?",
+        "options": ["Misenus", "Odysseus", "Achilles", "Telemus"],
+        "correct_answer": "Misenus"
+    },
+    {
+        "question": "What profession did Misenus have?",
+        "options": ["trumpeteer", "warrior", "sailor", "poet"],
+        "correct_answer": "trumpeteer"
+    },
+    {
+        "question": "Who buried his trumpeteer Misenus?",
+        "options": ["Aeneas", "Odysseus", "Hercules", "Theseus"],
+        "correct_answer": "Aeneas"
+    },
+    {
+        "question": "Who grew so decrepit that she became just a voice?",
+        "options": ["Cumaean Sibyl", "Echo", "Nymphaea", "Morpheus"],
+        "correct_answer": "Cumaean Sibyl"
+    },
+    {
+        "question": "Who passed by the future site of Caieta?",
+        "options": ["Aeneas", "Hercules", "Achilles", "Perseus"],
+        "correct_answer": "Aeneas"
+    },
+    {
+        "question": "What future site did Aeneas pass?",
+        "options": ["Caieta", "Troy", "Rome", "Delphi"],
+        "correct_answer": "Caieta"
+    },
+    {
+        "question": "Who will Caieta be named after?",
+        "options": ["Aeneas's nurse", "Aeneas's wife", "Aeneas's daughter", "Aeneas's mother"],
+        "correct_answer": "Aeneas's nurse"
+    },
+    {
+        "question": "Who did Aeneas meet at Caieta?",
+        "options": ["Macareus", "Misenus", "Polydorus", "Glaucus"],
+        "correct_answer": "Macareus"
+    },
+    {
+        "question": "Who met Macareus at Caieta?",
+        "options": ["Aeneas", "Odysseus", "Hercules", "Perseus"],
+        "correct_answer": "Aeneas"
+    },
+    {
+        "question": "Whose expedition did Macareus survive?",
+        "options": ["Odysseus", "Aeneas", "Hercules", "Theseus"],
+        "correct_answer": "Odysseus"
+    },
+    {
+        "question": "What companion of his did Macareus notice among Aeneas's followers?",
+        "options": ["Achaemenides", "Misenus", "Telemachus", "Eurytion"],
+        "correct_answer": "Achaemenides"
+    },
+    {
+        "question": "Who noticed Achaemenides among Aeneas's followers?",
+        "options": ["Macareus", "Odysseus", "Achilles", "Perseus"],
+        "correct_answer": "Macareus"
+    },
+    {
+        "question": "Who accidentally left Achaemenides behind while fleeing from Polyphemus?",
+        "options": ["Odysseus", "Hercules", "Aeneas", "Telemachus"],
+        "correct_answer": "Odysseus"
+    },
+    {
+        "question": "While fleeing from whom did Odysseus leave behind Achaemenides?",
+        "options": ["Polyphemus", "Scylla", "Charybdis", "Circe"],
+        "correct_answer": "Polyphemus"
+    },
+    {
+        "question": "Who did Odysseus leave behind while fleeing from Polyphemus?",
+        "options": ["Achaemenides", "Misenus", "Telemachus", "Eurytion"],
+        "correct_answer": "Achaemenides"
+    },
+    {
+        "question": "Whose ships did Achaemenides see passing by?",
+        "options": ["Aeneas", "Odysseus", "Hercules", "Theseus"],
+        "correct_answer": "Aeneas"
+    },
+    {
+        "question": "Who saw Aeneas's ships passing by and begged them to take him on?",
+        "options": ["Achaemenides", "Misenus", "Polydorus", "Macareus"],
+        "correct_answer": "Achaemenides"
+    },
+    {
+        "question": "Who wandered in grief for 6 days after her lover disappeared?",
+        "options": ["Canens", "Pomona", "Venus", "Diana"],
+        "correct_answer": "Canens"
+    },
+    {
+        "question": "How many days did Canens wander in grief for after Picus's disappearance?",
+        "options": ["6", "3", "7", "10"],
+        "correct_answer": "6"
+    },
+    {
+        "question": "At what river did Canens whither away while singing?",
+        "options": ["Tiber", "Nile", "Po", "Danube"],
+        "correct_answer": "Tiber"
+    },
+    {
+        "question": "Who whithered away while singing on the Tiber river?",
+        "options": ["Canens", "Venus", "Diana", "Pomona"],
+        "correct_answer": "Canens"
+    },
+    {
+        "question": "What herald did Turnus send to Argyripa?",
+        "options": ["Venulus", "Aeneas", "Misenus", "Polydorus"],
+        "correct_answer": "Venulus"
+    },
+    {
+        "question": "Who sent the herald Venulus to Argyripa?",
+        "options": ["Turnus", "Aeneas", "Hercules", "Odysseus"],
+        "correct_answer": "Turnus"
+    },
+    {
+        "question": "Who was saved when the Greek fleet shipwrecked off of Cape Caphareus thanks to Minerva?",
+        "options": ["Diomedes", "Odysseus", "Achilles", "Agamemnon"],
+        "correct_answer": "Diomedes"
+    },
+    {
+        "question": "Who saved Diomedes from death when the Greek fleet crashed off of Cape Caphareus?",
+        "options": ["Minerva", "Apollo", "Jupiter", "Neptune"],
+        "correct_answer": "Minerva"
+    },
+    {
+        "question": "Which of Diomedes's companions said that Venus couldn't do anything more to them after all she'd done?",
+        "options": ["Acmon", "Misenus", "Glaucus", "Odysseus"],
+        "correct_answer": "Acmon"
+    },
+    {
+        "question": "Whose companion was Acmon?",
+        "options": ["Diomedes", "Aeneas", "Odysseus", "Hercules"],
+        "correct_answer": "Diomedes"
+    },
+    {
+        "question": "What was Acmon turned into?",
+        "options": ["bird", "fish", "tree", "stone"],
+        "correct_answer": "bird"
+    },
+    {
+        "question": "Whose hate did Acmon scorn?",
+        "options": ["Venus", "Minerva", "Jupiter", "Apollo"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "Whose cave was formerly held by Epimelid nymphs?",
+        "options": ["Pan", "Apollo", "Diana", "Hermes"],
+        "correct_answer": "Pan"
+    },
+    {
+        "question": "What nymphs formerly held a cave inhabited by Pan?",
+        "options": ["Epimelid nymphs", "Nereids", "Muses", "Dryads"],
+        "correct_answer": "Epimelid nymphs"
+    },
+    {
+        "question": "Who drove the Epimelid nymphs away from the cave?",
+        "options": ["an Apulian shepherd", "Hercules", "Odysseus", "Zeus"],
+        "correct_answer": "an Apulian shepherd"
+    },
+    {
+        "question": "What did the Apulian shepherd who drove the Epimelid nymphs away from the caves mock?",
+        "options": ["their dancing", "their singing", "their beauty", "their food"],
+        "correct_answer": "their dancing"
+    },
+    {
+        "question": "What was the Apulian shepherd turned into?",
+        "options": ["wild olive-tree", "pine tree", "oak tree", "stone"],
+        "correct_answer": "wild olive-tree"
+    },
+    {
+        "question": "What was the hometown of Turnus that Aeneas destroyed after he wins the war?",
+        "options": ["Ardea", "Troy", "Rome", "Carthage"],
+        "correct_answer": "Ardea"
+    },
+    {
+        "question": "Who destroyed the town of Ardea after the war with Turnus?",
+        "options": ["Aeneas", "Odysseus", "Hercules", "Achilles"],
+        "correct_answer": "Aeneas"
+    },
+    {
+        "question": "What rises from the city of Ardea's ashes?",
+        "options": ["heron", "eagle", "dove", "phoenix"],
+        "correct_answer": "heron"
+    },
+    {
+        "question": "From which city's ashes did a heron rise?",
+        "options": ["Ardea", "Troy", "Rome", "Carthage"],
+        "correct_answer": "Ardea"
+    },
+    {
+        "question": "Who ordered Numiclus to purify Aeneas?",
+        "options": ["Venus", "Jupiter", "Minerva", "Neptune"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "What river did Venus order to purify Aeneas?",
+        "options": ["Numiclus", "Tiber", "Po", "Danube"],
+        "correct_answer": "Numiclus"
+    },
+    {
+        "question": "Who became the god Indiges after death?",
+        "options": ["Aeneas", "Ascanius", "Remulus", "Acrota"],
+        "correct_answer": "Aeneas"
+    },
+    {
+        "question": "What god did Aeneas become after death?",
+        "options": ["Indiges", "Apollo", "Jupiter", "Mars"],
+        "correct_answer": "Indiges"
+    },
+    {
+        "question": "What city did Ascanius, Silvius, Latinus, Alba, Epytus, Capys, Capetus, Tiberinus, Remulus, Acrota, Aventinus, and Proca rule?",
+        "options": ["Alba Longa", "Rome", "Carthage", "Troy"],
+        "correct_answer": "Alba Longa"
+    },
+    {
+        "question": "What king of Alba Longa was struck by lightning?",
+        "options": ["Remulus", "Acrota", "Ascanius", "Capys"],
+        "correct_answer": "Remulus"
+    },
+    {
+        "question": "How did Remulus die?",
+        "options": ["struck by lightning", "poisoned", "stabbed", "drowned"],
+        "correct_answer": "struck by lightning"
+    },
+    {
+        "question": "Who was the brother of Remulus?",
+        "options": ["Acrota", "Ascanius", "Silvius", "Capys"],
+        "correct_answer": "Acrota"
+    },
+    {
+        "question": "Who was the brother of Acrota?",
+        "options": ["Remulus", "Ascanius", "Silvius", "Tiberinus"],
+        "correct_answer": "Remulus"
+    },
+    {
+        "question": "Who was sought after by all the satyrs and panes?",
+        "options": ["Pomona", "Ceres", "Diana", "Aphrodite"],
+        "correct_answer": "Pomona"
+    },
+    {
+        "question": "Who was sought after by even Silvanus and Priapus?",
+        "options": ["Pomona", "Ceres", "Diana", "Venus"],
+        "correct_answer": "Pomona"
+    },
+    {
+        "question": "Who frequently disguised as a reaper, plowman, soldier, and a fisherman to get a glimpse at his liver?",
+        "options": ["Vertumnus", "Mercury", "Apollo", "Jupiter"],
+        "correct_answer": "Vertumnus"
+    },
+    {
+        "question": "What man, who fought at Troy, was Anaxarete a descendant of?",
+        "options": ["Teucer", "Hector", "Aeneas", "Paris"],
+        "correct_answer": "Teucer"
+    },
+    {
+        "question": "What woman was the descendant of Teucer?",
+        "options": ["Anaxarete", "Hersilia", "Pomona", "Diana"],
+        "correct_answer": "Anaxarete"
+    },
+    {
+        "question": "What name is given to the statue which Anaxarete turned into?",
+        "options": ["Venus Prospiciens", "Venus Anadyomene", "Venus Victrix", "Venus Callipyge"],
+        "correct_answer": "Venus Prospiciens"
+    },
+    {
+        "question": "Who became the statue Venus Prospiciens?",
+        "options": ["Anaxarete", "Diana", "Pomona", "Hersilia"],
+        "correct_answer": "Anaxarete"
+    },
+    {
+        "question": "What Cypriot city was the statue of Venus Prospiciens put in?",
+        "options": ["Salamis", "Paphos", "Amathus", "Kourion"],
+        "correct_answer": "Salamis"
+    },
+    {
+        "question": "What deity opened one of the doors to the Sabines?",
+        "options": ["Juno", "Venus", "Apollo", "Mars"],
+        "correct_answer": "Juno"
+    },
+    {
+        "question": "What deity asked naiads in a cold spring near the gateway of Janus to block the path of the Sabines?",
+        "options": ["Venus", "Juno", "Minerva", "Ceres"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "Who did Venus ask to block the path of the Sabines?",
+        "options": ["naiads", "dryads", "nymphs", "Fates"],
+        "correct_answer": "naiads"
+    },
+    {
+        "question": "Near the gateway of WHICH god did the naiads asked for help by Venus live?",
+        "options": ["Janus", "Neptune", "Apollo", "Mercury"],
+        "correct_answer": "Janus"
+    },
+    {
+        "question": "What do naiads use to heat the cold spring they're in to the boiling point?",
+        "options": ["sulphur and pitch", "fire and brimstone", "salt and heat", "charcoal and lava"],
+        "correct_answer": "sulphur and pitch"
+    },
+    {
+        "question": "Whose path did naiads block after overflowing a spring near the gate of Janus?",
+        "options": ["Sabines", "Romans", "Greeks", "Trojan allies"],
+        "correct_answer": "Sabines"
+    },
+    {
+        "question": "Who was visited by Iris and led to the Quirinal?",
+        "options": ["Hersilia", "Diana", "Pomona", "Ceres"],
+        "correct_answer": "Hersilia"
+    },
+    {
+        "question": "Who visited Hersilia and led her to the Quirinal?",
+        "options": ["Iris", "Mercury", "Apollo", "Venus"],
+        "correct_answer": "Iris"
+    },
+    {
+        "question": "Who was Hersilia deified as?",
+        "options": ["Hora", "Pomona", "Venus", "Juno"],
+        "correct_answer": "Hora"
+    },
+    {
+        "question": "On which hill was Hersilia deified?",
+        "options": ["Quirinal", "Capitoline", "Palatine", "Aventine"],
+        "correct_answer": "Quirinal"
+    },
+    {
+        "question": "What fell from the sky, resulting in Hersilia being deified as Hora?",
+        "options": ["comet", "thunderbolt", "rain", "fire"],
+        "correct_answer": "comet"
+    },
+    {
+        "question": "Who does Pythagoras claim to be in a previous life during the Trojan War?",
+        "options": ["Euphorbus", "Hector", "Achilles", "Paris"],
+        "correct_answer": "Euphorbus"
+    },
+    {
+        "question": "Who was the father of Euphorbus?",
+        "options": ["Panthous", "Hector", "Priam", "Paris"],
+        "correct_answer": "Panthous"
+    },
+    {
+        "question": "Who was the son of Panthous?",
+        "options": ["Euphorbus", "Hector", "Aeneas", "Paris"],
+        "correct_answer": "Euphorbus"
+    },
+    {
+        "question": "Who claimed to be Euphorbus in a previous life during the Trojan War?",
+        "options": ["Pythagoras", "Plato", "Socrates", "Aristotle"],
+        "correct_answer": "Pythagoras"
+    },
+    {
+        "question": "What river was made undrinkable after Centaurs washed their wounds there?",
+        "options": ["Anigrus", "Styx", "Tiber", "Nile"],
+        "correct_answer": "Anigrus"
+    },
+    {
+        "question": "Who washed their wounds in the Anigrus river after being defeated by Heracles, making it undrinkable?",
+        "options": ["Centaurs", "Giants", "Titans", "Nymphs"],
+        "correct_answer": "Centaurs"
+    },
+    {
+        "question": "Which region has a river that has the power to set wood on fire?",
+        "options": ["Epirus", "Arcadia", "Boetia", "Macedonia"],
+        "correct_answer": "Epirus"
+    },
+    {
+        "question": "What does a river in Epirus have the power to do?",
+        "options": ["set wood on fire", "turn things to stone", "heal wounds", "cause floods"],
+        "correct_answer": "set wood on fire"
+    },
+    {
+        "question": "What happened to things submerged in a river in the territory of the Ciconians?",
+        "options": ["they turned to stone", "they floated away", "they dissolved", "they became invisible"],
+        "correct_answer": "they turned to stone"
+    },
+    {
+        "question": "In what tribe's territory did a river turn things submerged in it to stone?",
+        "options": ["Ciconians", "Thracians", "Arcadians", "Macedonians"],
+        "correct_answer": "Ciconians"
+    },
+    {
+        "question": "What lake cures drunkenness?",
+        "options": ["Clitorian lake", "Acheron lake", "Triton lake", "Nereus lake"],
+        "correct_answer": "Clitorian lake"
+    },
+    {
+        "question": "What does the Clitorian lake cure?",
+        "options": ["drunkenness", "blindness", "fever", "madness"],
+        "correct_answer": "drunkenness"
+    },
+    {
+        "question": "What river has the opposite effect of the Clitorian lake?",
+        "options": ["Lyncestis River", "Tiber River", "Styx River", "Acheron River"],
+        "correct_answer": "Lyncestis River"
+    },
+    {
+        "question": "What river has harmful effects only when drunk at night?",
+        "options": ["Styx", "Lyncestis", "Tiber", "Anigrus"],
+        "correct_answer": "Styx"
+    },
+    {
+        "question": "When does the Styx have harmful effects?",
+        "options": ["at night", "during the day", "at dawn", "at dusk"],
+        "correct_answer": "at night"
+    },
+    {
+        "question": "Who saw a clod of earth start moving and transform into a man named Tages?",
+        "options": ["an Etruscan farmer", "a Roman soldier", "a Greek merchant", "a Latin priest"],
+        "correct_answer": "an Etruscan farmer"
+    },
+    {
+        "question": "Into who did an Etruscan farmer see a clod of earth transform?",
+        "options": ["Tages", "Euphorbus", "Aeneas", "Pan"],
+        "correct_answer": "Tages"
+    },
+    {
+        "question": "What did Tages teach the Etruscans?",
+        "options": ["divination", "farming", "music", "warfare"],
+        "correct_answer": "divination"
+    },
+    {
+        "question": "Whom did Tages teach divination?",
+        "options": ["Etruscans", "Romans", "Greeks", "Carthaginians"],
+        "correct_answer": "Etruscans"
+    },
+    {
+        "question": "Who saw his spear suddenly become a willow tree?",
+        "options": ["Romulus", "Aeneas", "Hercules", "Jupiter"],
+        "correct_answer": "Romulus"
+    },
+    {
+        "question": "What did Romulus's spear suddenly become?",
+        "options": ["a willow tree", "a golden staff", "a serpent", "a laurel branch"],
+        "correct_answer": "a willow tree"
+    },
+    {
+        "question": "On which hill did Romulus's spear suddenly become a willow tree?",
+        "options": ["Palatine", "Capitoline", "Aventine", "Quirinal"],
+        "correct_answer": "Palatine"
+    },
+    {
+        "question": "Who saw horns on his forehead when he looked at himself in a river?",
+        "options": ["Cipus", "Romulus", "Aeneas", "Hercules"],
+        "correct_answer": "Cipus"
+    },
+    {
+        "question": "What position did Cipus hold?",
+        "options": ["praetor", "consul", "tribune", "quaestor"],
+        "correct_answer": "praetor"
+    },
+    {
+        "question": "What was the full name of Cipus?",
+        "options": ["Genucius Cipus", "Lucius Junius", "Marcus Tullius", "Gaius Sempronius"],
+        "correct_answer": "Genucius Cipus"
+    },
+    {
+        "question": "What did Cipus's horns mean he would be?",
+        "options": ["a future king of Rome", "a high priest", "a military leader", "a great general"],
+        "correct_answer": "a future king of Rome"
+    },
+    {
+        "question": "Who interpreted the sign of Cipus's horns?",
+        "options": ["an Etruscan haruspex", "a Roman augur", "a Greek oracle", "a Sibyl"],
+        "correct_answer": "an Etruscan haruspex"
+    },
+    {
+        "question": "What does Cipus cover his horns with?",
+        "options": ["a laurel wreath", "a golden crown", "a silk veil", "a headband"],
+        "correct_answer": "a laurel wreath"
+    },
+    {
+        "question": "Whom does Cipus summon?",
+        "options": ["the senate and the people", "the military leaders", "the priests and augurs", "the citizens of Rome"],
+        "correct_answer": "the senate and the people"
+    },
+    {
+        "question": "Who does Cipus tell the senate and the people to exile?",
+        "options": ["a man with horns on his forehead", "a foreigner", "a traitor", "a political rival"],
+        "correct_answer": "a man with horns on his forehead"
+    },
+    {
+        "question": "Who was allowed as much land outside the city as he could plow in one day?",
+        "options": ["Cipus", "Romulus", "Aeneas", "Cincinnatus"],
+        "correct_answer": "Cipus"
+    },
+    {
+        "question": "Whose horns were sculpted on the Porta Rauduscula?",
+        "options": ["Cipus", "Romulus", "Aeneas", "Julius Caesar"],
+        "correct_answer": "Cipus"
+    },
+    {
+        "question": "Where was an image of Cipus's horns sculpted?",
+        "options": ["Porta Rauduscula", "Capitoline Hill", "Palatine Hill", "Forum Romanum"],
+        "correct_answer": "Porta Rauduscula"
+    },
+    {
+        "question": "What is the translation for the Porta Rauduscula?",
+        "options": ["bronze gates", "silver gates", "iron gates", "golden gates"],
+        "correct_answer": "bronze gates"
+    },
+    {
+        "question": "Who visits a Roman in a dream and tells him to look for a snake like the one wrapped around his staff?",
+        "options": ["Aesculapius", "Apollo", "Mercury", "Jupiter"],
+        "correct_answer": "Aesculapius"
+    },
+    {
+        "question": "What city's people were deciding whether to let the Romans have Aesculapius?",
+        "options": ["Epidaurus", "Athens", "Sparta", "Corinth"],
+        "correct_answer": "Epidaurus"
+    },
+    {
+        "question": "Whom does Aesculapius tell to look for a snake like the one wrapped around his staff?",
+        "options": ["a Roman", "a Greek", "a Latin", "a Carthaginian"],
+        "correct_answer": "a Roman"
+    },
+    {
+        "question": "Where do the Romans briefly stop on the way back from Epidaurus?",
+        "options": ["Antium", "Puteoli", "Ostia", "Cumae"],
+        "correct_answer": "Antium"
+    },
+    {
+        "question": "What group comes out to see the snake god (Aesculapius)?",
+        "options": ["Vestal Virgins", "Augurs", "Senators", "Plebeians"],
+        "correct_answer": "Vestal Virgins"
+    },
+    {
+        "question": "What god do the Vestal Virgins come out to see?",
+        "options": ["Aesculapius", "Apollo", "Mars", "Jupiter"],
+        "correct_answer": "Aesculapius"
+    },
+    {
+        "question": "Where does Aesculapius settle in the form of a snake?",
+        "options": ["Tiber Island", "Capitoline Hill", "Palatine Hill", "Aventine Hill"],
+        "correct_answer": "Tiber Island"
+    },
+    {
+        "question": "Who settles on the Tiber Island in the form of a snake?",
+        "options": ["Aesculapius", "Apollo", "Jupiter", "Mercury"],
+        "correct_answer": "Aesculapius"
+    },
+    {
+        "question": "What does Ovid say Caesar's best accomplishment was?",
+        "options": ["being the father of Augustus", "conquering Gaul", "defeating Pompey", "establishing the empire"],
+        "correct_answer": "being the father of Augustus"
+    },
+    {
+        "question": "Being the father of Augustus was whose best accomplishment according to Ovid?",
+        "options": ["Caesar", "Augustus", "Pompey", "Marc Antony"],
+        "correct_answer": "Caesar"
+    },
+    {
+        "question": "What descendant of hers does Venus unsuccessfully try to save preceding his assassination?",
+        "options": ["Caesar", "Aeneas", "Romulus", "Hector"],
+        "correct_answer": "Caesar"
+    },
+    {
+        "question": "Who unsuccessfully tries to save her descendant Caesar?",
+        "options": ["Venus", "Jupiter", "Minerva", "Diana"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "Who forbids Venus from hiding Caesar in a cloud?",
+        "options": ["Jupiter", "Mars", "Apollo", "Mercury"],
+        "correct_answer": "Jupiter"
+    },
+    {
+        "question": "Who does Venus try to hide in a cloud?",
+        "options": ["Caesar", "Aeneas", "Romulus", "Hector"],
+        "correct_answer": "Caesar"
+    },
+    {
+        "question": "Who tries to hide Caesar in a cloud?",
+        "options": ["Venus", "Jupiter", "Minerva", "Mars"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "Where does Venus try to hide Caesar?",
+        "options": ["in a cloud", "in the underworld", "on a mountain", "in the sea"],
+        "correct_answer": "in a cloud"
+    },
+    {
+        "question": "Whose deeds did Jupiter predict?",
+        "options": ["Augustus", "Caesar", "Romulus", "Aeneas"],
+        "correct_answer": "Augustus"
+    },
+    {
+        "question": "Who predicts the deeds of Augustus?",
+        "options": ["Jupiter", "Venus", "Apollo", "Mars"],
+        "correct_answer": "Jupiter"
+    },
+    {
+        "question": "What did Venus turn Caesar into?",
+        "options": ["a comet", "a star", "a serpent", "a bird"],
+        "correct_answer": "a comet"
+    },
+    {
+        "question": "Who turned Caesar into a comet?",
+        "options": ["Venus", "Jupiter", "Apollo", "Mars"],
+        "correct_answer": "Venus"
+    },
+    {
+        "question": "Who does Venus turn into a comet?",
+        "options": ["Caesar", "Aeneas", "Romulus", "Hector"],
+        "correct_answer": "Caesar"
+    },
+    {
+        "question": "Whom does Ovid pray to have a long life?",
+        "options": ["Augustus", "Caesar", "Romulus", "Aeneas"],
+        "correct_answer": "Augustus"
     }
 ]
 }
