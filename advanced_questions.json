@@ -2989,6 +2989,221 @@
       "question": "Which Christian author wrote a Chronica which details history from Constantine to the death of Valens?",
       "options": ["Jerome", "Augustine", "Eusebius", "Irenaeus"],
       "correct_answer": "Jerome"
+    },
+    {
+        "question": "What group joined the horses to Apollo/Sol's chariot when Phaethon drove it?",
+        "options": ["Horae", "Muses", "Graces", "Fates"],
+        "correct_answer": "Horae"
+    },
+    {
+        "question": "What did Apollo warn Phaethon not to do?",
+        "options": ["Not to go too high or too low", "Not to let go of the reins", "Not to drive the chariot at night", "Not to drive too fast"],
+        "correct_answer": "Not to go too high or too low"
+    },
+    {
+        "question": "What Latin phrase came from Apollo warning Phaethon not to go too high or too low?",
+        "options": ["medio tutissimus ibis", "in medio tutissimus", "medio in tutissimus", "medio tutus ibit"],
+        "correct_answer": "medio tutissimus ibis"
+    },
+    {
+        "question": "Who were the 4 horses who drove Apollo's chariot?",
+        "options": ["Pyrois, Eous, Aethon, Phlegon", "Aethon, Pyrois, Eous, Phlegon", "Phlegon, Aethon, Pyrois, Eous", "Eous, Phlegon, Pyrois, Aethon"],
+        "correct_answer": "Pyrois, Eous, Aethon, Phlegon"
+    },
+    {
+        "question": "Who were Pyrois, Eous, Aethon, and Phlegon?",
+        "options": ["The horses who drove Apollo's chariot", "The Titans who challenged Zeus", "The Nymphs who guarded the forest", "The giants who fought the gods"],
+        "correct_answer": "The horses who drove Apollo's chariot"
+    },
+    {
+        "question": "Which constellation scared Phaethon and resulted in him letting go of the reins?",
+        "options": ["Scorpio", "Orion", "Leo", "Virgo"],
+        "correct_answer": "Scorpio"
+    },
+    {
+        "question": "Who was scared by the constellation Scorpio?",
+        "options": ["Phaethon", "Apollo", "Helios", "Hercules"],
+        "correct_answer": "Phaethon"
+    },
+    {
+        "question": "Which people became dark-skinned as a result of Phaethon's actions?",
+        "options": ["Ethiopians", "Libyans", "Egyptians", "Arabs"],
+        "correct_answer": "Ethiopians"
+    },
+    {
+        "question": "Who caused Ethiopians to be dark-skinned and the Libyan desert to be created?",
+        "options": ["Phaethon", "Apollo", "Zeus", "Hades"],
+        "correct_answer": "Phaethon"
+    },
+    {
+        "question": "What desert was created after Phaethon crashed?",
+        "options": ["Libyan Desert", "Sahara Desert", "Gobi Desert", "Kalahari Desert"],
+        "correct_answer": "Libyan Desert"
+    },
+    {
+        "question": "What body of water hid its head after Phaethon crashed?",
+        "options": ["Nile River", "Tiber River", "Euphrates River", "Jordan River"],
+        "correct_answer": "Nile River"
+    },
+    {
+        "question": "What does the Nile hiding its head explain?",
+        "options": ["Nile Delta", "Nile Falls", "Nile Basin", "Nile Source"],
+        "correct_answer": "Nile Delta"
+    },
+    {
+        "question": "How many days did Apollo allow to go by without the sun?",
+        "options": ["1", "3", "7", "10"],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Who allowed one day to go by without the sun after Phaethon crashed?",
+        "options": ["Apollo", "Zeus", "Helios", "Hermes"],
+        "correct_answer": "Apollo"
+    },
+    {
+        "question": "What group do Phaethusa and Lampetie belong to?",
+        "options": ["Heliades", "Naiads", "Muses", "Charites"],
+        "correct_answer": "Heliades"
+    },
+    {
+        "question": "Who runs back and forth trying in vain to give her daughters a last kiss as they are turned into poplar trees?",
+        "options": ["Clymene", "Leto", "Rhea", "Demeter"],
+        "correct_answer": "Clymene"
+    },
+    {
+        "question": "What does Clymene try to pull off of her daughter's bodies as they are turned into poplar trees?",
+        "options": ["Bark", "Leaves", "Branches", "Fruit"],
+        "correct_answer": "Bark"
+    },
+    {
+        "question": "What bird refuses to fly into the sky, holding a grudge against Jupiter for killing Phaethon?",
+        "options": ["Swan", "Eagle", "Raven", "Owl"],
+        "correct_answer": "Swan"
+    },
+    {
+        "question": "Why do swans refuse to fly in the sky?",
+        "options": ["Because Jupiter killed Phaethon", "Because they are mourning Phaethon", "Because they are cursed", "Because they are injured"],
+        "correct_answer": "Because Jupiter killed Phaethon"
+    },
+    {
+        "question": "Who does Apollo blame for the death of Phaethon?",
+        "options": ["The horses", "Himself", "Zeus", "Phaethon"],
+        "correct_answer": "The horses"
+    },
+    {
+        "question": "What did Ovid call Callisto?",
+        "options": ["The Nonacrian maiden", "The Arcadian nymph", "The Thessalian goddess", "The Delian maiden"],
+        "correct_answer": "The Nonacrian maiden"
+    },
+    {
+        "question": "Who was referred to as the Nonacrian maiden by Ovid?",
+        "options": ["Callisto", "Daphne", "Io", "Europa"],
+        "correct_answer": "Callisto"
+    },
+    {
+        "question": "Whose eyes decorated Juno's peacocks?",
+        "options": ["Argus", "Aegis", "Atlas", "Cerberus"],
+        "correct_answer": "Argus"
+    },
+    {
+        "question": "Argus's eyes decorated what animal?",
+        "options": ["Peacock", "Eagle", "Swan", "Falcon"],
+        "correct_answer": "Peacock"
+    },
+    {
+        "question": "Juno's peacocks are compared to what bird?",
+        "options": ["The raven", "The dove", "The owl", "The eagle"],
+        "correct_answer": "The raven"
+    },
+    {
+        "question": "Who was the first to notice Coronis committing adultery with Ischys?",
+        "options": ["The raven", "The owl", "The crow", "The eagle"],
+        "correct_answer": "The raven"
+    },
+    {
+        "question": "What was the crow sometimes called?",
+        "options": ["Cornix", "Rara", "Corydon", "Corvus"],
+        "correct_answer": "Cornix"
+    },
+    {
+        "question": "Who was sometimes called Cornix?",
+        "options": ["The crow", "The raven", "The vulture", "The eagle"],
+        "correct_answer": "The crow"
+    },
+    {
+        "question": "Who was the red-haired daughter of Chiron and Chariclo?",
+        "options": ["Ocyroe", "Chione", "Melanippe", "Psyche"],
+        "correct_answer": "Ocyroe"
+    },
+    {
+        "question": "Who were the parents of Ocyroe?",
+        "options": ["Chiron and Chariclo", "Apollo and Daphne", "Zeus and Leto", "Hermes and Aphrodite"],
+        "correct_answer": "Chiron and Chariclo"
+    },
+    {
+        "question": "What was Ocyroe turned into after the gods got mad at her for revealing too much?",
+        "options": ["Horse", "Tree", "Stone", "Mountain"],
+        "correct_answer": "Horse"
+    },
+    {
+        "question": "Who was turned into a horse for revealing too much?",
+        "options": ["Ocyroe", "Io", "Callisto", "Arachne"],
+        "correct_answer": "Ocyroe"
+    },
+    {
+        "question": "What does Mercury bribe Battus with in order for him to not tell Apollo that he stole his cattle?",
+        "options": ["A bright-white cow", "A golden lamb", "A silver goat", "A blue horse"],
+        "correct_answer": "A bright-white cow"
+    },
+    {
+        "question": "Who bribes Battus with a bright-white cow?",
+        "options": ["Mercury", "Apollo", "Zeus", "Hermes"],
+        "correct_answer": "Mercury"
+    },
+    {
+        "question": "What does Battus say after promising not to tell anyone?",
+        "options": ["This stone will snitch before I do", "I swear by the gods", "Not a word will escape my lips", "I am loyal to my oath"],
+        "correct_answer": "This stone will snitch before I do"
+    },
+    {
+        "question": "What old man in mythology said 'this stone will snitch before I do'?",
+        "options": ["Battus", "Nestor", "Tiresias", "Chiron"],
+        "correct_answer": "Battus"
+    },
+    {
+        "question": "What does Mercury bribe Battus with while transformed as an old man?",
+        "options": ["A bull and a cow", "A horse and a goat", "A sheep and a lamb", "A calf and a pig"],
+        "correct_answer": "A bull and a cow"
+    },
+    {
+        "question": "What place, a cold and dismal place with no light or wind, did Minerva visit?",
+        "options": ["Abode of Envy", "Underworld", "Cave of Shadows", "Elysian Fields"],
+        "correct_answer": "Abode of Envy"
+    },
+    {
+        "question": "What was Envy eating when she saw the beautiful Minerva?",
+        "options": ["Snake meat", "Roasted goat", "Flesh of a lion", "Boiled fish"],
+        "correct_answer": "Snake meat"
+    },
+    {
+        "question": "Who's described as pale, emaciated, crooked-eyed, teeth foul with mold, full of poisonous gall, never smiling except at someone else's pain, and always tortured by others' successes?",
+        "options": ["Envy", "Nemesis", "Fury", "Despair"],
+        "correct_answer": "Envy"
+    },
+    {
+        "question": "Who entered Aglaurus's bedroom and infected her?",
+        "options": ["Envy", "Aphrodite", "Hera", "Athena"],
+        "correct_answer": "Envy"
+    },
+    {
+        "question": "With what did Envy touch Aglaurus?",
+        "options": ["Her rust-colored hand", "A cursed staff", "A venomous snake", "A darkened cloak"],
+        "correct_answer": "Her rust-colored hand"
+    },
+    {
+        "question": "Who was infected by Envy?",
+        "options": ["Aglaurus", "Eris", "Psyche", "Phaedra"],
+        "correct_answer": "Aglaurus"
     }
 ]
 }
